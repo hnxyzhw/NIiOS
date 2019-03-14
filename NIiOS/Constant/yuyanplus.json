@@ -1,0 +1,113 @@
+[{
+        "title": "0.BaseViewController-基类封装相关",
+        "body": [
+            "0.网络监测 & 版本控制(网络状态开关试试)",
+            "1.继承自NIBaseViewController后 NIBaseTableViewController里自定义方法.",
+            "2.iOS开发中nil、Nil、NULL和[NSNull null]的区别",
+            "3.Xcode 10.1 代码段使用-提升开发效率&d速度",
+            "4.防截屏、防录像操作-这个要引起重视：一定记得陈鹏说的一种取App用户名、密码情况！！！"
+        ]
+    },
+    {
+        "title": "1.工具 & UI",
+        "body": [
+            "0.网页加载封装 NIWKViewController",
+            "1.NIWebViewController【加载远端网页】集成自cocoapods引入第三方创建自定义",
+            "2.NIWebViewController【加载本地网页】集成自cocoapods引入第三方创建自定义",
+            "3.指定区域截图-店铺二维码",
+            "4.iOS生成图片验证码绘制实例代码",
+            "5.iOS plist文件操作,写入/删除/修改",
+            "6.MJExtension数据模型赋值注意问题"
+        ]
+    },
+    {
+        "title": "2.iOS tableView表格操作相关",
+        "body": [
+            "0.iOS UITableView 表头、表尾、段头、段尾 的坑（一）（https://www.jianshu.com/p/f1001599de49）",
+            "1.iOS TableView之表头、表尾，区头、区尾！ 参考:https://www.cnblogs.com/xianfeng-zhang/p/6394173.html",
+            "2.iOS UITableView左滑删除功能 https://www.jianshu.com/p/4c53901062eb",
+            "3.iOS UITableView多选删除功能",
+            "4.自定义Cell-xib方式",
+            "5.cell高度自适应(1)",
+            "6.iOS开发之多种Cell高度自适应实现方案的UI流畅度分析 https://www.cnblogs.com/ludashi/p/5895725.html"
+        ]
+    },
+    {
+        "title": "3.iOS微信朋友圈布局",
+        "body": [
+            "0.iOS 实现微信朋友圈评论回复功能（一）（https://www.jianshu.com/p/395bac3648a7）"
+        ]
+    },
+    {
+        "title": "4.生明周期&Block",
+        "body": [
+            "0.ViewController的生命周期",
+            "1.Block的内存释放",
+            "2.单例"
+        ]
+    },
+    {
+        "title": "5.正则表达式",
+        "body": [
+            "0.正则表达式"
+        ]
+    },
+    {
+        "title": "6.iOS多线程",
+        "body": [
+            "0.非主线程-异步去执行操作-异步加载图片",
+            "1.基础演示-GCD中使用dispatch_after函数延迟处理任务",
+            "2.⛓⛓⛓iOS 多线程：『pthread、NSThread』详尽总结",
+            "3.⛓⛓⛓iOS 多线程：『GCD』详尽总结",
+            "4.⛓⛓⛓iOS 多线程：『NSOperation、NSOperationQueue』详尽总结",
+            "5.⛓⛓⛓iOS多线程：『RunLoop』详解总结",
+            "6.iOS 开发--一步步教你彻底学会『iOS应用间相互跳转』参考：https://bujige.net/blog/iOS-Application-jump.html \n『拓展:iOS应用之间相互跳转-传值 类比:第三方登陆、分享等』",
+            "7.iOS 网络：『文件下载、断点下载』的实现（一）：NSURLConnection{注意:该方法已过时：NSURLConnection发送异步Get请求,并实现响应的代理方法,该方法在iOS9.0之后就废除了}",
+            "8.******iOS 网络：『文件下载、断点下载』的实现（二）：NSURLSession/Block方法下载文件(一)",
+            "9.******iOS 网络：『文件下载、断点下载』的实现（二）：NSURLSession/Delegate方法下载文件(二)",
+            "10.******iOS 网络：『文件下载、断点下载』的实现（二）：NSURLSession/断点下载（不支持离线）文件(三)",
+            "11.******iOS 网络：『文件下载、断点下载』的实现（二）：NSURLSession/断点下载（支持离线）文件(四)",
+            "12.使用AFNetworking下载文件",
+            "13.使用AFNetworking断点下载（支持离线）"
+        ]
+    },
+    {
+        "title": "7.手势解锁",
+        "body": [
+            "0.设置手势密码",
+            "1.登陆手势密码",
+            "2.验证手势密码",
+            "3.修改手势密码"
+        ]
+    },
+    {
+        "title": "8.加密解密",
+        "body": [
+            "0.AES加密、解密",
+            "1.（一）对称加密（Symmetric Cryptography）对称加密是最快速、最简单的一种加密方式，加密（encryption）与解密（decryption）用的是同样的密钥（secret key）,这种方法在密码学中叫做对称加密算法。对称加密有很多种算法，由于它效率很高，所以被广泛使用在很多加密协议的核心当中。\n "
+        ]
+    },
+    {
+        "title": "9.监听",
+        "body": [
+            "0.iOS中的几种监听方法-https://www.jianshu.com/p/3faab18c2b65"
+        ]
+    },
+    {
+        "title": "10.Masonry",
+        "body": [
+            "0.iOS-Masonry的简单使用-https://www.jianshu.com/p/977bda262522",
+            "1.iOS-截屏：https://www.jianshu.com/p/ba98b0ad1811"
+        ]
+    },
+    {
+        "title": "11.UICollectionView",
+        "body": [
+            "0.UICollectionView及其新功能drag and drop \n https://www.jianshu.com/p/db55bd5f5aeb",
+            "1.UICollectionViewController(一)【青玉伏案】iOS开发之窥探 -- Ready Your CollectionViewController \n https://www.cnblogs.com/ludashi/p/4791826.html",
+            "2.UICollectionViewController(二) 在自定义View上显示UICollectionView by:nixs 2019年02月19日10:07:03",
+            "3.UICollectionViewController(三) 截图展示",
+            "4.UICollectionViewController(四) 瀑布流 \n https://www.cnblogs.com/ludashi/p/4826818.html",
+        ]
+    }
+]

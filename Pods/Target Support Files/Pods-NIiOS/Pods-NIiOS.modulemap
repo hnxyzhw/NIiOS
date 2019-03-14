@@ -1,0 +1,6 @@
+framework module Pods_NIiOS {
+  umbrella header "Pods-NIiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

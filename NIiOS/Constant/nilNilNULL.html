@@ -1,0 +1,75 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <title>iOS开发中nil、Nil、NULL和[NSNull null]的区别 by:nixs</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+  <!--[if lte IE 9]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+  <!-- Add your site or application content here -->
+  <p>Hello world! This is HTML5 Boilerplate.</p>
+  <p>
+    先来打印一下这四个nil
+    <br/>
+    <span style="color: red"> 该篇文章在我的印象笔记：iOS理论强化里可以找到</span>
+    <br/>
+    从打印结果就能看出，前三个是一样的，就最后这个不太一样。
+    <br/>
+    今天后台传给了我一个<null>我用了nil，Nil，NULL都不行，一个空指针把我给难倒了。
+    <br/>
+    于是去网上找了半天才找到，竟然还有个[NSNull null]
+    <br/>
+    下面我就根据众多网友的博客总结下这几个的区别：
+    <br/>
+    一、nil
+    <br/>
+    当一个对象置为nil时，这个对象的内存地址就会被系统收回。置空之后是不能进行retain，copy等跟引用计数有关的任何操作的。
+    <br/>
+    二、Nil
+    <br/>
+    nil完全等同于Nil，只不过由于编程习惯，人们一般把对象置空用nil，把类置空用Nil。
+    <br/>
+    三、NULL
+    <br/>
+    这个是从C语言继承来的，就是一个简单的空指针
+    <br/>
+    四、[NSNull null]
+    <br/>
+    这个才是重点：[NSNull null]和nil的区别在于，nil是一个空对象，已经完全从内存中消失了，而如果我们想表达“我们需要有这样一个容器，但这个容器里什么也没有”的观念时，我们就用到[NSNull null]，它就是为“值为空的对象”。如果你查阅开发文档你会发现NSNull这个类是继承NSObject，并且只有一个“+ (NSNull *) null；”类方法。这就说明NSNull对象拥有一个有效的内存地址，所以在程序中对它的任何引用都是不会导致程序崩溃的。
+    <br/>
+    ---
+    作者：中国摩西
+    来源：CSDN
+    原文：https://blog.csdn.net/l2i2j2/article/details/51318933
+    版权声明：本文为博主原创文章，转载请附上博文链接！
+  </p>
+  <script src="js/vendor/modernizr-{{MODERNIZR_VERSION}}.min.js"></script>
+  <script src="https://code.jquery.com/jquery-{{JQUERY_VERSION}}.min.js" integrity="{{JQUERY_SRI_HASH}}" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-{{JQUERY_VERSION}}.min.js"><\/script>')</script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+  <script>
+    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    ga('create', 'UA-XXXXX-Y', 'auto'); ga('send', 'pageview')
+  </script>
+  <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+</body>
+
+</html>

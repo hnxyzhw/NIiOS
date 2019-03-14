@@ -1,0 +1,6 @@
+framework module NICopyDBToSandBox {
+  umbrella header "NICopyDBToSandBox-umbrella.h"
+
+  export *
+  module * { export * }
+}
