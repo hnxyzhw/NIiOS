@@ -44,10 +44,14 @@
     self.window.rootViewController = [[NITabBarController alloc] init];
     
     #pragma mark - 启动广告可以从服务器端动态获取(n天变更一次就行)
-    static dispatch_once_t onceToken;
-    dispatch_once(&onceToken, ^{
-        [self saveDataToLeanCloud];
-    });
+//    static dispatch_once_t onceToken;
+//    dispatch_once(&onceToken, ^{
+//        [self saveDataToLeanCloud];
+//    });
+    NSArray* imageUrlArray = @[@"http://img.zcool.cn/community/01eb3e58ff1bb2a801214550722a60.gif",
+                               @"http://img.zcool.cn/community/010e7f5b2b5932a80121bbec4fda58.gif"];
+    // 启动广告
+    [AdvertiseHelper showAdvertiserView:imageUrlArray];
     
     //引导页(本次更新内容).一定要在[_window makeKeyAndVisible]之后调用
     if ([self isFirstLauch]) {  
@@ -66,6 +70,51 @@
     //截屏后通知
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(userDidTakeScreenshotNotification:) name:UIApplicationUserDidTakeScreenshotNotification object:nil];
     
+    //监测设备方向的变化
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(onDeviceOrientationDidChange) name:UIDeviceOrientationDidChangeNotification object:nil];
+    [[UIDevice currentDevice] beginGeneratingDeviceOrientationNotifications];
+    return YES;
+}
+#pragma mark - 设备方向 UIDeviceOrientation 是硬件设备(iphone、ipad等)本身的当前旋转方向;设备反向智能取值，不能设置；获取设备当前旋转方向使用方法：[UIDevice currentDevice].orientation 监测设备反向的变化，我们可以在Appdelegate文件中使用通知如下：
+-(BOOL)onDeviceOrientationDidChange{
+    //获取当前设备Device
+    UIDevice* device = [UIDevice currentDevice];
+    //识别当前设备的旋转方向
+    switch (device.orientation) {
+        case UIDeviceOrientationFaceUp:{
+            NSLog(@"屏幕朝上平躺");
+            break;
+        }
+        case UIDeviceOrientationFaceDown:{
+            NSLog(@"屏幕朝下平躺");
+            break;
+        }
+        case UIDeviceOrientationUnknown:{
+            //系统当前无法识别设备朝向、可能是倾斜
+            NSLog(@"未知方向");
+            break;
+        }
+        case UIDeviceOrientationLandscapeLeft:{
+            NSLog(@"屏幕向左横置");
+            break;
+        }
+        case UIDeviceOrientationLandscapeRight:{
+            NSLog(@"屏幕向右横置");
+            break;
+        }
+        case UIDeviceOrientationPortrait:{
+            NSLog(@"屏幕直立");
+            break;
+        }
+        case UIDeviceOrientationPortraitUpsideDown:{
+            NSLog(@"屏幕直立，上下颠倒");
+            break;
+        }
+        default:{
+            NSLog(@"无法识别");
+            break;
+        }
+    }
     return YES;
 }
 /**

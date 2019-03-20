@@ -18,6 +18,7 @@
 #import "H5EnterModel.h"
 #import "GetSizeOfImageViewController.h"
 #import "CountDownButtonViewController.h"
+#import "A_ViewController.h"
 
 @interface MeViewController ()<UINavigationControllerDelegate,UIImagePickerControllerDelegate,UITableViewDelegate,UITableViewDataSource>
 @property (nonatomic,strong) NSArray* arrayAll;
@@ -216,6 +217,10 @@
                 case 5:{
                     CountDownButtonViewController* coutDownVC = [CountDownButtonViewController new];
                     [self pushVC:coutDownVC];
+                }
+                case 6:{
+                    A_ViewController *aVC = [A_ViewController new];
+                    [self pushVC:aVC];
                 }
                 default:{
                     [self.view makeToast:arrayBody[indexPath.row]];

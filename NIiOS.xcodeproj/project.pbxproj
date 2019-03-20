@@ -11,6 +11,8 @@
 		59189BD82241C8E500581CD5 /* GetSizeOfImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59189BD72241C8E500581CD5 /* GetSizeOfImageViewController.m */; };
 		59189BDC2241D5A500581CD5 /* NICoutDownButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 59189BDB2241D5A500581CD5 /* NICoutDownButton.m */; };
 		59189BDF2241D6CE00581CD5 /* CountDownButtonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59189BDE2241D6CE00581CD5 /* CountDownButtonViewController.m */; };
+		59189BE32241E96F00581CD5 /* A_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59189BE22241E96F00581CD5 /* A_ViewController.m */; };
+		59189BE62241EAE100581CD5 /* B_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59189BE52241EAE100581CD5 /* B_ViewController.m */; };
 		591B6F04223A422F0021F1DF /* SaveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 591B6F03223A422F0021F1DF /* SaveViewController.m */; };
 		591D47EB221B991500F875D7 /* UICollectionViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 591D47EA221B991500F875D7 /* UICollectionViewController2.m */; };
 		591D47EE221B996A00F875D7 /* SelectedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 591D47ED221B996A00F875D7 /* SelectedView.m */; };
@@ -241,6 +243,10 @@
 		59189BDB2241D5A500581CD5 /* NICoutDownButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NICoutDownButton.m; sourceTree = "<group>"; };
 		59189BDD2241D6CE00581CD5 /* CountDownButtonViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CountDownButtonViewController.h; sourceTree = "<group>"; };
 		59189BDE2241D6CE00581CD5 /* CountDownButtonViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CountDownButtonViewController.m; sourceTree = "<group>"; };
+		59189BE12241E96F00581CD5 /* A_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = A_ViewController.h; sourceTree = "<group>"; };
+		59189BE22241E96F00581CD5 /* A_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = A_ViewController.m; sourceTree = "<group>"; };
+		59189BE42241EAE100581CD5 /* B_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = B_ViewController.h; sourceTree = "<group>"; };
+		59189BE52241EAE100581CD5 /* B_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = B_ViewController.m; sourceTree = "<group>"; };
 		591B6F02223A422F0021F1DF /* SaveViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SaveViewController.h; sourceTree = "<group>"; };
 		591B6F03223A422F0021F1DF /* SaveViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SaveViewController.m; sourceTree = "<group>"; };
 		591D47E9221B991500F875D7 /* UICollectionViewController2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UICollectionViewController2.h; sourceTree = "<group>"; };
@@ -690,6 +696,17 @@
 				59189BDE2241D6CE00581CD5 /* CountDownButtonViewController.m */,
 			);
 			path = "iOS开发 - 短信验证码倒计时按钮";
+			sourceTree = "<group>";
+		};
+		59189BE02241E95C00581CD5 /* iOS横屏开发 */ = {
+			isa = PBXGroup;
+			children = (
+				59189BE12241E96F00581CD5 /* A_ViewController.h */,
+				59189BE22241E96F00581CD5 /* A_ViewController.m */,
+				59189BE42241EAE100581CD5 /* B_ViewController.h */,
+				59189BE52241EAE100581CD5 /* B_ViewController.m */,
+			);
+			path = "iOS横屏开发";
 			sourceTree = "<group>";
 		};
 		591D47E8221B98F500F875D7 /* UICollectionViewController(二) */ = {
@@ -1415,6 +1432,7 @@
 			children = (
 				8C26A9B521A25CAA00ACE983 /* MeViewController.h */,
 				8C26A9B621A25CAA00ACE983 /* MeViewController.m */,
+				59189BE02241E95C00581CD5 /* iOS横屏开发 */,
 				59189BD92241D57900581CD5 /* iOS开发 - 短信验证码倒计时按钮 */,
 				59189BD52241C8C900581CD5 /* iOS获取图片的大小（宽高） */,
 				59FA74FD2240DC4800CF8F6D /* UITableView+FDTemplateLayoutCell */,
@@ -2241,6 +2259,7 @@
 			files = (
 				8C26A9F121A2CC7600ACE983 /* RightViewController.m in Sources */,
 				8C5ADEAB21BA0CC30085781E /* PooCodeViewController.m in Sources */,
+				59189BE32241E96F00581CD5 /* A_ViewController.m in Sources */,
 				59AD6BF8221ACFB700351095 /* UICollectionViewController1.m in Sources */,
 				8C26A98821A240B400ACE983 /* YYFPSLabel.m in Sources */,
 				59DC77E2221E920000649BD9 /* AFViewController2.m in Sources */,
@@ -2415,6 +2434,7 @@
 				5923009A221111BD00589560 /* GCDViewController.m in Sources */,
 				597088E321ECB47100459ED4 /* SuperTableViewController.m in Sources */,
 				59A354BE21C10C670091046E /* PCCircleViewConst.m in Sources */,
+				59189BE62241EAE100581CD5 /* B_ViewController.m in Sources */,
 				597088A621EC781800459ED4 /* CommentTableViewCell.m in Sources */,
 				597088E021ECB47100459ED4 /* YYKitTableViewCell.m in Sources */,
 				8C5ADE6421B504290085781E /* HybridViewController.m in Sources */,

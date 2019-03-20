@@ -14,7 +14,21 @@
 @end
 
 @implementation NICustomNavigationController
-
+//是否自动旋转
+//返回导航控制器的顶层视图控制器的自动旋转属性，因为导航控制器是以栈的原因叠加VC的
+//topViewController是其顶层的视图控制器
+#pragma mark - 支持旋转 by:nixs 2019年03月20日11:17:56
+-(BOOL)shouldAutorotate{
+    return [self.topViewController shouldAutorotate];
+}
+#pragma mark - 支持的方向 by:nixs 2019年03月20日11:20:55
+-(UIInterfaceOrientationMask)supportedInterfaceOrientations{
+    return [self.topViewController supportedInterfaceOrientations];
+}
+#pragma mark - 默认方向
+-(UIInterfaceOrientation)preferredInterfaceOrientationForPresentation{
+    return [self.topViewController preferredInterfaceOrientationForPresentation];
+}
 - (void)viewDidLoad {
     [super viewDidLoad];
     

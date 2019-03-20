@@ -21,6 +21,7 @@
 
 ```
 Flowing:2019年03月20日
+65.iOS横屏开发 https://www.jianshu.com/p/3d1babc5bcc4
 64.iOS开发 - 短信验证码倒计时按钮;
 63.iOS获取图片的大小（宽高）「本地图片&远程网络图片」;
 
