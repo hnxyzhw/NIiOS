@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		590D29E22225338B00D70785 /* RunTimePerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 590D29E12225338B00D70785 /* RunTimePerson.m */; };
+		59189BD82241C8E500581CD5 /* GetSizeOfImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59189BD72241C8E500581CD5 /* GetSizeOfImageViewController.m */; };
+		59189BDC2241D5A500581CD5 /* NICoutDownButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 59189BDB2241D5A500581CD5 /* NICoutDownButton.m */; };
+		59189BDF2241D6CE00581CD5 /* CountDownButtonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59189BDE2241D6CE00581CD5 /* CountDownButtonViewController.m */; };
 		591B6F04223A422F0021F1DF /* SaveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 591B6F03223A422F0021F1DF /* SaveViewController.m */; };
 		591D47EB221B991500F875D7 /* UICollectionViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 591D47EA221B991500F875D7 /* UICollectionViewController2.m */; };
 		591D47EE221B996A00F875D7 /* SelectedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 591D47ED221B996A00F875D7 /* SelectedView.m */; };
@@ -232,6 +235,12 @@
 /* Begin PBXFileReference section */
 		590D29E02225338B00D70785 /* RunTimePerson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RunTimePerson.h; sourceTree = "<group>"; };
 		590D29E12225338B00D70785 /* RunTimePerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RunTimePerson.m; sourceTree = "<group>"; };
+		59189BD62241C8E500581CD5 /* GetSizeOfImageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GetSizeOfImageViewController.h; sourceTree = "<group>"; };
+		59189BD72241C8E500581CD5 /* GetSizeOfImageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GetSizeOfImageViewController.m; sourceTree = "<group>"; };
+		59189BDA2241D5A500581CD5 /* NICoutDownButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NICoutDownButton.h; sourceTree = "<group>"; };
+		59189BDB2241D5A500581CD5 /* NICoutDownButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NICoutDownButton.m; sourceTree = "<group>"; };
+		59189BDD2241D6CE00581CD5 /* CountDownButtonViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CountDownButtonViewController.h; sourceTree = "<group>"; };
+		59189BDE2241D6CE00581CD5 /* CountDownButtonViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CountDownButtonViewController.m; sourceTree = "<group>"; };
 		591B6F02223A422F0021F1DF /* SaveViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SaveViewController.h; sourceTree = "<group>"; };
 		591B6F03223A422F0021F1DF /* SaveViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SaveViewController.m; sourceTree = "<group>"; };
 		591D47E9221B991500F875D7 /* UICollectionViewController2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UICollectionViewController2.h; sourceTree = "<group>"; };
@@ -661,6 +670,26 @@
 				7DF2157F1795C91405F05AFA /* Pods_NIiOS.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		59189BD52241C8C900581CD5 /* iOS获取图片的大小（宽高） */ = {
+			isa = PBXGroup;
+			children = (
+				59189BD62241C8E500581CD5 /* GetSizeOfImageViewController.h */,
+				59189BD72241C8E500581CD5 /* GetSizeOfImageViewController.m */,
+			);
+			path = "iOS获取图片的大小（宽高）";
+			sourceTree = "<group>";
+		};
+		59189BD92241D57900581CD5 /* iOS开发 - 短信验证码倒计时按钮 */ = {
+			isa = PBXGroup;
+			children = (
+				59189BDA2241D5A500581CD5 /* NICoutDownButton.h */,
+				59189BDB2241D5A500581CD5 /* NICoutDownButton.m */,
+				59189BDD2241D6CE00581CD5 /* CountDownButtonViewController.h */,
+				59189BDE2241D6CE00581CD5 /* CountDownButtonViewController.m */,
+			);
+			path = "iOS开发 - 短信验证码倒计时按钮";
 			sourceTree = "<group>";
 		};
 		591D47E8221B98F500F875D7 /* UICollectionViewController(二) */ = {
@@ -1386,6 +1415,8 @@
 			children = (
 				8C26A9B521A25CAA00ACE983 /* MeViewController.h */,
 				8C26A9B621A25CAA00ACE983 /* MeViewController.m */,
+				59189BD92241D57900581CD5 /* iOS开发 - 短信验证码倒计时按钮 */,
+				59189BD52241C8C900581CD5 /* iOS获取图片的大小（宽高） */,
 				59FA74FD2240DC4800CF8F6D /* UITableView+FDTemplateLayoutCell */,
 				59FA74F12240BC7900CF8F6D /* iOS新闻资讯类TableViewCell里的内容折叠收起功能 */,
 			);
@@ -2235,8 +2266,10 @@
 				8C8FEA4A21A6C6B200EF5939 /* UIButton+NIExtension.m in Sources */,
 				8C26AA2E21A527A000ACE983 /* Programmer3.m in Sources */,
 				8C8FEA3021A67C8300EF5939 /* NIIDCardView.m in Sources */,
+				59189BD82241C8E500581CD5 /* GetSizeOfImageViewController.m in Sources */,
 				59EB07202202A5CA00E72829 /* StudentHN.m in Sources */,
 				5923009D22116B5200589560 /* NSOperationViewController.m in Sources */,
+				59189BDF2241D6CE00581CD5 /* CountDownButtonViewController.m in Sources */,
 				8C8FEA8021ABC57900EF5939 /* DemoTableViewController2.m in Sources */,
 				8C8FEA5621A6D8E300EF5939 /* UILabel+JRLabel.m in Sources */,
 				8C8FEAC421AFCF2E00EF5939 /* asyncViewController.m in Sources */,
@@ -2354,6 +2387,7 @@
 				8C5ADEA821BA0AE10085781E /* PooCodeView.m in Sources */,
 				597088C421ECAF2600459ED4 /* AutolayoutTableViewController.m in Sources */,
 				592300B72214160E00589560 /* CollectionReusableView.m in Sources */,
+				59189BDC2241D5A500581CD5 /* NICoutDownButton.m in Sources */,
 				59FA74FC2240BDCC00CF8F6D /* NewsCell.m in Sources */,
 				597088E421ECB47100459ED4 /* FrameCountTableViewController.m in Sources */,
 				592300AA2212DD9000589560 /* NSDataDownloadSmallFileViewController.m in Sources */,

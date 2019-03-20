@@ -20,8 +20,11 @@
 ##### (三) 「NIiOS」Demo开发库整理进行时
 
 ```
+Flowing:2019年03月20日
+64.iOS开发 - 短信验证码倒计时按钮;
+63.iOS获取图片的大小（宽高）「本地图片&远程网络图片」;
 
-Flowing:2019年03月18日
+Flowing:2019年03月19日
 62.iOS获取图片的大小（宽高）地址：https://www.jianshu.com/p/5412c1862c8a?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 61.一行代码实现Badge效果(iOS) BADGE IN ONE LINE(iOS)
 60.第三方登陆、分享集成-推荐OpenShare;

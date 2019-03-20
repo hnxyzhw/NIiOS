@@ -16,6 +16,8 @@
 #import "XQTableViewController.h"
 #import "NIWebViewController.h"//集成自cocoapods引入第三方创建自定义NIWebViewController.h/m
 #import "H5EnterModel.h"
+#import "GetSizeOfImageViewController.h"
+#import "CountDownButtonViewController.h"
 
 @interface MeViewController ()<UINavigationControllerDelegate,UIImagePickerControllerDelegate,UITableViewDelegate,UITableViewDataSource>
 @property (nonatomic,strong) NSArray* arrayAll;
@@ -205,6 +207,15 @@
                     NIWebViewController *niWebVC = [[NIWebViewController alloc] initWithURLString:model1.url];
                     [self.navigationController pushViewController:niWebVC animated:YES];
                     break;
+                }
+                case 4:{
+                    GetSizeOfImageViewController* getSizeVC = [GetSizeOfImageViewController new];
+                    [self pushVC:getSizeVC];
+                    break;
+                }
+                case 5:{
+                    CountDownButtonViewController* coutDownVC = [CountDownButtonViewController new];
+                    [self pushVC:coutDownVC];
                 }
                 default:{
                     [self.view makeToast:arrayBody[indexPath.row]];
