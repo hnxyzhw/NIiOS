@@ -100,9 +100,20 @@
     
     AVFile* file = [AVFile fileWithData:self.imageData];
     [product setObject:file forKey:@"image"];
-    [SVProgressHUD showWithStatus:@"发布中..."];
+//    [file uploadWithProgress:^(NSInteger percentDone) {
+//        // 上传进度数据，percentDone 介于 0 和 100。
+//    } completionHandler:^(BOOL succeeded, NSError *error) {
+//        // 成功或失败处理...
+//    }];
+
+//    [file downloadWithProgress:^(NSInteger number) {
+//        //下载的进度数据，number 介于 0 和 100。
+//    } completionHandler:^(NSURL * _Nullable filePath, NSError * _Nullable error) {
+//        // filePath 是文件下载到本地的地址
+//    }];
+    //[SVProgressHUD showWithStatus:@"发布中..."];
     [product saveInBackgroundWithBlock:^(BOOL succeeded, NSError * _Nullable error) {
-        [SVProgressHUD dismiss];
+        //[SVProgressHUD dismiss];
         if (succeeded) {
             [self.view makeToast:@"保存新物品成功." duration:1.5 position:CSToastPositionCenter];
             [self.navigationController popViewControllerAnimated:YES];

@@ -110,7 +110,7 @@
     self.btnSave = buttonSave;
     [self.view addSubview:self.btnSave];
     [self.btnSave makeConstraints:^(MASConstraintMaker *make) {
-        make.top.equalTo(self.btnRegist.mas_bottom).offset(10);
+        make.top.equalTo(self.btnRegist.mas_bottom).offset(40);
         make.centerX.equalTo(self.view);
         make.size.equalTo(CGSizeMake(kScreenWidth*0.8, 40));
     }];

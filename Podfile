@@ -85,6 +85,8 @@ target 'NIiOS' do
     
     #七牛云存储 2019年03月12日11:05:53
     pod 'Qiniu', '~> 7.1'
+    
+    pod 'UITableView+FDTemplateLayoutCell'
 end
 
 #Xcode里配置：项目名->Target->Build Settings->Enable BitCode中设置为NO就可以了.

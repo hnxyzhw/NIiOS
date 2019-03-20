@@ -57,6 +57,6 @@
     [attributeString addAttribute:NSFontAttributeName value:font range:NSMakeRange(0, text.length)];
     NSStringDrawingOptions options = NSStringDrawingUsesLineFragmentOrigin | NSStringDrawingUsesFontLeading;
     CGRect rect = [attributeString boundingRectWithSize:CGSizeMake(kScreenWidth - 20, CGFLOAT_MAX) options:options context:nil];
-    return rect.size.height + 15;
+    return rect.size.height + 30;
 }
 @end

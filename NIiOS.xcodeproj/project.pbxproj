@@ -98,6 +98,15 @@
 		59EE6C272238EF160002A5B8 /* ProductListCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 59EE6C262238EF160002A5B8 /* ProductListCell.m */; };
 		59F1F73A2239DCFC0073AC23 /* EditProductViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59F1F7392239DCFC0073AC23 /* EditProductViewController.m */; };
 		59F6B55F221D53AB00439422 /* NSURLSessionBlockViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59F6B55E221D53AB00439422 /* NSURLSessionBlockViewController.m */; };
+		59FA74F02240BC4600CF8F6D /* mine.json in Resources */ = {isa = PBXBuildFile; fileRef = 59FA74EF2240BC4600CF8F6D /* mine.json */; };
+		59FA74F72240BC7900CF8F6D /* newsData.json in Resources */ = {isa = PBXBuildFile; fileRef = 59FA74F22240BC7900CF8F6D /* newsData.json */; };
+		59FA74F82240BC7900CF8F6D /* NewsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FA74F42240BC7900CF8F6D /* NewsModel.m */; };
+		59FA74F92240BC7900CF8F6D /* NewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FA74F62240BC7900CF8F6D /* NewsViewController.m */; };
+		59FA74FC2240BDCC00CF8F6D /* NewsCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FA74FB2240BDCC00CF8F6D /* NewsCell.m */; };
+		59FA75032240DCC700CF8F6D /* XQTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FA75022240DCC700CF8F6D /* XQTableViewController.m */; };
+		59FA75062240DFB700CF8F6D /* XQFeedModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FA75052240DFB700CF8F6D /* XQFeedModel.m */; };
+		59FA75092240E01700CF8F6D /* XQFeedCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FA75082240E01700CF8F6D /* XQFeedCell.m */; };
+		59FA750B2240E40900CF8F6D /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 59FA750A2240E40900CF8F6D /* data.json */; };
 		59FC0C9F21BB960F00C9A446 /* Res in Resources */ = {isa = PBXBuildFile; fileRef = 59FC0C9E21BB960F00C9A446 /* Res */; };
 		59FC0CA321BBA48E00C9A446 /* SnippetsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FC0CA221BBA48E00C9A446 /* SnippetsViewController.m */; };
 		6812CC5C353AAFA0887F2518 /* Pods_NIiOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DF2157F1795C91405F05AFA /* Pods_NIiOS.framework */; };
@@ -399,6 +408,21 @@
 		59F1F7392239DCFC0073AC23 /* EditProductViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EditProductViewController.m; sourceTree = "<group>"; };
 		59F6B55D221D53AB00439422 /* NSURLSessionBlockViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NSURLSessionBlockViewController.h; sourceTree = "<group>"; };
 		59F6B55E221D53AB00439422 /* NSURLSessionBlockViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NSURLSessionBlockViewController.m; sourceTree = "<group>"; };
+		59FA74EF2240BC4600CF8F6D /* mine.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = mine.json; sourceTree = "<group>"; };
+		59FA74F22240BC7900CF8F6D /* newsData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = newsData.json; sourceTree = "<group>"; };
+		59FA74F32240BC7900CF8F6D /* NewsModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsModel.h; sourceTree = "<group>"; };
+		59FA74F42240BC7900CF8F6D /* NewsModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsModel.m; sourceTree = "<group>"; };
+		59FA74F52240BC7900CF8F6D /* NewsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsViewController.h; sourceTree = "<group>"; };
+		59FA74F62240BC7900CF8F6D /* NewsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsViewController.m; sourceTree = "<group>"; };
+		59FA74FA2240BDCC00CF8F6D /* NewsCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewsCell.h; sourceTree = "<group>"; };
+		59FA74FB2240BDCC00CF8F6D /* NewsCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewsCell.m; sourceTree = "<group>"; };
+		59FA75012240DCC700CF8F6D /* XQTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XQTableViewController.h; sourceTree = "<group>"; };
+		59FA75022240DCC700CF8F6D /* XQTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XQTableViewController.m; sourceTree = "<group>"; };
+		59FA75042240DFB700CF8F6D /* XQFeedModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XQFeedModel.h; sourceTree = "<group>"; };
+		59FA75052240DFB700CF8F6D /* XQFeedModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XQFeedModel.m; sourceTree = "<group>"; };
+		59FA75072240E01700CF8F6D /* XQFeedCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XQFeedCell.h; sourceTree = "<group>"; };
+		59FA75082240E01700CF8F6D /* XQFeedCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XQFeedCell.m; sourceTree = "<group>"; };
+		59FA750A2240E40900CF8F6D /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		59FC0C9E21BB960F00C9A446 /* Res */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Res; sourceTree = SOURCE_ROOT; };
 		59FC0CA121BBA48E00C9A446 /* SnippetsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SnippetsViewController.h; sourceTree = "<group>"; };
 		59FC0CA221BBA48E00C9A446 /* SnippetsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SnippetsViewController.m; sourceTree = "<group>"; };
@@ -1108,6 +1132,34 @@
 			path = "使用NSURLSession的Block方法下载文件(一)";
 			sourceTree = "<group>";
 		};
+		59FA74F12240BC7900CF8F6D /* iOS新闻资讯类TableViewCell里的内容折叠收起功能 */ = {
+			isa = PBXGroup;
+			children = (
+				59FA74F22240BC7900CF8F6D /* newsData.json */,
+				59FA74F32240BC7900CF8F6D /* NewsModel.h */,
+				59FA74F42240BC7900CF8F6D /* NewsModel.m */,
+				59FA74FA2240BDCC00CF8F6D /* NewsCell.h */,
+				59FA74FB2240BDCC00CF8F6D /* NewsCell.m */,
+				59FA74F52240BC7900CF8F6D /* NewsViewController.h */,
+				59FA74F62240BC7900CF8F6D /* NewsViewController.m */,
+			);
+			path = "iOS新闻资讯类TableViewCell里的内容折叠收起功能";
+			sourceTree = "<group>";
+		};
+		59FA74FD2240DC4800CF8F6D /* UITableView+FDTemplateLayoutCell */ = {
+			isa = PBXGroup;
+			children = (
+				59FA75012240DCC700CF8F6D /* XQTableViewController.h */,
+				59FA75022240DCC700CF8F6D /* XQTableViewController.m */,
+				59FA75042240DFB700CF8F6D /* XQFeedModel.h */,
+				59FA75052240DFB700CF8F6D /* XQFeedModel.m */,
+				59FA75072240E01700CF8F6D /* XQFeedCell.h */,
+				59FA75082240E01700CF8F6D /* XQFeedCell.m */,
+				59FA750A2240E40900CF8F6D /* data.json */,
+			);
+			path = "UITableView+FDTemplateLayoutCell";
+			sourceTree = "<group>";
+		};
 		59FC0CA021BBA45600C9A446 /* 代码段Snippets */ = {
 			isa = PBXGroup;
 			children = (
@@ -1266,6 +1318,7 @@
 			children = (
 				8C26A9D121A2A36400ACE983 /* NIConstant.h */,
 				8C26A9D221A2A36400ACE983 /* NIConstant.m */,
+				59FA74EF2240BC4600CF8F6D /* mine.json */,
 				59EA3458221FE5CA005B419E /* message.json */,
 				8C26AA0D21A3942F00ACE983 /* yuyan.json */,
 				8C8FEA9821ACCE2200EF5939 /* yuyanplus.json */,
@@ -1333,6 +1386,8 @@
 			children = (
 				8C26A9B521A25CAA00ACE983 /* MeViewController.h */,
 				8C26A9B621A25CAA00ACE983 /* MeViewController.m */,
+				59FA74FD2240DC4800CF8F6D /* UITableView+FDTemplateLayoutCell */,
+				59FA74F12240BC7900CF8F6D /* iOS新闻资讯类TableViewCell里的内容折叠收起功能 */,
 			);
 			path = C;
 			sourceTree = "<group>";
@@ -2015,13 +2070,16 @@
 				8C5ADE5A21B5041E0085781E /* h5.html in Resources */,
 				59491A352228CD4300E9F82E /* Student.json in Resources */,
 				8C26AA0021A2D1E600ACE983 /* coder.png in Resources */,
+				59FA750B2240E40900CF8F6D /* data.json in Resources */,
 				59FC0C9F21BB960F00C9A446 /* Res in Resources */,
 				8C8FEA7321A7C9CE00EF5939 /* JRStoreSetCountController.xib in Resources */,
 				8C8FEA9921ACCE2200EF5939 /* yuyanplus.json in Resources */,
+				59FA74F02240BC4600CF8F6D /* mine.json in Resources */,
 				59EA3459221FE5CA005B419E /* message.json in Resources */,
 				8C26AA1B21A4F25100ACE983 /* SDCycleScrollView.json in Resources */,
 				8C26A946219FF5E500ACE983 /* LaunchScreen.storyboard in Resources */,
 				8C5ADE6621B52AD10085781E /* nilNilNULL.html in Resources */,
+				59FA74F72240BC7900CF8F6D /* newsData.json in Resources */,
 				8C26A943219FF5E500ACE983 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2058,6 +2116,7 @@
 				"${BUILT_PRODUCTS_DIR}/BHBPopView/BHBPopView.framework",
 				"${BUILT_PRODUCTS_DIR}/CWLateralSlide/CWLateralSlide.framework",
 				"${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework",
+				"${BUILT_PRODUCTS_DIR}/HappyDNS/HappyDNS.framework",
 				"${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework",
 				"${BUILT_PRODUCTS_DIR}/JXBWebKit/JXBWebKit.framework",
 				"${BUILT_PRODUCTS_DIR}/MJExtension/MJExtension.framework",
@@ -2068,6 +2127,7 @@
 				"${BUILT_PRODUCTS_DIR}/PINRemoteImage/PINRemoteImage.framework",
 				"${BUILT_PRODUCTS_DIR}/PYSearch/PYSearch.framework",
 				"${BUILT_PRODUCTS_DIR}/PushNotificationManager/PushNotificationManager.framework",
+				"${BUILT_PRODUCTS_DIR}/Qiniu/Qiniu.framework",
 				"${BUILT_PRODUCTS_DIR}/Reachability/Reachability.framework",
 				"${BUILT_PRODUCTS_DIR}/RegexKitLite-NoWarning/RegexKitLite_NoWarning.framework",
 				"${BUILT_PRODUCTS_DIR}/SCLAlertView-Objective-C/SCLAlertView_Objective_C.framework",
@@ -2078,6 +2138,7 @@
 				"${BUILT_PRODUCTS_DIR}/TZImagePickerController/TZImagePickerController.framework",
 				"${BUILT_PRODUCTS_DIR}/Toast/Toast.framework",
 				"${BUILT_PRODUCTS_DIR}/UICountingLabel/UICountingLabel.framework",
+				"${BUILT_PRODUCTS_DIR}/UITableView+FDTemplateLayoutCell/UITableView_FDTemplateLayoutCell.framework",
 				"${BUILT_PRODUCTS_DIR}/YTKNetwork/YTKNetwork.framework",
 				"${BUILT_PRODUCTS_DIR}/YYKit/YYKit.framework",
 			);
@@ -2091,6 +2152,7 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/BHBPopView.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CWLateralSlide.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FMDB.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/HappyDNS.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IQKeyboardManager.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JXBWebKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MJExtension.framework",
@@ -2101,6 +2163,7 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PINRemoteImage.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PYSearch.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PushNotificationManager.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Qiniu.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Reachability.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RegexKitLite_NoWarning.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SCLAlertView_Objective_C.framework",
@@ -2111,6 +2174,7 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TZImagePickerController.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Toast.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/UICountingLabel.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/UITableView_FDTemplateLayoutCell.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YTKNetwork.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YYKit.framework",
 			);
@@ -2219,12 +2283,14 @@
 				8C26A9B121A25C9400ACE983 /* MessageViewController.m in Sources */,
 				8C26A9CE21A2980400ACE983 /* NIVersionManagerView.m in Sources */,
 				597088B021ECA97100459ED4 /* AutoCell2ViewController.m in Sources */,
+				59FA74F92240BC7900CF8F6D /* NewsViewController.m in Sources */,
 				8C5ADE5821B5041E0085781E /* Service_push.m in Sources */,
 				597088B321ECACC700459ED4 /* TestDataModel.m in Sources */,
 				8C26A9F221A2CC7600ACE983 /* LeftViewController.m in Sources */,
 				597088E221ECB47100459ED4 /* SuperTableViewCell.m in Sources */,
 				59A354BB21C10C4B0091046E /* PCCircleView.m in Sources */,
 				8C5ADE5721B5041E0085781E /* Service_location.m in Sources */,
+				59FA75032240DCC700CF8F6D /* XQTableViewController.m in Sources */,
 				59DC77D6221E4FC500649BD9 /* NSURLSessionVC3.m in Sources */,
 				8C26A9C621A2625C00ACE983 /* NIGuidePageView.m in Sources */,
 				59F1F73A2239DCFC0073AC23 /* EditProductViewController.m in Sources */,
@@ -2252,6 +2318,7 @@
 				59EE6BA922389AD80002A5B8 /* PersonalCenterViewController.m in Sources */,
 				8C5ADEAF21BA41EB0085781E /* PlistViewController.m in Sources */,
 				8C26A9AE21A25C8A00ACE983 /* HomeViewController.m in Sources */,
+				59FA75092240E01700CF8F6D /* XQFeedCell.m in Sources */,
 				597088AC21ECA7F200459ED4 /* ImageCache.m in Sources */,
 				8C5ADE9E21B945A60085781E /* StuModel.m in Sources */,
 				592300AE2213FACD00589560 /* NIUICollectionViewController.m in Sources */,
@@ -2259,6 +2326,7 @@
 				8C5ADE5D21B5041E0085781E /* Service_setting.m in Sources */,
 				59A354B121C10BB30091046E /* PCLockLabel.m in Sources */,
 				8C26AA0521A2E1A400ACE983 /* NIEmptyView.m in Sources */,
+				59FA74F82240BC7900CF8F6D /* NewsModel.m in Sources */,
 				8C5ADE5C21B5041E0085781E /* GoodDetailController.m in Sources */,
 				594FC4952237A89700F70295 /* UICollectionViewController4.m in Sources */,
 				59A350EC21BE79570091046E /* ThreadViewController.m in Sources */,
@@ -2266,6 +2334,7 @@
 				8C8FEA8E21ABF54800EF5939 /* MHTitleRightButton.m in Sources */,
 				59491A332228CC7A00E9F82E /* CourseModel.m in Sources */,
 				59A354FD21C378920091046E /* DemoTableViewController4.m in Sources */,
+				59FA75062240DFB700CF8F6D /* XQFeedModel.m in Sources */,
 				8C26A9E421A2CC4900ACE983 /* CWTableViewInfo.m in Sources */,
 				8C26A9BE21A25F7900ACE983 /* NIBaseViewController.m in Sources */,
 				59A354E521C3345B0091046E /* NSString+AES.m in Sources */,
@@ -2285,6 +2354,7 @@
 				8C5ADEA821BA0AE10085781E /* PooCodeView.m in Sources */,
 				597088C421ECAF2600459ED4 /* AutolayoutTableViewController.m in Sources */,
 				592300B72214160E00589560 /* CollectionReusableView.m in Sources */,
+				59FA74FC2240BDCC00CF8F6D /* NewsCell.m in Sources */,
 				597088E421ECB47100459ED4 /* FrameCountTableViewController.m in Sources */,
 				592300AA2212DD9000589560 /* NSDataDownloadSmallFileViewController.m in Sources */,
 				59A354B421C10BEA0091046E /* PCCircleInfoView.m in Sources */,

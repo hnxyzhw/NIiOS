@@ -1,0 +1,23 @@
+[{
+    "title": "0.支付",
+    "body": [
+        "0.开通微信支付最基本的是要有营业执照的,SDK对接还是比较容易的\n参考:地址：https://pay.weixin.qq.com/index.php/apply/applyment_home/guide_normal#none",
+        "1.支付宝支付-蚂蚁金服开放平台-这个待进一步阅读文档",
+        "2.ICPaySDK = wxpay + alipay + unionpay. the api is unique \n https://github.com/CorkiiOS/ICPaySDK"
+    ]
+},
+{
+    "title": "1.第三方登陆分享集成",
+    "body": [
+        "0.推荐OpenShare「不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付。 http://www.gfzj.us/series/openshare/」\n地址：https://github.com/100apps/openshare"
+    ]
+},{
+    "title":"2.效果",
+    "body":[
+        "0.一行代码实现Badge效果(iOS) BADGE IN ONE LINE(iOS) \n https://github.com/wvqusrtg/WZLBadge",
+        "1.TableViewCell里的内容折叠收起功能「iOS新闻资讯类TableViewCell里的内容折叠收起功能」 \n https://www.jianshu.com/p/f8acc4f6a540",
+        "2.其中使用在计算tableView的cell的高度的时候，也使用到了阳神的优化cell高度的一个工具类:UITableView+FDTemplateLayoutCell github:UITableView-FDTemplateLayoutCell \n https://github.com/XQBoy/MasonryExercise",
+        "3.优化UITableViewCell高度计算的那些事 \n http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/"
+    ]
+}
+]
