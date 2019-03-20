@@ -1,5 +1,5 @@
 # NiiOS
-##### 简介 & 规划
+##### (一) 简介 & 规划
 
 >i、「目前主要做iOS客户端开发」一直没有好好沉淀记录下自己学习东西;这里把目前主要做的iOS端常用知识点总结下,便于后续开发拿来直接用；
 
@@ -7,9 +7,6 @@
 
 >iii.后续本Demo更新内容会不定时在我的订阅号里更新欢迎关注：
 >![](./Res/WechatIMG16.jpeg)
-
-##### (一) 本人联系方式
->手机/微信同号:15001291877
 
 ---
 ##### (二) 后续待整理
@@ -23,6 +20,19 @@
 ##### (三) 「NIiOS」Demo开发库整理进行时
 
 ```
+
+Flowing:2019年03月18日
+62.iOS获取图片的大小（宽高）地址：https://www.jianshu.com/p/5412c1862c8a?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+61.一行代码实现Badge效果(iOS) BADGE IN ONE LINE(iOS)
+60.第三方登陆、分享集成-推荐OpenShare;
+59.微信支付开通条件了解下；
+
+Flowing:2019年03月18日
+59.LeanCloud数据存储、读取进一步学习；
+
+Flowing:2019年03月16日
+58.Swift纯代码项目练手-Snapkit布局「和OC的Masnory同级」基础使用
+
 Flowing:2019年03月15日
 57.Swift 最新语法过一遍,比如最新开发中用到的一个折线图上气泡绘制，OC调Swift；推荐Swift学习地址[Swift变成语言](https://www.cnswift.org/a-swift-tour)
 
@@ -187,44 +197,5 @@ Flowing:2018年11月19日
 0.Xcode后续打包编码问题 #Xcode里配置：项目名->Target->Build Settings->Enable BitCode中设置为NO就可以了.
 
 ```
----
-##### (四) pod 依赖引入
-```
-date:2018年12月03日10:54:52
-ai-nixs:NIiOS nixinsheng$ pod install
-Analyzing dependencies
-Downloading dependencies
-Using AFNetworking (3.2.1)
-Using AliyunOSSiOS (2.10.4)
-Using BHBPopView (1.2.0)
-Using CWLateralSlide (1.6.3)
-Using FMDB (2.7.2)
-Using IQKeyboardManager (6.1.1)
-Installing JXBWebKit (1.0.6)
-Using MJExtension (3.0.15.1)
-Using MJRefresh (3.1.15.3)
-Using Masonry (1.1.0)
-Using NICopyDBToSandBox (0.0.2)
-Using PYSearch (0.9.0)
-Using PushNotificationManager (1.0.3)
-Using Reachability (3.2)
-Using RegexKitLite-NoWarning (1.1.0)
-Using SCLAlertView-Objective-C (1.1.5)
-Using SDCycleScrollView (1.75)
-Using SDWebImage (4.4.2)
-Using SVProgressHUD (2.2.5)
-Using SWTableViewCell (0.3.7)
-Using TZImagePickerController (2.2.4)
-Using Toast (4.0.0)
-Using UICountingLabel (1.4.1)
-Using UMengAnalytics (4.2.4)
-Using YTKNetwork (2.0.4)
-Using YYKit (1.0.9)
-Generating Pods project
-Integrating client project
-Sending stats
-Pod installation complete! There are 25 dependencies from the Podfile and 26 total pods installed.
-
-[!] Smart quotes were detected and ignored in your Podfile. To avoid issues in the future, you should not use TextEdit for editing it. If you are not using TextEdit, you should turn off smart quotes in your editor of choice.
-```
----
+##### 本人联系方式
+>手机/微信同号:15001291877
