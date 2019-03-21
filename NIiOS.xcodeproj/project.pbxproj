@@ -28,6 +28,10 @@
 		592300B42214139900589560 /* CollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 592300B32214139900589560 /* CollectionViewCell.m */; };
 		592300B72214160E00589560 /* CollectionReusableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 592300B62214160E00589560 /* CollectionReusableView.m */; };
 		592E97A421D31FD8001E5B8A /* UILabel+ForbadSys.m in Sources */ = {isa = PBXBuildFile; fileRef = 592E97A321D31FD8001E5B8A /* UILabel+ForbadSys.m */; };
+		593EE39F22431CF3001EB9BE /* BlogViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 593EE39E22431CF3001EB9BE /* BlogViewController.m */; };
+		593EE3A222431D01001EB9BE /* BlogModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 593EE3A122431D01001EB9BE /* BlogModel.m */; };
+		593EE3A522431D11001EB9BE /* BlogCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 593EE3A422431D11001EB9BE /* BlogCell.m */; };
+		593EE3A72243279C001EB9BE /* blog.json in Resources */ = {isa = PBXBuildFile; fileRef = 593EE3A62243279C001EB9BE /* blog.json */; };
 		59491A2D2228CB6300E9F82E /* StudentModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 59491A2C2228CB6300E9F82E /* StudentModel.m */; };
 		59491A302228CB6E00E9F82E /* AddressModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 59491A2F2228CB6E00E9F82E /* AddressModel.m */; };
 		59491A332228CC7A00E9F82E /* CourseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 59491A322228CC7A00E9F82E /* CourseModel.m */; };
@@ -277,6 +281,13 @@
 		592300B62214160E00589560 /* CollectionReusableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CollectionReusableView.m; sourceTree = "<group>"; };
 		592E97A221D31FD8001E5B8A /* UILabel+ForbadSys.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UILabel+ForbadSys.h"; sourceTree = "<group>"; };
 		592E97A321D31FD8001E5B8A /* UILabel+ForbadSys.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UILabel+ForbadSys.m"; sourceTree = "<group>"; };
+		593EE39D22431CF3001EB9BE /* BlogViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BlogViewController.h; sourceTree = "<group>"; };
+		593EE39E22431CF3001EB9BE /* BlogViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlogViewController.m; sourceTree = "<group>"; };
+		593EE3A022431D01001EB9BE /* BlogModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BlogModel.h; sourceTree = "<group>"; };
+		593EE3A122431D01001EB9BE /* BlogModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlogModel.m; sourceTree = "<group>"; };
+		593EE3A322431D11001EB9BE /* BlogCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BlogCell.h; sourceTree = "<group>"; };
+		593EE3A422431D11001EB9BE /* BlogCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlogCell.m; sourceTree = "<group>"; };
+		593EE3A62243279C001EB9BE /* blog.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = blog.json; sourceTree = "<group>"; };
 		59491A2B2228CB6300E9F82E /* StudentModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StudentModel.h; sourceTree = "<group>"; };
 		59491A2C2228CB6300E9F82E /* StudentModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StudentModel.m; sourceTree = "<group>"; };
 		59491A2E2228CB6E00E9F82E /* AddressModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddressModel.h; sourceTree = "<group>"; };
@@ -757,6 +768,21 @@
 			path = "iOS禁用应用文字大小随系统文字大小改变";
 			sourceTree = "<group>";
 		};
+		593EE39C22431CB3001EB9BE /* UITableView+FDTemplateLayoutCell(二) */ = {
+			isa = PBXGroup;
+			children = (
+				593EE39D22431CF3001EB9BE /* BlogViewController.h */,
+				593EE39E22431CF3001EB9BE /* BlogViewController.m */,
+				593EE3A022431D01001EB9BE /* BlogModel.h */,
+				593EE3A122431D01001EB9BE /* BlogModel.m */,
+				593EE3A322431D11001EB9BE /* BlogCell.h */,
+				593EE3A422431D11001EB9BE /* BlogCell.m */,
+				593EE3A62243279C001EB9BE /* blog.json */,
+			);
+			name = "UITableView+FDTemplateLayoutCell(二)";
+			path = "New Group";
+			sourceTree = "<group>";
+		};
 		59491A362228DF9500E9F82E /* Runtime-详解[0,2] */ = {
 			isa = PBXGroup;
 			children = (
@@ -1192,7 +1218,7 @@
 			path = "iOS新闻资讯类TableViewCell里的内容折叠收起功能";
 			sourceTree = "<group>";
 		};
-		59FA74FD2240DC4800CF8F6D /* UITableView+FDTemplateLayoutCell */ = {
+		59FA74FD2240DC4800CF8F6D /* UITableView+FDTemplateLayoutCell(一) */ = {
 			isa = PBXGroup;
 			children = (
 				59FA75012240DCC700CF8F6D /* XQTableViewController.h */,
@@ -1203,7 +1229,7 @@
 				59FA75082240E01700CF8F6D /* XQFeedCell.m */,
 				59FA750A2240E40900CF8F6D /* data.json */,
 			);
-			path = "UITableView+FDTemplateLayoutCell";
+			path = "UITableView+FDTemplateLayoutCell(一)";
 			sourceTree = "<group>";
 		};
 		59FC0CA021BBA45600C9A446 /* 代码段Snippets */ = {
@@ -1432,10 +1458,11 @@
 			children = (
 				8C26A9B521A25CAA00ACE983 /* MeViewController.h */,
 				8C26A9B621A25CAA00ACE983 /* MeViewController.m */,
+				593EE39C22431CB3001EB9BE /* UITableView+FDTemplateLayoutCell(二) */,
 				59189BE02241E95C00581CD5 /* iOS横屏开发 */,
 				59189BD92241D57900581CD5 /* iOS开发 - 短信验证码倒计时按钮 */,
 				59189BD52241C8C900581CD5 /* iOS获取图片的大小（宽高） */,
-				59FA74FD2240DC4800CF8F6D /* UITableView+FDTemplateLayoutCell */,
+				59FA74FD2240DC4800CF8F6D /* UITableView+FDTemplateLayoutCell(一) */,
 				59FA74F12240BC7900CF8F6D /* iOS新闻资讯类TableViewCell里的内容折叠收起功能 */,
 			);
 			path = C;
@@ -2124,6 +2151,7 @@
 				8C8FEA7321A7C9CE00EF5939 /* JRStoreSetCountController.xib in Resources */,
 				8C8FEA9921ACCE2200EF5939 /* yuyanplus.json in Resources */,
 				59FA74F02240BC4600CF8F6D /* mine.json in Resources */,
+				593EE3A72243279C001EB9BE /* blog.json in Resources */,
 				59EA3459221FE5CA005B419E /* message.json in Resources */,
 				8C26AA1B21A4F25100ACE983 /* SDCycleScrollView.json in Resources */,
 				8C26A946219FF5E500ACE983 /* LaunchScreen.storyboard in Resources */,
@@ -2295,6 +2323,7 @@
 				59DFE66B21EEDC02002439F9 /* HomeDataSupport.m in Sources */,
 				59EA345D221FE868005B419E /* RunTimeViewController00.m in Sources */,
 				8C5ADEA421BA059F0085781E /* Rabbit.m in Sources */,
+				593EE3A222431D01001EB9BE /* BlogModel.m in Sources */,
 				8C26A9F621A2CCD800ACE983 /* CWScrollView.m in Sources */,
 				59DDAD922227FB7C009CC5E9 /* NSObject+ZSModel.m in Sources */,
 				8C26A9DA21A2B0B200ACE983 /* AdvertiseView.m in Sources */,
@@ -2387,11 +2416,13 @@
 				59491A332228CC7A00E9F82E /* CourseModel.m in Sources */,
 				59A354FD21C378920091046E /* DemoTableViewController4.m in Sources */,
 				59FA75062240DFB700CF8F6D /* XQFeedModel.m in Sources */,
+				593EE39F22431CF3001EB9BE /* BlogViewController.m in Sources */,
 				8C26A9E421A2CC4900ACE983 /* CWTableViewInfo.m in Sources */,
 				8C26A9BE21A25F7900ACE983 /* NIBaseViewController.m in Sources */,
 				59A354E521C3345B0091046E /* NSString+AES.m in Sources */,
 				8C8FEA4721A6A62300EF5939 /* UIImage+Color.m in Sources */,
 				8C26A99721A25AE400ACE983 /* NITabBarController.m in Sources */,
+				593EE3A522431D11001EB9BE /* BlogCell.m in Sources */,
 				594FC48A2237404500F70295 /* AdImageUrlsModel.m in Sources */,
 				8C8FEAC021AF70DD00EF5939 /* RegularViewController.m in Sources */,
 				59A354EB21C337010091046E /* GTMBase64.m in Sources */,

@@ -20,7 +20,13 @@
 ##### (三) 「NIiOS」Demo开发库整理进行时
 
 ```
+Flowing:2019年03月21日
+68.UITableView+FDTemplateLayoutCell.h 进阶「UITableView+FDTemplateLayoutCell(二)」
+67.优化UITableViewCell高度计算的那些事 http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/
+
 Flowing:2019年03月20日
+66.layoutSubviews layoutIfNeeded setNeedsLayout 的区别:https://blog.csdn.net/sunshine__hui/article/details/51499981
+66.iOS横竖屏旋转及其基本适配方法 https://blog.csdn.net/DreamcoffeeZS/article/details/79037207
 65.iOS横屏开发 https://www.jianshu.com/p/3d1babc5bcc4
 64.iOS开发 - 短信验证码倒计时按钮;
 63.iOS获取图片的大小（宽高）「本地图片&远程网络图片」;

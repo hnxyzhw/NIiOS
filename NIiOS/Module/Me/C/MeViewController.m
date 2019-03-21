@@ -19,6 +19,7 @@
 #import "GetSizeOfImageViewController.h"
 #import "CountDownButtonViewController.h"
 #import "A_ViewController.h"
+#import "BlogViewController.h"
 
 @interface MeViewController ()<UINavigationControllerDelegate,UIImagePickerControllerDelegate,UITableViewDelegate,UITableViewDataSource>
 @property (nonatomic,strong) NSArray* arrayAll;
@@ -221,6 +222,10 @@
                 case 6:{
                     A_ViewController *aVC = [A_ViewController new];
                     [self pushVC:aVC];
+                }
+                case 7:{
+                    BlogViewController* blogVC = [BlogViewController new];
+                    [self pushVC:blogVC];
                 }
                 default:{
                     [self.view makeToast:arrayBody[indexPath.row]];

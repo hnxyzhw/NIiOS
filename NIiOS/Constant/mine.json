@@ -16,11 +16,12 @@
     "body":[
         "0.一行代码实现Badge效果(iOS) BADGE IN ONE LINE(iOS) \n https://github.com/wvqusrtg/WZLBadge",
         "1.TableViewCell里的内容折叠收起功能「iOS新闻资讯类TableViewCell里的内容折叠收起功能」 \n https://www.jianshu.com/p/f8acc4f6a540",
-        "2.其中使用在计算tableView的cell的高度的时候，也使用到了阳神的优化cell高度的一个工具类:UITableView+FDTemplateLayoutCell github:UITableView-FDTemplateLayoutCell \n https://github.com/XQBoy/MasonryExercise",
-        "3.优化UITableViewCell高度计算的那些事 \n http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/",
+        "2.UITableView+FDTemplateLayoutCell(一) 其中使用在计算tableView的cell的高度的时候，也使用到了阳神的优化cell高度的一个工具类:UITableView+FDTemplateLayoutCell github:UITableView-FDTemplateLayoutCell \n https://github.com/XQBoy/MasonryExercise",
+        "3.UITableView+FDTemplateLayoutCell(一) 优化UITableViewCell高度计算的那些事 \n http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/",
         "4.iOS获取图片的大小（宽高） \n https://www.jianshu.com/p/5412c1862c8a?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation",
         "5.iOS开发 - 短信验证码倒计时按钮 \n https://www.jianshu.com/p/00be1c531b25",
-        "6.iOS横屏开发 \n https://www.jianshu.com/p/3d1babc5bcc4"
+        "6.iOS横屏开发 \n https://www.jianshu.com/p/3d1babc5bcc4",
+        "7.UITableView+FDTemplateLayoutCell(二) BlogViewController"
         
     ]
 }
