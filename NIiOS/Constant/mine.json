@@ -21,8 +21,8 @@
         "4.iOS获取图片的大小（宽高） \n https://www.jianshu.com/p/5412c1862c8a?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation",
         "5.iOS开发 - 短信验证码倒计时按钮 \n https://www.jianshu.com/p/00be1c531b25",
         "6.iOS横屏开发 \n https://www.jianshu.com/p/3d1babc5bcc4",
-        "7.UITableView+FDTemplateLayoutCell(二) BlogViewController"
-        
+        "7.UITableView+FDTemplateLayoutCell(二) BlogViewController",
+        "8.简单布局-和Andorid线性布局对比-这里使用Masonry."
     ]
 }
 ]

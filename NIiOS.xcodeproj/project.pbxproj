@@ -43,6 +43,7 @@
 		594FC4952237A89700F70295 /* UICollectionViewController4.m in Sources */ = {isa = PBXBuildFile; fileRef = 594FC4942237A89700F70295 /* UICollectionViewController4.m */; };
 		594FC4982237A9AE00F70295 /* CustomeCollectionViewLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 594FC4972237A9AE00F70295 /* CustomeCollectionViewLayout.m */; };
 		594FC49E2237B59000F70295 /* YYPhotoGroupView.m in Sources */ = {isa = PBXBuildFile; fileRef = 594FC49D2237B59000F70295 /* YYPhotoGroupView.m */; };
+		596E5FF9224B4CFB00EC246E /* SimpleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 596E5FF8224B4CFB00EC246E /* SimpleViewController.m */; };
 		5970889721EC5DBE00459ED4 /* ModelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5970889621EC5DBE00459ED4 /* ModelViewController.m */; };
 		5970889A21EC6A7500459ED4 /* ModelForVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 5970889921EC6A7500459ED4 /* ModelForVC.m */; };
 		5970889C21EC6B7300459ED4 /* modelJson.json in Resources */ = {isa = PBXBuildFile; fileRef = 5970889B21EC6B7200459ED4 /* modelJson.json */; };
@@ -309,6 +310,8 @@
 		594FC4972237A9AE00F70295 /* CustomeCollectionViewLayout.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomeCollectionViewLayout.m; sourceTree = "<group>"; };
 		594FC49C2237B59000F70295 /* YYPhotoGroupView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYPhotoGroupView.h; sourceTree = "<group>"; };
 		594FC49D2237B59000F70295 /* YYPhotoGroupView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYPhotoGroupView.m; sourceTree = "<group>"; };
+		596E5FF7224B4CFB00EC246E /* SimpleViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimpleViewController.h; sourceTree = "<group>"; };
+		596E5FF8224B4CFB00EC246E /* SimpleViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleViewController.m; sourceTree = "<group>"; };
 		5970889521EC5DBE00459ED4 /* ModelViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ModelViewController.h; sourceTree = "<group>"; };
 		5970889621EC5DBE00459ED4 /* ModelViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ModelViewController.m; sourceTree = "<group>"; };
 		5970889821EC6A7500459ED4 /* ModelForVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ModelForVC.h; sourceTree = "<group>"; };
@@ -814,6 +817,15 @@
 				594FC49D2237B59000F70295 /* YYPhotoGroupView.m */,
 			);
 			path = "UICollectionViewController(四)瀑布流";
+			sourceTree = "<group>";
+		};
+		596E5FF6224B4CC400EC246E /* 简单布局OC版本Masonry */ = {
+			isa = PBXGroup;
+			children = (
+				596E5FF7224B4CFB00EC246E /* SimpleViewController.h */,
+				596E5FF8224B4CFB00EC246E /* SimpleViewController.m */,
+			);
+			path = "简单布局OC版本Masonry";
 			sourceTree = "<group>";
 		};
 		5970889421EC5D9100459ED4 /* ModelVC(MJExtension模型某个属性字段不存在) */ = {
@@ -1458,6 +1470,7 @@
 			children = (
 				8C26A9B521A25CAA00ACE983 /* MeViewController.h */,
 				8C26A9B621A25CAA00ACE983 /* MeViewController.m */,
+				596E5FF6224B4CC400EC246E /* 简单布局OC版本Masonry */,
 				593EE39C22431CB3001EB9BE /* UITableView+FDTemplateLayoutCell(二) */,
 				59189BE02241E95C00581CD5 /* iOS横屏开发 */,
 				59189BD92241D57900581CD5 /* iOS开发 - 短信验证码倒计时按钮 */,
@@ -2318,6 +2331,7 @@
 				5923009D22116B5200589560 /* NSOperationViewController.m in Sources */,
 				59189BDF2241D6CE00581CD5 /* CountDownButtonViewController.m in Sources */,
 				8C8FEA8021ABC57900EF5939 /* DemoTableViewController2.m in Sources */,
+				596E5FF9224B4CFB00EC246E /* SimpleViewController.m in Sources */,
 				8C8FEA5621A6D8E300EF5939 /* UILabel+JRLabel.m in Sources */,
 				8C8FEAC421AFCF2E00EF5939 /* asyncViewController.m in Sources */,
 				59DFE66B21EEDC02002439F9 /* HomeDataSupport.m in Sources */,

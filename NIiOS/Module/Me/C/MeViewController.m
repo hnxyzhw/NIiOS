@@ -20,6 +20,7 @@
 #import "CountDownButtonViewController.h"
 #import "A_ViewController.h"
 #import "BlogViewController.h"
+#import "SimpleViewController.h"
 
 @interface MeViewController ()<UINavigationControllerDelegate,UIImagePickerControllerDelegate,UITableViewDelegate,UITableViewDataSource>
 @property (nonatomic,strong) NSArray* arrayAll;
@@ -226,6 +227,10 @@
                 case 7:{
                     BlogViewController* blogVC = [BlogViewController new];
                     [self pushVC:blogVC];
+                }
+                case 8:{
+                    SimpleViewController* simpleVC = [SimpleViewController new];
+                    [self pushVC:simpleVC];
                 }
                 default:{
                     [self.view makeToast:arrayBody[indexPath.row]];
