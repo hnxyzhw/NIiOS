@@ -935,6 +935,13 @@
 			path = FrameCountTableViewController;
 			sourceTree = "<group>";
 		};
+		598E3273225DE2760020F2C6 /* iOS完美实现微信朋友圈视频截取 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "iOS完美实现微信朋友圈视频截取";
+			sourceTree = "<group>";
+		};
 		59A350E921BE65590091046E /* iOS多线程 */ = {
 			isa = PBXGroup;
 			children = (
@@ -1470,6 +1477,7 @@
 			children = (
 				8C26A9B521A25CAA00ACE983 /* MeViewController.h */,
 				8C26A9B621A25CAA00ACE983 /* MeViewController.m */,
+				598E3273225DE2760020F2C6 /* iOS完美实现微信朋友圈视频截取 */,
 				596E5FF6224B4CC400EC246E /* 简单布局OC版本Masonry */,
 				593EE39C22431CB3001EB9BE /* UITableView+FDTemplateLayoutCell(二) */,
 				59189BE02241E95C00581CD5 /* iOS横屏开发 */,

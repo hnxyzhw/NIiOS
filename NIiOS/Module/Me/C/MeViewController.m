@@ -219,23 +219,39 @@
                 case 5:{
                     CountDownButtonViewController* coutDownVC = [CountDownButtonViewController new];
                     [self pushVC:coutDownVC];
+                    break;
                 }
                 case 6:{
                     A_ViewController *aVC = [A_ViewController new];
                     [self pushVC:aVC];
+                    break;
                 }
                 case 7:{
                     BlogViewController* blogVC = [BlogViewController new];
                     [self pushVC:blogVC];
+                    break;
                 }
                 case 8:{
                     SimpleViewController* simpleVC = [SimpleViewController new];
                     [self pushVC:simpleVC];
+                    break;
                 }
                 default:{
                     [self.view makeToast:arrayBody[indexPath.row]];
                     break;
                 }
+            }
+            break;
+        }
+        case 3:{
+            switch (indexPath.row) {
+                case 0:{
+                    //0.iOS完美实现微信朋友圈视频截取 http://flyoceanfish.top/2018/07/13/iOS%E5%AE%8C%E7%BE%8E%E5%AE%9E%E7%8E%B0%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A7%86%E9%A2%91%E6%88%AA%E5%8F%96/
+                    [self.view makeToast:@"0.iOS完美实现微信朋友圈视频截取" duration:1.0 position:CSToastPositionCenter];
+                    break;
+                }
+                default:
+                    break;
             }
             break;
         }
