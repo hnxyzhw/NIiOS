@@ -72,7 +72,7 @@
     //设置NavigationBarItem文字的颜色
     [navigationBar setTintColor:[UIColor whiteColor]];
     //设置标题栏颜色
-    navigationBar.titleTextAttributes = @{NSForegroundColorAttributeName:[UIColor whiteColor],NSFontAttributeName : [UIFont systemFontOfSize:15]};
+    navigationBar.titleTextAttributes = @{NSForegroundColorAttributeName:[UIColor whiteColor],NSFontAttributeName : [UIFont boldSystemFontOfSize:20]};
     
     //去掉导航栏下方黑线
     UIImage *img = [UIImage getImageWithColor:kThemeColor];//如此导航栏颜色 和 上面设置导航栏背景颜色是一致的
