@@ -27,5 +27,6 @@ NSString *const desKey = @"NIXS15001291877"; //DESKey 密钥
 NSString *const LeanCloud_AppID = @"w6NEDFXUQURsyW9UXlHmkdN5-gzGzoHsz";
 NSString *const LeanCloud_AppKey = @"ncqQExpnCWjQSbaieqyDgM0D";
 
-
+#pragma mark - 高德Key
+NSString *const Map_APIKey = @"dde037b0474ef39107e0b9e137a16560";
 @end

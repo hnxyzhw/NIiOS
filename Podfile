@@ -86,7 +86,13 @@ target 'NIiOS' do
     #七牛云存储 2019年03月12日11:05:53
     pod 'Qiniu', '~> 7.1'
     
+    #表格高度自适应
     pod 'UITableView+FDTemplateLayoutCell'
+    
+    #高德地图引入
+    #pod 'AMapLocation'#定位SDK
+    pod 'AMapLocation-NO-IDFA'#无IDFA版定位 SDK 
+    
 end
 
 #Xcode里配置：项目名->Target->Build Settings->Enable BitCode中设置为NO就可以了.

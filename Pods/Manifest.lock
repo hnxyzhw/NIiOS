@@ -15,6 +15,9 @@ PODS:
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
   - AliyunOSSiOS (2.10.4)
+  - AMapFoundation-NO-IDFA (1.5.6)
+  - AMapLocation-NO-IDFA (2.6.2):
+    - AMapFoundation-NO-IDFA (~> 1.4)
   - AsyncDisplayKit (1.9.92):
     - AsyncDisplayKit/PINRemoteImage (= 1.9.92)
   - AsyncDisplayKit/ASDealloc2MainObject (1.9.92)
@@ -78,6 +81,7 @@ PODS:
 
 DEPENDENCIES:
   - AliyunOSSiOS
+  - AMapLocation-NO-IDFA
   - AsyncDisplayKit (~> 1.9.90)
   - AVOSCloud
   - AVOSCloudIM
@@ -112,6 +116,8 @@ SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - AFNetworking
     - AliyunOSSiOS
+    - AMapFoundation-NO-IDFA
+    - AMapLocation-NO-IDFA
     - AsyncDisplayKit
     - AVOSCloud
     - AVOSCloudIM
@@ -148,6 +154,8 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
   AliyunOSSiOS: e5dcdba99963ca6b43fea863cead49423c5d4c75
+  AMapFoundation-NO-IDFA: 40d723b352992d0f95abe2976f0c0ecda3c3ffc3
+  AMapLocation-NO-IDFA: d7792c8c516f415e186f1bc25946f1a58ca6a583
   AsyncDisplayKit: 49d94f5739669d666ff7cdc3430f43f0b2cfbeaf
   AVOSCloud: 3a337ec2290fe3b4411cd4098895323bc5a1133c
   AVOSCloudIM: dd3ce21e697dd8af78645cee27c31d0e29121f14
@@ -181,6 +189,6 @@ SPEC CHECKSUMS:
   YTKNetwork: df8a7a5597bda1664a4efaa7ef871a818a887fe0
   YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
 
-PODFILE CHECKSUM: 5af44c96455d9f3e4c6e7ecf7b5344ae0b6fe171
+PODFILE CHECKSUM: 898aa1675360e394c9b9474fb3b628f3bdaae7b1
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.6.2

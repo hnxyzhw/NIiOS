@@ -255,6 +255,17 @@
             }
             break;
         }
+        case 4:{
+            switch (indexPath.row) {
+                case 0:{
+                    [self.view makeToast:@"0.高德地图获取经纬度-测试" duration:1.0 position:CSToastPositionCenter];
+                    break;
+                }
+                default:
+                    break;
+            }
+            break;
+        }
         default:{
             [self.view makeToast:arrayBody[indexPath.row]];
             break;
@@ -291,7 +302,8 @@
             make.top.equalTo(self.mas_topLayoutGuide);
         }
         make.leading.trailing.equalTo(self.view);
-        make.height.equalTo(H_Card);
+        //make.height.equalTo(H_Card);
+        make.height.equalTo(0);
     }];
     WEAKSELF;
     [self.cardView setBtnHeadClickBlock:^{
@@ -303,7 +315,8 @@
     [self.cardViewPlus makeConstraints:^(MASConstraintMaker *make) {
         make.top.equalTo(self.cardView.mas_bottom).offset(5);
         make.leading.trailing.equalTo(self.view);
-        make.height.equalTo(H_Card);
+        //make.height.equalTo(H_Card);
+        make.height.equalTo(0);
     }];
     [self.cardViewPlus setBtnHeadClickBlock:^{
         //[weakSelf.view makeToast:@"第2只猿👨‍💻‍" duration:3.0 position:CSToastPositionCenter];

@@ -27,4 +27,7 @@ extern NSString * const desKey; //DESKey
 UIKIT_EXTERN NSString *const LeanCloud_AppID;
 UIKIT_EXTERN NSString *const LeanCloud_AppKey;
 
+#pragma mark - 高德Key
+UIKIT_EXTERN NSString *const Map_APIKey;
+
 @end

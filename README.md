@@ -20,6 +20,12 @@
 ##### (三) 「NIiOS」Demo开发库整理进行时
 
 ```
+Flowing:2019年05月28日
+69.iOS高德获取经纬度(单次获取)
+
+```
+
+```
 Flowing:2019年03月21日
 68.UITableView+FDTemplateLayoutCell.h 进阶「UITableView+FDTemplateLayoutCell(二)」
 67.优化UITableViewCell高度计算的那些事 http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/
