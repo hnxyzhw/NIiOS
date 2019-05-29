@@ -18,6 +18,7 @@
 //单次定位
 #import <AMapFoundationKit/AMapFoundationKit.h>
 #import <AMapLocationKit/AMapLocationKit.h>
+#import "NIMapCoordinateManager.h"
 
 @interface AppDelegate ()
 @property(nonatomic,strong) NSData *imageData;//截屏图片NSData
@@ -37,6 +38,38 @@
     
     #pragma mark - 高德地图初始化
     [AMapServices sharedServices].apiKey = Map_APIKey;
+//    self.locationManager = [[AMapLocationManager alloc] init];
+//    // 带逆地理信息的一次定位（返回坐标和地址信息）
+//    [self.locationManager setDesiredAccuracy:kCLLocationAccuracyHundredMeters];
+//    //   定位超时时间，最低2s，此处设置为2s
+//    self.locationManager.locationTimeout =2;
+//    //   逆地理请求超时时间，最低2s，此处设置为2s
+//    self.locationManager.reGeocodeTimeout = 2;
+//    
+//    // 带逆地理（返回坐标和地址信息）。将下面代码中的 YES 改成 NO ，则不会返回地址信息。
+//    [self.locationManager requestLocationWithReGeocode:YES completionBlock:^(CLLocation *location, AMapLocationReGeocode *regeocode, NSError *error) {
+//        if (error){
+//            NSLog(@"*********************locError:{%ld - %@};", (long)error.code, error.localizedDescription);
+//            if (error.code == AMapLocationErrorLocateFailed){
+//                return;
+//            }
+//        }
+//        NSLog(@"-----------------location:%@", location);
+//        double latitude = location.coordinate.latitude;
+//        double longitude = location.coordinate.longitude;
+//        NSLog(@"+++++++++++++++++[%f,%f]",latitude,longitude);
+//        if (regeocode){
+//            NSLog(@"reGeocode:%@", regeocode);
+//        }
+//    }];
+        
+//    [NIMapCoordinateManager getCoordinateWithReGeocode:YES mapCoordinateHandler:^(bool resultCode, double latitude, double longitude) {
+//        if (resultCode) {
+//            NSLog(@"+++++++++++++++++[%f,%f]",latitude,longitude);
+//        }else{
+//            NSLog(@"********经纬度获取失败");
+//        }
+//    }];
     self.locationManager = [[AMapLocationManager alloc] init];
     // 带逆地理信息的一次定位（返回坐标和地址信息）
     [self.locationManager setDesiredAccuracy:kCLLocationAccuracyHundredMeters];
@@ -44,25 +77,23 @@
     self.locationManager.locationTimeout =2;
     //   逆地理请求超时时间，最低2s，此处设置为2s
     self.locationManager.reGeocodeTimeout = 2;
+    [[NIMapCoordinateManager shared] setLocationManager:self.locationManager];
     
-    // 带逆地理（返回坐标和地址信息）。将下面代码中的 YES 改成 NO ，则不会返回地址信息。
-    [self.locationManager requestLocationWithReGeocode:YES completionBlock:^(CLLocation *location, AMapLocationReGeocode *regeocode, NSError *error) {
-        if (error){
-            NSLog(@"*********************locError:{%ld - %@};", (long)error.code, error.localizedDescription);
-            if (error.code == AMapLocationErrorLocateFailed){
-                return;
-            }
-        }
-        NSLog(@"-----------------location:%@", location);
-        double latitude = location.coordinate.latitude;
-        double longitude = location.coordinate.longitude;
-        NSLog(@"+++++++++++++++++[%f,%f]",latitude,longitude);
-        if (regeocode){
-            NSLog(@"reGeocode:%@", regeocode);
-        }
-    }];
-    
-    
+//    [[NIMapCoordinateManager shared].locationManager requestLocationWithReGeocode:YES completionBlock:^(CLLocation *location, AMapLocationReGeocode *regeocode, NSError *error) {
+//            if (error){
+//                NSLog(@"*********************locError:{%ld - %@};", (long)error.code, error.localizedDescription);
+//                if (error.code == AMapLocationErrorLocateFailed){
+//                    return;
+//                }
+//            }
+//            NSLog(@"-----------------location:%@", location);
+//            double latitude = location.coordinate.latitude;
+//            double longitude = location.coordinate.longitude;
+//            NSLog(@"+++++++++++++++++[%f,%f]",latitude,longitude);
+//            if (regeocode){
+//                NSLog(@"reGeocode:%@", regeocode);
+//            }
+//    }];
     #pragma mark - LeanCloud-SDK初始化
     [AVOSCloud setApplicationId:LeanCloud_AppID clientKey:LeanCloud_AppKey];
     // 放在 SDK 初始化语句 [AVOSCloud setApplicationId:] 后面，只需要调用一次即可

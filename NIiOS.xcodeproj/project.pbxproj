@@ -108,6 +108,7 @@
 		59EE6C272238EF160002A5B8 /* ProductListCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 59EE6C262238EF160002A5B8 /* ProductListCell.m */; };
 		59F1F73A2239DCFC0073AC23 /* EditProductViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59F1F7392239DCFC0073AC23 /* EditProductViewController.m */; };
 		59F6B55F221D53AB00439422 /* NSURLSessionBlockViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59F6B55E221D53AB00439422 /* NSURLSessionBlockViewController.m */; };
+		59FA617B229D448800168DD0 /* NIMapCoordinateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FA617A229D448800168DD0 /* NIMapCoordinateManager.m */; };
 		59FA74F02240BC4600CF8F6D /* mine.json in Resources */ = {isa = PBXBuildFile; fileRef = 59FA74EF2240BC4600CF8F6D /* mine.json */; };
 		59FA74F72240BC7900CF8F6D /* newsData.json in Resources */ = {isa = PBXBuildFile; fileRef = 59FA74F22240BC7900CF8F6D /* newsData.json */; };
 		59FA74F82240BC7900CF8F6D /* NewsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FA74F42240BC7900CF8F6D /* NewsModel.m */; };
@@ -437,6 +438,8 @@
 		59F1F7392239DCFC0073AC23 /* EditProductViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EditProductViewController.m; sourceTree = "<group>"; };
 		59F6B55D221D53AB00439422 /* NSURLSessionBlockViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NSURLSessionBlockViewController.h; sourceTree = "<group>"; };
 		59F6B55E221D53AB00439422 /* NSURLSessionBlockViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NSURLSessionBlockViewController.m; sourceTree = "<group>"; };
+		59FA6179229D448800168DD0 /* NIMapCoordinateManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NIMapCoordinateManager.h; sourceTree = "<group>"; };
+		59FA617A229D448800168DD0 /* NIMapCoordinateManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NIMapCoordinateManager.m; sourceTree = "<group>"; };
 		59FA74EF2240BC4600CF8F6D /* mine.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = mine.json; sourceTree = "<group>"; };
 		59FA74F22240BC7900CF8F6D /* newsData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = newsData.json; sourceTree = "<group>"; };
 		59FA74F32240BC7900CF8F6D /* NewsModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsModel.h; sourceTree = "<group>"; };
@@ -1485,6 +1488,8 @@
 				59189BD52241C8C900581CD5 /* iOS获取图片的大小（宽高） */,
 				59FA74FD2240DC4800CF8F6D /* UITableView+FDTemplateLayoutCell(一) */,
 				59FA74F12240BC7900CF8F6D /* iOS新闻资讯类TableViewCell里的内容折叠收起功能 */,
+				59FA6179229D448800168DD0 /* NIMapCoordinateManager.h */,
+				59FA617A229D448800168DD0 /* NIMapCoordinateManager.m */,
 			);
 			path = C;
 			sourceTree = "<group>";
@@ -2487,6 +2492,7 @@
 				5923009A221111BD00589560 /* GCDViewController.m in Sources */,
 				597088E321ECB47100459ED4 /* SuperTableViewController.m in Sources */,
 				59A354BE21C10C670091046E /* PCCircleViewConst.m in Sources */,
+				59FA617B229D448800168DD0 /* NIMapCoordinateManager.m in Sources */,
 				59189BE62241EAE100581CD5 /* B_ViewController.m in Sources */,
 				597088A621EC781800459ED4 /* CommentTableViewCell.m in Sources */,
 				597088E021ECB47100459ED4 /* YYKitTableViewCell.m in Sources */,

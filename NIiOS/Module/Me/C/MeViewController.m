@@ -21,6 +21,7 @@
 #import "A_ViewController.h"
 #import "BlogViewController.h"
 #import "SimpleViewController.h"
+#import "NIMapCoordinateManager.h"
 
 @interface MeViewController ()<UINavigationControllerDelegate,UIImagePickerControllerDelegate,UITableViewDelegate,UITableViewDataSource>
 @property (nonatomic,strong) NSArray* arrayAll;
@@ -259,6 +260,28 @@
             switch (indexPath.row) {
                 case 0:{
                     [self.view makeToast:@"0.高德地图获取经纬度-测试" duration:1.0 position:CSToastPositionCenter];
+//                    [[NIMapCoordinateManager shared].locationManager requestLocationWithReGeocode:YES completionBlock:^(CLLocation *location, AMapLocationReGeocode *regeocode, NSError *error) {
+//                        if (error){
+//                            NSLog(@"*********************locError:{%ld - %@};", (long)error.code, error.localizedDescription);
+//                            if (error.code == AMapLocationErrorLocateFailed){
+//                                return;
+//                            }
+//                        }
+//                        NSLog(@"-----------------location:%@", location);
+//                        double latitude = location.coordinate.latitude;
+//                        double longitude = location.coordinate.longitude;
+//                        NSLog(@"+++++++++++++++++[%f,%f]",latitude,longitude);
+//                        if (regeocode){
+//                            NSLog(@"reGeocode:%@", regeocode);
+//                        }
+//                    }];
+                    [NIMapCoordinateManager getCoordinateWithAMapLocationManager:[NIMapCoordinateManager shared].locationManager ReGeocode:YES mapCoordinateHandler:^(bool resultCode, double latitude, double longitude) {
+                            if (resultCode==YES) {
+                                NSLog(@"+++++++++++++++++[%f,%f]",latitude,longitude);
+                            }else{
+                                NSLog(@"********经纬度获取失败");
+                            }
+                    }];
                     break;
                 }
                 default:
