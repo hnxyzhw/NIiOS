@@ -11,7 +11,7 @@
 #import <AMapFoundationKit/AMapFoundationKit.h>
 #import <AMapLocationKit/AMapLocationKit.h>
 
-typedef void(^MapCoordinateHandler)(bool resultCode,double latitude,double longitude);
+typedef void(^MapCoordinateHandler)(bool resultCode,double latitude,double longitude,NSString* errorMsg);
 
 NS_ASSUME_NONNULL_BEGIN
 

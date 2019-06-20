@@ -260,26 +260,12 @@
             switch (indexPath.row) {
                 case 0:{
                     [self.view makeToast:@"0.高德地图获取经纬度-测试" duration:1.0 position:CSToastPositionCenter];
-//                    [[NIMapCoordinateManager shared].locationManager requestLocationWithReGeocode:YES completionBlock:^(CLLocation *location, AMapLocationReGeocode *regeocode, NSError *error) {
-//                        if (error){
-//                            NSLog(@"*********************locError:{%ld - %@};", (long)error.code, error.localizedDescription);
-//                            if (error.code == AMapLocationErrorLocateFailed){
-//                                return;
-//                            }
-//                        }
-//                        NSLog(@"-----------------location:%@", location);
-//                        double latitude = location.coordinate.latitude;
-//                        double longitude = location.coordinate.longitude;
-//                        NSLog(@"+++++++++++++++++[%f,%f]",latitude,longitude);
-//                        if (regeocode){
-//                            NSLog(@"reGeocode:%@", regeocode);
-//                        }
-//                    }];
-                    [NIMapCoordinateManager getCoordinateWithAMapLocationManager:[NIMapCoordinateManager shared].locationManager ReGeocode:YES mapCoordinateHandler:^(bool resultCode, double latitude, double longitude) {
+                    [NIMapCoordinateManager getCoordinateWithAMapLocationManager:[NIMapCoordinateManager shared].locationManager ReGeocode:YES mapCoordinateHandler:^(bool resultCode, double latitude, double longitude,NSString *errorMsg) {
                             if (resultCode==YES) {
                                 NSLog(@"+++++++++++++++++[%f,%f]",latitude,longitude);
+                                [self.view makeToast:[NSString stringWithFormat:@"+++++++++++++++++[%f,%f]",latitude,longitude] duration:3.0 position:CSToastPositionBottom];
                             }else{
-                                NSLog(@"********经纬度获取失败");
+                                NSLog(@"********经纬度获取失败 reson:%@",errorMsg);
                             }
                     }];
                     break;
