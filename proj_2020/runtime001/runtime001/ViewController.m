@@ -1,0 +1,90 @@
+//
+//  ViewController.m
+//  runtime001
+//
+//  Created by nixs on 2020/6/12.
+//  Copyright © 2020 nixs. All rights reserved.
+//
+
+#import "ViewController.h"
+#import "UIViewController+Tag.h"
+
+@interface ViewController ()
+
+@end
+
+/// 测试案例
+@implementation ViewController
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    self.navigationItem.title = @"首页";
+    [self func001];
+    [self func002];
+}
+
+-(void)func002{
+    self.tag = @"TAG";
+    NSLog(@"---tag=%@",self.tag);
+}
+
+-(void)func001{
+    NSLog(@"---测试案例func001---");
+    ///
+    typedef struct objc_class *class;
+    struct objc_class {
+        Class isa;                                // 实现方法调用的关键
+        Class super_class;                        // 父类
+        const char * name;                        // 类名
+        long version;                             // 类的版本信息，默认为0
+        long info;                                // 类信息，供运行期使用的一些位标识
+        long instance_size;                       // 该类的实例变量大小
+        struct objc_ivar_list * ivars;            // 该类的成员变量链表
+        struct objc_method_list ** methodLists;   // 方法定义的链表
+        struct objc_cache * cache;                // 方法缓存
+        struct objc_protocol_list * protocols;    // 协议链表
+    };
+    ///
+    struct objc_object{
+        Class isa;
+    };
+    typedef struct objc_object *id;
+   //一、runtime是什么
+   //二、Runtime是怎么工作的
+    //1.Class和Object
+    //2.Meta Class元类
+    //3.Method
+    //4.Category
+    //5.
+    typedef struct objc_method *Method;
+    struct objc_method{
+        SEL method_name;
+        char * method_types;
+        IMP method_imp;
+    };
+    
+    ///一个对象唯一保存的信息就是它的Class的地址。当我们调用一个对象的方法时，它会通过isa去找到对应的objc_class,然后再在objc_class的methodLists中找到我们调用的方法，然后执行
+    ///再说说cache,调用方法的过程是个查找methodLists的过程,如果每次调用都去查询，效率会非诚低。所以对于调用过的方法，会以map的方式保存在cache中，下次再调用就会快很多。
+    ///Meta Class（元类）
+    
+    //在Object-C中，所有的方法调用，都会转化成向对象发送消息。发送消息主要使用objc_msgSend函数；
+    //id objc_msgSend(id self,SEL op,...);
+    //objc_msgSend(self, @selector(doSomething));
+    [self testCmd:@(5)];
+}
+
+-(void)testCmd:(NSNumber*)num{
+    NSLog(@"%ld",(long)num.integerValue);
+    num = [NSNumber numberWithInteger:num.integerValue-1];
+    if (num.integerValue>0) {
+        [self performSelector:_cmd withObject:num];
+    }
+}
+
+-(void)doSomething{
+    NSLog(@"---doSomething---");
+}
+
+
+
+@end
