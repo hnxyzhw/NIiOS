@@ -26,13 +26,18 @@
     //[self func002];
     //[self func003];
     objc_msgSend(self, @selector(doSomething));
-    [self getPrivate];
+    //[self getPrivate];
+    [self func004];
 }
 //RunTime简称运行时，就是系统在运行的时候的一些机制，其中最主要的是消息机制；
 //RunTime基本是用C和汇编写的，从而有了动态系统的高效；
 
 
 
+-(void)func004{
+    NSLog(@"---func004---实现---");
+    //
+}
 
 ///开发中经常有些需求，凭借着苹果提供的API不好实现，或者实现起来比较麻烦，此时，我们可以
 /// 运用runtime来获取类的内部成员变量，然后利用KVC进行替换，来达到目的；
@@ -47,12 +52,8 @@
     free(vars);
 }
 
--(void)func004{
-    
-}
-
 -(void)doSomething{
-    NSLog(@"func - doSomething.");
+    NSLog(@"func - doSomething.---实现---");
 }
 
 -(void)func003{
