@@ -9,6 +9,28 @@
 >![](./Res/WechatIMG16.jpeg)
 
 ##### (四) iOS runtime
+
+[72.runtime从入门到精通（二）—— 官方文档翻译](https://blog.csdn.net/coyote1994/article/details/52441513)
+```
+一、版本
+    动态语言就是在运行时来执行静态语言的编译链接的工作。这就要求除了编译器之外还要有一种运行时系统来执行编译等功能。OC中这个系统就是runtimne.
+    1.通过OC源代码
+运行时的主要功能就是传递消息，正如消息传递中所描述的那样。它通过源代码消息表达式来调用。
+    2.通过NSObject中定义的方法
+NSObject只定义了一个怎样去做的模板，它本身不提供所有必要的代码(抽象类？)
+    3.直接调用运行时函数
+二、消息传递机制
+    这一部分描述了如何把消息表达式转换成objc_msgSend函数调用，怎样通过名字找到方法。然后解释了如果你需要的话怎么通过objc_msgSend来绕过动态绑定。
+    1.objc_msgSend功能
+    objc_msgSend(receiver,selector)。消息中的任何参数也交给objc_msgSend:objc_msgSend(receiver,selector,arg1,arg2...)
+    消息传递函数为动态绑定做了所有必须的事情：
+提示：编译器对消息传递函数生成调用，在你的代码中不要直接调用。
+    创建新对象时，分配内存，实例变量被初始化。首先在对象中有一个指向它的类结构的指针变量。这个指针被称为isa指针，它使对象能够访问类，通过类可以访问它继承的所有的类。
+    
+```
+
+[71.runtime从入门到精通（一）—— 初识runtime](https://blog.csdn.net/wvqusrtg/article/details/107179786)
+
 [70.新手也看得懂的 iOS Runtime 教程](http://www.lymanli.com/2018/03/15/%E6%96%B0%E6%89%8B%E4%B9%9F%E7%9C%8B%E5%BE%97%E6%87%82%E7%9A%84-iOS-Runtime-%E6%95%99%E7%A8%8B/)
 
 
