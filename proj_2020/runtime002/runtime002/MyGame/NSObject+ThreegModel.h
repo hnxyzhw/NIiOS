@@ -9,12 +9,14 @@
 #import <Foundation/Foundation.h>
 #import <objc/runtime.h>
 #import <objc/message.h>
+#import "Person.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
 @interface NSObject (ThreegModel)
 +(instancetype)GG_initWithDictionaryForModel:(NSDictionary *)dic;
 
+-(void)getAllProperty;
 @end
 
 NS_ASSUME_NONNULL_END

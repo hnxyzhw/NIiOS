@@ -28,4 +28,14 @@
     free(arrPropertys);
     return myObj;
 }
+
+-(void)getAllProperty{
+    unsigned int propertyCount = 0;
+    objc_property_t *propertyList = class_copyPropertyList([Person class], &propertyCount);
+    for (unsigned int i = 0; i < propertyCount; i++ ) {
+        objc_property_t *thisProperty = propertyList[i];
+        const char* propertyName = property_getName(*thisProperty);
+        NSLog(@"Person拥有的属性为: '%s'", propertyName);
+    }
+}
 @end
