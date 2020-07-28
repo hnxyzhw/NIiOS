@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		5991C02A24BF01FF00A28854 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5991C02924BF01FF00A28854 /* main.m */; };
 		5991C03224BF024900A28854 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 5991C03124BF024900A28854 /* Person.m */; };
+		8CF1977824C47D7D00327914 /* Game.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CF1977724C47D7D00327914 /* Game.m */; };
+		8CF1977E24C5C82500327914 /* MyGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CF1977D24C5C82500327914 /* MyGame.m */; };
+		8CF1978424C5C87800327914 /* NSObject+ThreegModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CF1978324C5C87800327914 /* NSObject+ThreegModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +31,12 @@
 		5991C02924BF01FF00A28854 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5991C03024BF024700A28854 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		5991C03124BF024900A28854 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		8CF1977624C47D7D00327914 /* Game.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Game.h; sourceTree = "<group>"; };
+		8CF1977724C47D7D00327914 /* Game.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Game.m; sourceTree = "<group>"; };
+		8CF1977C24C5C82500327914 /* MyGame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyGame.h; sourceTree = "<group>"; };
+		8CF1977D24C5C82500327914 /* MyGame.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyGame.m; sourceTree = "<group>"; };
+		8CF1978224C5C87800327914 /* NSObject+ThreegModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+ThreegModel.h"; sourceTree = "<group>"; };
+		8CF1978324C5C87800327914 /* NSObject+ThreegModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+ThreegModel.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,11 +69,41 @@
 		5991C02824BF01FF00A28854 /* runtime002 */ = {
 			isa = PBXGroup;
 			children = (
+				8CF1977B24C5C81700327914 /* MyGame */,
+				8CF1977A24C5C81200327914 /* Game */,
+				8CF1977924C5C80900327914 /* Person */,
 				5991C02924BF01FF00A28854 /* main.m */,
+			);
+			path = runtime002;
+			sourceTree = "<group>";
+		};
+		8CF1977924C5C80900327914 /* Person */ = {
+			isa = PBXGroup;
+			children = (
 				5991C03024BF024700A28854 /* Person.h */,
 				5991C03124BF024900A28854 /* Person.m */,
 			);
-			path = runtime002;
+			path = Person;
+			sourceTree = "<group>";
+		};
+		8CF1977A24C5C81200327914 /* Game */ = {
+			isa = PBXGroup;
+			children = (
+				8CF1977624C47D7D00327914 /* Game.h */,
+				8CF1977724C47D7D00327914 /* Game.m */,
+			);
+			path = Game;
+			sourceTree = "<group>";
+		};
+		8CF1977B24C5C81700327914 /* MyGame */ = {
+			isa = PBXGroup;
+			children = (
+				8CF1977C24C5C82500327914 /* MyGame.h */,
+				8CF1977D24C5C82500327914 /* MyGame.m */,
+				8CF1978224C5C87800327914 /* NSObject+ThreegModel.h */,
+				8CF1978324C5C87800327914 /* NSObject+ThreegModel.m */,
+			);
+			path = MyGame;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +163,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CF1977824C47D7D00327914 /* Game.m in Sources */,
 				5991C03224BF024900A28854 /* Person.m in Sources */,
 				5991C02A24BF01FF00A28854 /* main.m in Sources */,
+				8CF1978424C5C87800327914 /* NSObject+ThreegModel.m in Sources */,
+				8CF1977E24C5C82500327914 /* MyGame.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
