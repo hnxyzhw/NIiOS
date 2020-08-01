@@ -11,7 +11,7 @@
 
 3.分类（Category）扩展（Extension）
 
-![](./Res/002-类别(Category) 和拓展(Extension）.png)
+![image](https://github.com/wvqusrtg/NIiOS/blob/master/Res/002-%E7%B1%BB%E5%88%AB(Category)%20%E5%92%8C%E6%8B%93%E5%B1%95(Extension%EF%BC%89.png)
 
     如下-有时间就看下...
     [2.runtime从入门到精通（二）—— 官方文档翻译](https://blog.csdn.net/coyote1994/article/details/52441513)

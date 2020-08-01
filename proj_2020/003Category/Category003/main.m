@@ -13,7 +13,7 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-        //Category / Extension
+        
         Person *person = [Person new];
         person.name = @"加菲猫";
         
@@ -37,7 +37,7 @@ int main(int argc, const char * argv[]) {
         }];
         
         //iOS开发·NSDate日期基本操作方法
-        
+        Res/002-类别(Category) 和拓展(Extension）.png
         
         
     }
