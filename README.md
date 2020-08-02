@@ -3,22 +3,22 @@
 
 >i、「目前主要做iOS客户端开发」一直没有好好沉淀记录下自己学习东西;这里把目前主要做的iOS端常用知识点总结下,便于后续开发拿来直接用；
 
-
+>ii、后续会陆续贴出完整的复习笔记,有需要联系作者；
 ##### (四) OC基础（OC基础篇）
 
-6.iOS基础·属性的修饰词与setter的关系（@property、@synthesize、@dynamic、retain、assign、copy、weak、strong、nonatomic、atomic、readonly、readwrite等修饰词与setter、getter等存取方法之间的关系）
+6.[iOS基础·属性的修饰词与setter的关系（@property、@synthesize、@dynamic、retain、assign、copy、weak、strong、nonatomic、atomic、readonly、readwrite等修饰词与setter、getter等存取方法之间的关系）](http://note.youdao.com/s/LlO3kbE)
 
 
-5.iOS基础:全局变量·静态变量·局部变量·自动变量（static、extern、全局静态区、堆区、栈区）
+5.[iOS基础:全局变量·静态变量·局部变量·自动变量（static、extern、全局静态区、堆区、栈区）](http://note.youdao.com/s/Y6fzB5Ud)
 
 
 ![](./Res/004-变量.png)
 
-4.了解-编程语言傻傻分不清：弱类型、强类型、动态类型、静态类型
+4.[了解-编程语言傻傻分不清：弱类型、强类型、动态类型、静态类型](http://note.youdao.com/s/OKC27LrL)
 
 ![](./Res/003-编程语言.png)
 
-3.分类（Category）扩展（Extension）
+3.[分类（Category）扩展（Extension）](http://note.youdao.com/s/SHRFxr6l)
 
 ![image](./Res/002-Category-Extension.png)
 
