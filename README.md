@@ -6,6 +6,9 @@
 
 ##### (四) OC基础（OC基础篇）
 
+6.iOS基础·属性的修饰词与setter的关系（@property、@synthesize、@dynamic、retain、assign、copy、weak、strong、nonatomic、atomic、readonly、readwrite等修饰词与setter、getter等存取方法之间的关系）
+
+
 5.iOS基础:全局变量·静态变量·局部变量·自动变量（static、extern、全局静态区、堆区、栈区）
 
 

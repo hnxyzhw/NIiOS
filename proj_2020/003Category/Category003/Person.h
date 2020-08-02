@@ -10,7 +10,9 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface Person : NSObject
+@interface Person : NSObject{
+    
+}
 @property(nonatomic,strong) NSString *sex;
 @property(nonatomic,assign) int age;
 /// 可以添加方法
