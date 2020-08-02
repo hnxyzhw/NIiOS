@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8CB8A46824D5476F000DD1E5 /* A.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CB8A46724D5476F000DD1E5 /* A.m */; };
+		8CB8A46B24D54816000DD1E5 /* B.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CB8A46A24D54816000DD1E5 /* B.m */; };
 		8CBCF05924D42614009173A1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBCF05824D42614009173A1 /* main.m */; };
 		8CBCF06124D42673009173A1 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBCF06024D42673009173A1 /* Person.m */; };
 		8CBCF06424D426DA009173A1 /* Person+eat.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBCF06324D426DA009173A1 /* Person+eat.m */; };
@@ -27,6 +29,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8CB8A46624D5476F000DD1E5 /* A.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = A.h; sourceTree = "<group>"; };
+		8CB8A46724D5476F000DD1E5 /* A.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = A.m; sourceTree = "<group>"; };
+		8CB8A46924D54816000DD1E5 /* B.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = B.h; sourceTree = "<group>"; };
+		8CB8A46A24D54816000DD1E5 /* B.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = B.m; sourceTree = "<group>"; };
 		8CBCF05524D42614009173A1 /* Category003 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Category003; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CBCF05824D42614009173A1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8CBCF05F24D42673009173A1 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
@@ -80,6 +86,10 @@
 				8CBCF06B24D4423C009173A1 /* Person+Stu.h */,
 				8CBCF06C24D45D5F009173A1 /* NSString+NumberConvenience.h */,
 				8CBCF06D24D45D5F009173A1 /* NSString+NumberConvenience.m */,
+				8CB8A46624D5476F000DD1E5 /* A.h */,
+				8CB8A46724D5476F000DD1E5 /* A.m */,
+				8CB8A46924D54816000DD1E5 /* B.h */,
+				8CB8A46A24D54816000DD1E5 /* B.m */,
 			);
 			path = Category003;
 			sourceTree = "<group>";
@@ -144,6 +154,8 @@
 				8CBCF06E24D45D5F009173A1 /* NSString+NumberConvenience.m in Sources */,
 				8CBCF06124D42673009173A1 /* Person.m in Sources */,
 				8CBCF05924D42614009173A1 /* main.m in Sources */,
+				8CB8A46B24D54816000DD1E5 /* B.m in Sources */,
+				8CB8A46824D5476F000DD1E5 /* A.m in Sources */,
 				8CBCF06424D426DA009173A1 /* Person+eat.m in Sources */,
 				8CBCF06A24D43F73009173A1 /* Student.m in Sources */,
 			);
