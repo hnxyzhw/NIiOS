@@ -9,6 +9,8 @@
 #import "ViewController.h"
 #import "UIView+Frame.h"
 #import "TYPagerController.h"
+#import "UIView+MBPHUD.h"
+
 // 屏幕
 #define kScreenWidth [UIScreen mainScreen].bounds.size.width     //屏幕宽度
 #define kScreenHeight [UIScreen mainScreen].bounds.size.height   //屏幕高度
@@ -29,7 +31,13 @@
 
 /// 页面跳转 没有用UINavigationController
 -(void)nextPage{
-    [self presentViewController:[TYPagerController new] animated:YES completion:nil];
+    [self.view showHUDMessage:@"加载中..."];    
+    //[self presentViewController:[TYPagerController new] animated:YES completion:nil];
+    dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(3.0 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
+        [self.view hideHUD];
+        [self presentViewController:[TYPagerController new] animated:YES completion:nil];
+    });
+    
 }
 /// 懒加载
 -(UIButton *)btnNext{
