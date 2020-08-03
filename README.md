@@ -4,7 +4,25 @@
 >i、「目前主要做iOS客户端开发」一直没有好好沉淀记录下自己学习东西;这里把目前主要做的iOS端常用知识点总结下,便于后续开发拿来直接用；
 
 >ii、后续会陆续贴出完整的复习笔记,有需要联系作者；
+---
+
 ##### (四) OC基础（OC基础篇）
+
+```
+7.Block约定：用法中的符号含义列举如下：
+
+return_type 表示返回的对象/关键字等(可以是void，并省略)
+blockName 表示block的名称
+var_type 表示参数的类型(可以是void，并省略)
+varName 表示参数名称
+
+Block标准声明与定义
+return_type(^blockName)(var_type) = ^return_type(var_type varName){
+    // ...
+};
+```
+
+
 
 6.[iOS基础·属性的修饰词与setter的关系（@property、@synthesize、@dynamic、retain、assign、copy、weak、strong、nonatomic、atomic、readonly、readwrite等修饰词与setter、getter等存取方法之间的关系）](http://note.youdao.com/s/LlO3kbE)
 
