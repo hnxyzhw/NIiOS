@@ -21,6 +21,7 @@
 		8CB8A4B424D6B298000DD1E5 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CB8A4B324D6B298000DD1E5 /* BaseViewController.m */; };
 		8CB8A4B724D6C6A6000DD1E5 /* TYPagerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CB8A4B624D6C6A6000DD1E5 /* TYPagerController.m */; };
 		8CB8A4BB24D6CD8A000DD1E5 /* TMAddCategoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CB8A4BA24D6CD8A000DD1E5 /* TMAddCategoryViewController.m */; };
+		8CBDC41924D79C78005F9BBD /* DDCity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBDC41824D79C78005F9BBD /* DDCity.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,8 @@
 		8CB8A4B624D6C6A6000DD1E5 /* TYPagerController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TYPagerController.m; sourceTree = "<group>"; };
 		8CB8A4B924D6CD8A000DD1E5 /* TMAddCategoryViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TMAddCategoryViewController.h; sourceTree = "<group>"; };
 		8CB8A4BA24D6CD8A000DD1E5 /* TMAddCategoryViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TMAddCategoryViewController.m; sourceTree = "<group>"; };
+		8CBDC41724D79C78005F9BBD /* DDCity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DDCity.h; sourceTree = "<group>"; };
+		8CBDC41824D79C78005F9BBD /* DDCity.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DDCity.m; sourceTree = "<group>"; };
 		A95CE325CEB41F2F381140F5 /* Pods-004Basic.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-004Basic.debug.xcconfig"; path = "Target Support Files/Pods-004Basic/Pods-004Basic.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -140,6 +143,7 @@
 		8CB8A47724D6AB2A000DD1E5 /* 004Basic */ = {
 			isa = PBXGroup;
 			children = (
+				8CBDC41624D79C59005F9BBD /* Model */,
 				8CB8A4B824D6CD75000DD1E5 /* ViewController */,
 				8CB8A4B124D6B280000DD1E5 /* Base */,
 				8CB8A4AD24D6AFA1000DD1E5 /* Category */,
@@ -203,6 +207,15 @@
 				8CB8A4BA24D6CD8A000DD1E5 /* TMAddCategoryViewController.m */,
 			);
 			path = ViewController;
+			sourceTree = "<group>";
+		};
+		8CBDC41624D79C59005F9BBD /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				8CBDC41724D79C78005F9BBD /* DDCity.h */,
+				8CBDC41824D79C78005F9BBD /* DDCity.m */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -385,6 +398,7 @@
 				8CB8A48B24D6AB31000DD1E5 /* main.m in Sources */,
 				8CB8A4B724D6C6A6000DD1E5 /* TYPagerController.m in Sources */,
 				8CB8A4B024D6AFBF000DD1E5 /* UIView+Frame.m in Sources */,
+				8CBDC41924D79C78005F9BBD /* DDCity.m in Sources */,
 				8CB8A47D24D6AB2A000DD1E5 /* SceneDelegate.m in Sources */,
 				8CB8A4BB24D6CD8A000DD1E5 /* TMAddCategoryViewController.m in Sources */,
 			);
