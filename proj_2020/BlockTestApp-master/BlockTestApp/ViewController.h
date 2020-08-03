@@ -22,6 +22,10 @@ typedef void(^handleBlock)();
 //按钮点击Block
 @property(nonatomic,copy) void (^btnClickBlock)(UIButton* sender);
 
+@property(nonatomic,copy) void (^btnClickBlock2)(void);
+
+@property(nonatomic,strong) void (^handleDidSelectedItem)(int indexPath);
+
 -(void)requestForRefuseOrAccept:(NSString*)name handle:(handleBlock)handleBlock;
 
 //在定义方法时，声明Block型的形参

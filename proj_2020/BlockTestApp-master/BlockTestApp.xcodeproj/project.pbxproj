@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8CBDC42024D7FDC6005F9BBD /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBDC41F24D7FDC6005F9BBD /* Test.m */; };
 		8CBDC42324D82B37005F9BBD /* UIView+AddClickedEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBDC42224D82B37005F9BBD /* UIView+AddClickedEvent.m */; };
+		8CBDC42624D83390005F9BBD /* CaculateMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBDC42524D83390005F9BBD /* CaculateMaker.m */; };
 		F71F2598208EBD8A00CD81E7 /* TestCycleRetain.m in Sources */ = {isa = PBXBuildFile; fileRef = F71F2597208EBD8A00CD81E7 /* TestCycleRetain.m */; };
 		F76BFEE8208D6C0900F5FCDC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F76BFEE7208D6C0900F5FCDC /* AppDelegate.m */; };
 		F76BFEEB208D6C0900F5FCDC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F76BFEEA208D6C0900F5FCDC /* ViewController.m */; };
@@ -42,6 +43,8 @@
 		8CBDC41F24D7FDC6005F9BBD /* Test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 		8CBDC42124D82B37005F9BBD /* UIView+AddClickedEvent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+AddClickedEvent.h"; sourceTree = "<group>"; };
 		8CBDC42224D82B37005F9BBD /* UIView+AddClickedEvent.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+AddClickedEvent.m"; sourceTree = "<group>"; };
+		8CBDC42424D83390005F9BBD /* CaculateMaker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CaculateMaker.h; sourceTree = "<group>"; };
+		8CBDC42524D83390005F9BBD /* CaculateMaker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CaculateMaker.m; sourceTree = "<group>"; };
 		F71F2596208EBD8A00CD81E7 /* TestCycleRetain.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestCycleRetain.h; sourceTree = "<group>"; };
 		F71F2597208EBD8A00CD81E7 /* TestCycleRetain.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestCycleRetain.m; sourceTree = "<group>"; };
 		F71F2599208EBEED00CD81E7 /* BlockTestApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BlockTestApp-Prefix.pch"; sourceTree = "<group>"; };
@@ -129,6 +132,8 @@
 				8CBDC41F24D7FDC6005F9BBD /* Test.m */,
 				8CBDC42124D82B37005F9BBD /* UIView+AddClickedEvent.h */,
 				8CBDC42224D82B37005F9BBD /* UIView+AddClickedEvent.m */,
+				8CBDC42424D83390005F9BBD /* CaculateMaker.h */,
+				8CBDC42524D83390005F9BBD /* CaculateMaker.m */,
 			);
 			path = BlockTestApp;
 			sourceTree = "<group>";
@@ -285,6 +290,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CBDC42024D7FDC6005F9BBD /* Test.m in Sources */,
+				8CBDC42624D83390005F9BBD /* CaculateMaker.m in Sources */,
 				F76BFEEB208D6C0900F5FCDC /* ViewController.m in Sources */,
 				F76BFEF6208D6C0900F5FCDC /* main.m in Sources */,
 				8CBDC42324D82B37005F9BBD /* UIView+AddClickedEvent.m in Sources */,

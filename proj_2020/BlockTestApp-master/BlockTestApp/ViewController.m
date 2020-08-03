@@ -9,6 +9,8 @@
 #import "ViewController.h"
 #import <Foundation/Foundation.h>
 #import "TestCycleRetain.h"
+#import "CaculateMaker.h"
+
 
 @interface ViewController ()
 
@@ -20,9 +22,52 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //[self testTestCycleRetain];
-    [self func_004];
+    //[self func_004];
+    CaculateMaker *caculaterMaker = [[CaculateMaker alloc] init];
+    
+    NSLog(@"---计算结果：%.2lf",caculaterMaker.add(23).add(18).result);
+}
+//block作为返回值
+//-(return_type(^)(var_type))methodName{
+//    return ^return_type(var_type parm){
+//
+//    };
+//}
+
+-(void)func_005{
+    //block作为返回值
+    
     
 }
+//- (MASConstraint * (^)(id))equalTo {
+//    return ^id(id attribute) {
+//        return self.equalToWithRelation(attribute, NSLayoutRelationEqual);
+//    };
+//}
+//
+//- (MASConstraint * (^)(id, NSLayoutRelation))equalToWithRelation {
+//    return ^id(id attribute, NSLayoutRelation relation) {
+//        if ([attribute isKindOfClass:NSArray.class]) {
+//            NSAssert(!self.hasLayoutRelation, @"Redefinition of constraint relation");
+//            NSMutableArray *children = NSMutableArray.new;
+//            for (id attr in attribute) {
+//                MASViewConstraint *viewConstraint = [self copy];
+//                viewConstraint.secondViewAttribute = attr;
+//                [children addObject:viewConstraint];
+//            }
+//            MASCompositeConstraint *compositeConstraint = [[MASCompositeConstraint alloc] initWithChildren:children];
+//            compositeConstraint.delegate = self.delegate;
+//            [self.delegate constraint:self shouldBeReplacedWithConstraint:compositeConstraint];
+//            return compositeConstraint;
+//        } else {
+//            NSAssert(!self.hasLayoutRelation || self.layoutRelation == relation && [attribute isKindOfClass:NSValue.class], @"Redefinition of constraint relation");
+//            self.layoutRelation = relation;
+//            self.secondViewAttribute = attribute;
+//            return self;
+//        }
+//    };
+//}
+
 
 -(void)func_004{
 //    return_type(^blockName)(var_type) = ^return_type(var_type varName){
