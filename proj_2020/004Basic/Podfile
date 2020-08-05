@@ -15,6 +15,7 @@ target '004Basic' do
  # Pods for Pos 
  pod 'Masonry'
  pod 'MBProgressHUD+Add'
+ pod 'NITools'
  
 end
 #Xcode里配置：项目名->Target->Build Settings->Enable BitCode中设置为NO就可以了.

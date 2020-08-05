@@ -8,8 +8,12 @@
 
 ##### (四) OC基础（OC基础篇）
 
+
+
+8.[在Block中一起使用weakSelf与strongSelf的含义](http://note.youdao.com/s/cnmk6gYI)
+
+7.[Block约定：用法中的符号含义列举如下：](http://note.youdao.com/s/EZCNfKT0)
 ```
-7.Block约定：用法中的符号含义列举如下：
 
 return_type 表示返回的对象/关键字等(可以是void，并省略)
 blockName 表示block的名称
@@ -21,8 +25,6 @@ return_type(^blockName)(var_type) = ^return_type(var_type varName){
     // ...
 };
 ```
-
-
 
 6.[iOS基础·属性的修饰词与setter的关系（@property、@synthesize、@dynamic、retain、assign、copy、weak、strong、nonatomic、atomic、readonly、readwrite等修饰词与setter、getter等存取方法之间的关系）](http://note.youdao.com/s/LlO3kbE)
 
