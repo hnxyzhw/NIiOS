@@ -8,7 +8,9 @@
 
 ##### (四) OC基础（OC基础篇）
 
+9.[runtime应用实例](http://note.youdao.com/s/22YpZHm3)
 
+![runtime应用实例](./Res/006-runtime.png)
 
 8.[在Block中一起使用weakSelf与strongSelf的含义](http://note.youdao.com/s/cnmk6gYI)
 
