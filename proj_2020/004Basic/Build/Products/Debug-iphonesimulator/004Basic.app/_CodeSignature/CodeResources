@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		XkKtWyKydRNSAG3JnyX1YQRJUKw=
+		fS7ve+Na2UOVa+u8UI1UFqPtAK4=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		PuYFjhXTC+QWiY8Z/yVMoK85euI=
+		FD/OCwJGRFobTKnD20FHQmWE11Y=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		CH3tMphcbN3Q9+Hwj7/jP97ximE=
+		BxNce3lxUdL/VI0Un7aeeICCMfo=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -26,7 +26,19 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		sE7HgbM1uWGxMk14LgbzXV7j0Tc=
+		gKMbdCUGRtgvg8cBjLkZooomm5w=
+		</data>
+		<key>Frameworks/AFNetworking.framework/AFNetworking</key>
+		<data>
+		cV/nUi72uQrBQZtXnJYrat7pFZo=
+		</data>
+		<key>Frameworks/AFNetworking.framework/Info.plist</key>
+		<data>
+		MgkdMTbw5lPUMStkhDmPJWtD1po=
+		</data>
+		<key>Frameworks/AFNetworking.framework/_CodeSignature/CodeResources</key>
+		<data>
+		X9BPIcxFAomDsHC7quT4wNCBU1c=
 		</data>
 		<key>Frameworks/MBProgressHUD.framework/Info.plist</key>
 		<data>
@@ -34,7 +46,7 @@
 		</data>
 		<key>Frameworks/MBProgressHUD.framework/MBProgressHUD</key>
 		<data>
-		dn8V/LKWXGNoaRdA82cWKb3QdJo=
+		JrSUYdnBk6uqJxEqt37PFeBEkew=
 		</data>
 		<key>Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -46,7 +58,7 @@
 		</data>
 		<key>Frameworks/MBProgressHUD_Add.framework/MBProgressHUD_Add</key>
 		<data>
-		POZqvyObrIn4hCiKW46L88tsbwA=
+		UFzw0EK1lLJ6/KWYOAubKzGwDLQ=
 		</data>
 		<key>Frameworks/MBProgressHUD_Add.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -58,11 +70,35 @@
 		</data>
 		<key>Frameworks/Masonry.framework/Masonry</key>
 		<data>
-		0JjcSTjsOpGN+Eg+4fh0Tq6wahY=
+		xfNhan8b3eUJKjIQn0YfwFAxJ2s=
 		</data>
 		<key>Frameworks/Masonry.framework/_CodeSignature/CodeResources</key>
 		<data>
 		3bXjT4dbCnKC61rOwP2WTbuqWlI=
+		</data>
+		<key>Frameworks/NITools.framework/Info.plist</key>
+		<data>
+		gqasmfaEdr1UNR0p5vwJoACHGfs=
+		</data>
+		<key>Frameworks/NITools.framework/NITools</key>
+		<data>
+		+Tdwa7Vo/HG4lYugm0oFY73anVU=
+		</data>
+		<key>Frameworks/NITools.framework/_CodeSignature/CodeResources</key>
+		<data>
+		tQuYUCtRDn5xaMBUiqqe4enXI78=
+		</data>
+		<key>Frameworks/YYText.framework/Info.plist</key>
+		<data>
+		tV9Y2A/+pyfJz1mlSVNyHqm4X/s=
+		</data>
+		<key>Frameworks/YYText.framework/YYText</key>
+		<data>
+		gLWcYVdEdfkwm5NIWcylgTCkfu8=
+		</data>
+		<key>Frameworks/YYText.framework/_CodeSignature/CodeResources</key>
+		<data>
+		0uNJgRVFSs3Ty22BmIZf3BK8NXg=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -79,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uonl5gfLcuLOUOAd/LRbFse1QMv5yN9sIwb41OVNxyw=
+			y2uhxSM2Ic85tgPqFikPuBI9CbhAeOvmHFIQxVpj66U=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -93,14 +129,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			psttmxPqpWaofhsWEm/kqPm0xpEvBD+c0An3jfdHs/0=
+			i4QTl0xXlwazZSDnb3Wvnbc4Z7sFv2llO+bgKpJxxO8=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u3NzIFdnQaFlI2aZIjTSTId1sPi8qpEUySb1LBtKOLM=
+			ZqFWgrNBGbl7qjK2WmMm9YfJEUy8jNc01c/qF6A0Kws=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -114,7 +150,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AajMraDsWIYEgRCbf5QSFqn4l2+g45VuLINAVvZBaFs=
+			ME2MCOx2e2VjEls3Kt2ohhhf15rjIMyi6HIUZu8waMY=
+			</data>
+		</dict>
+		<key>Frameworks/AFNetworking.framework/AFNetworking</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Sho5ifXd3wUYPJId+KC1lDKAmjNP4WoQNN60UN169sU=
+			</data>
+		</dict>
+		<key>Frameworks/AFNetworking.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Wm/CLwexG5xvwG81EFn0YANBeRcbyzdTdyelr0OUo7w=
+			</data>
+		</dict>
+		<key>Frameworks/AFNetworking.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iuIek/3moQSaXzfWlkYTwTGH6TlAZzdL6Kso4HZmtRc=
 			</data>
 		</dict>
 		<key>Frameworks/MBProgressHUD.framework/Info.plist</key>
@@ -128,7 +185,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YotaWz/E4jRTXQke37OCiITfDciYghPFheqK2IeCpzk=
+			xJ68XIDG6YmsvBXZTZnYeGEQ7STqMhs0SKJkQAdnLEs=
 			</data>
 		</dict>
 		<key>Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources</key>
@@ -149,7 +206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LEo/LjV9RG8erDKu8slTT285QUM428pFwMNaEG3CdWE=
+			YrsHj/l3v3cL8O03QXdRUkoB6Xyij+rF/qjLK+2/yPM=
 			</data>
 		</dict>
 		<key>Frameworks/MBProgressHUD_Add.framework/_CodeSignature/CodeResources</key>
@@ -170,7 +227,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yhk+K6qFoGBUOvvWmqfq022oq3x5yueh5E+FaGF7KPM=
+			Sf1fbL0n/Y5N2a0wAJ0hS05mvXGUmivZXvGoq3PznSo=
 			</data>
 		</dict>
 		<key>Frameworks/Masonry.framework/_CodeSignature/CodeResources</key>
@@ -178,6 +235,48 @@
 			<key>hash2</key>
 			<data>
 			8QNByw8De6kG7AAvjc9Hiuy0fYuTRPicAvHKA0w5U/k=
+			</data>
+		</dict>
+		<key>Frameworks/NITools.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ksdODgZjrfHDnaMM+AiGEqtuHB5zSE1PW3jdUek2Lcc=
+			</data>
+		</dict>
+		<key>Frameworks/NITools.framework/NITools</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PYfVIEoXtRKT/5WdW38rRYyylsFXeURTqVqKk3BRQ88=
+			</data>
+		</dict>
+		<key>Frameworks/NITools.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			isMYwJPZGXwx9l/uOhGov9yqybFKGfPvVE8i1FxAMPU=
+			</data>
+		</dict>
+		<key>Frameworks/YYText.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			krTLwGtFxUsar/xLhl0QV4kH5IkalN62ER5Sh0R9MXM=
+			</data>
+		</dict>
+		<key>Frameworks/YYText.framework/YYText</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dwlYwpqeVvJhSpAqsJ1nzFaFc+svJSO8k/ni5KscKO8=
+			</data>
+		</dict>
+		<key>Frameworks/YYText.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UQYqZ76iSK3BsMq41KJteS7q9Mwphzn2Zjgzd9LliUo=
 			</data>
 		</dict>
 	</dict>
