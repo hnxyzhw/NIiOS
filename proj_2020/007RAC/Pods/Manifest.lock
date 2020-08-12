@@ -1,0 +1,37 @@
+PODS:
+  - M13Checkbox (3.4.0)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.0.0)
+  - "MBProgressHUD+Add (0.0.2)":
+    - MBProgressHUD (~> 1.0.0)
+  - ReactiveCocoa (2.1.8):
+    - ReactiveCocoa/Core (= 2.1.8)
+    - ReactiveCocoa/no-arc (= 2.1.8)
+  - ReactiveCocoa/Core (2.1.8):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.1.8)
+
+DEPENDENCIES:
+  - M13Checkbox
+  - Masonry
+  - "MBProgressHUD+Add"
+  - ReactiveCocoa (~> 2.1.8)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - M13Checkbox
+    - Masonry
+    - MBProgressHUD
+    - "MBProgressHUD+Add"
+    - ReactiveCocoa
+
+SPEC CHECKSUMS:
+  M13Checkbox: 6f59404540ac98ba83a3d1afac335895a40c6a5d
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  "MBProgressHUD+Add": 65c4d170c083a2a800ad4470d424ad5978f324c3
+  ReactiveCocoa: f89f2e009a87951b50321bf9feb958823fcc617e
+
+PODFILE CHECKSUM: 329384ae50c0a46b7bb382a7e57bc3fd7bdc5bbe
+
+COCOAPODS: 1.9.2

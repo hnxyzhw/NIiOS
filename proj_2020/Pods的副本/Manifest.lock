@@ -1,0 +1,70 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Charts (3.2.1):
+    - Charts/Core (= 3.2.1)
+  - Charts/Core (3.2.1)
+  - DateTools (2.0.0)
+  - LYEmptyView (1.2.3)
+  - Masonry (1.1.0)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.1.15.7)
+  - Reachability (3.2)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Charts
+  - DateTools
+  - LYEmptyView
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - Reachability
+  - SDWebImage
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - Charts
+    - DateTools
+    - LYEmptyView
+    - Masonry
+    - MJExtension
+    - MJRefresh
+    - Reachability
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  AFNetworking: 2f170321de0f72e1f84199b89ef8c1f578b828ae
+  Charts: 10c2508fe6841e50d86566193ce1e802bf059c2b
+  DateTools: 44818363510f63c7ddaf6d7cd70d44099cc249dc
+  LYEmptyView: 90b99b6d8b613684491a27e10cf2de3acd781d46
+  Masonry: 54f6e002413212c5aaed09efe8e2da945426dc49
+  MJExtension: e4d02b6b647d32389af02c8fb5bc86380eaca00e
+  MJRefresh: ed210beb0186ad01cf60ffb457ea879745e5256c
+  Reachability: 3c71d50935b3b3160760ffc6932418fb229c5544
+  SDWebImage: 9b3207203287555abe26121196fb1f46ca89456f
+  SVProgressHUD: 1c1af9c7eac1497d655a5daa965f55e8b135a87c
+
+PODFILE CHECKSUM: 53b8c698518fdfc15f604715c267d56a1edbafc6
+
+COCOAPODS: 1.9.1
