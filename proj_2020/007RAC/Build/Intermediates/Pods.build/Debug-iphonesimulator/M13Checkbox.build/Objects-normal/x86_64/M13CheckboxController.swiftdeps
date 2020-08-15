@@ -1,0 +1,289 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "M13CheckboxController"
+provides-nominal:
+- "11M13Checkbox0aB10ControllerC"
+provides-member:
+- ["11M13Checkbox0aB10ControllerC", ""]
+provides-dynamic-lookup:
+- "_markType"
+- "_setMarkType"
+- "animate"
+- "animationGenerator"
+- "enableMorphing"
+- "hideBox"
+- "layersToDisplay"
+- "layoutLayers"
+- "markType"
+- "pathGenerator"
+- "resetLayersForState"
+- "secondaryCheckmarkTintColor"
+- "secondaryTintColor"
+- "setMarkType"
+- "state"
+- "tintColor"
+depends-top-level:
+- !private "!="
+- !private "&&"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CALayer"
+- "DefaultValues"
+- "M13Checkbox"
+- !private "M13CheckboxAddRemovePathGenerator"
+- "M13CheckboxAnimationGenerator"
+- "M13CheckboxCheckPathGenerator"
+- "M13CheckboxController"
+- !private "M13CheckboxDisclosurePathGenerator"
+- "M13CheckboxPathGenerator"
+- !private "M13CheckboxRadioPathGenerator"
+- "UIColor"
+- "Void"
+depends-member:
+- ["So15CALayerDelegateP", "CheckState"]
+- ["So15CALayerDelegateP", "MarkType"]
+- ["s7CVarArgP", "CheckState"]
+- ["s7CVarArgP", "MarkType"]
+- ["s7CVarArgP", "black"]
+- ["s7CVarArgP", "lightGray"]
+- ["s7CVarArgP", "white"]
+- !private ["11M13CheckboxAAC10CheckStateO", "deinit"]
+- ["s28CustomDebugStringConvertibleP", "CheckState"]
+- ["s28CustomDebugStringConvertibleP", "MarkType"]
+- ["s28CustomDebugStringConvertibleP", "black"]
+- ["s28CustomDebugStringConvertibleP", "lightGray"]
+- ["s28CustomDebugStringConvertibleP", "white"]
+- ["s23CustomStringConvertibleP", "CheckState"]
+- ["s23CustomStringConvertibleP", "MarkType"]
+- ["s23CustomStringConvertibleP", "black"]
+- ["s23CustomStringConvertibleP", "lightGray"]
+- ["s23CustomStringConvertibleP", "white"]
+- ["11M13Checkbox13DefaultValuesV", "checkState"]
+- ["11M13Checkbox13DefaultValuesV", "markType"]
+- ["SQ", "CheckState"]
+- ["SQ", "MarkType"]
+- ["SQ", "addRemove"]
+- ["SQ", "black"]
+- ["SQ", "checkmark"]
+- ["SQ", "disclosure"]
+- ["SQ", "lightGray"]
+- ["SQ", "radio"]
+- ["SQ", "white"]
+- ["SH", "CheckState"]
+- ["SH", "MarkType"]
+- ["SH", "addRemove"]
+- ["SH", "black"]
+- ["SH", "checkmark"]
+- ["SH", "disclosure"]
+- ["SH", "lightGray"]
+- ["SH", "radio"]
+- ["SH", "white"]
+- ["11M13CheckboxAAC", "CheckState"]
+- ["11M13CheckboxAAC", "MarkType"]
+- !private ["11M13Checkbox0aB22AddRemovePathGeneratorC", "init"]
+- ["11M13Checkbox0aB18AnimationGeneratorC", "init"]
+- ["11M13Checkbox0aB18CheckPathGeneratorC", "init"]
+- ["11M13Checkbox0aB10ControllerC", "Bool"]
+- ["11M13Checkbox0aB10ControllerC", "CALayer"]
+- ["11M13Checkbox0aB10ControllerC", "DefaultValues"]
+- ["11M13Checkbox0aB10ControllerC", "M13Checkbox"]
+- !private ["11M13Checkbox0aB10ControllerC", "M13CheckboxAddRemovePathGenerator"]
+- ["11M13Checkbox0aB10ControllerC", "M13CheckboxAnimationGenerator"]
+- ["11M13Checkbox0aB10ControllerC", "M13CheckboxCheckPathGenerator"]
+- !private ["11M13Checkbox0aB10ControllerC", "M13CheckboxDisclosurePathGenerator"]
+- ["11M13Checkbox0aB10ControllerC", "M13CheckboxPathGenerator"]
+- !private ["11M13Checkbox0aB10ControllerC", "M13CheckboxRadioPathGenerator"]
+- ["11M13Checkbox0aB10ControllerC", "UIColor"]
+- ["11M13Checkbox0aB10ControllerC", "Void"]
+- !private ["11M13Checkbox0aB10ControllerC", "_markType"]
+- !private ["11M13Checkbox0aB10ControllerC", "_setMarkType"]
+- ["11M13Checkbox0aB10ControllerC", "animate"]
+- ["11M13Checkbox0aB10ControllerC", "animationGenerator"]
+- ["11M13Checkbox0aB10ControllerC", "deinit"]
+- ["11M13Checkbox0aB10ControllerC", "enableMorphing"]
+- ["11M13Checkbox0aB10ControllerC", "hideBox"]
+- ["11M13Checkbox0aB10ControllerC", "init"]
+- ["11M13Checkbox0aB10ControllerC", "layersToDisplay"]
+- ["11M13Checkbox0aB10ControllerC", "layoutLayers"]
+- ["11M13Checkbox0aB10ControllerC", "markType"]
+- ["11M13Checkbox0aB10ControllerC", "pathGenerator"]
+- ["11M13Checkbox0aB10ControllerC", "resetLayersForState"]
+- ["11M13Checkbox0aB10ControllerC", "secondaryCheckmarkTintColor"]
+- ["11M13Checkbox0aB10ControllerC", "secondaryTintColor"]
+- ["11M13Checkbox0aB10ControllerC", "setMarkType"]
+- ["11M13Checkbox0aB10ControllerC", "state"]
+- ["11M13Checkbox0aB10ControllerC", "tintColor"]
+- !private ["11M13Checkbox0aB23DisclosurePathGeneratorC", "init"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "boxLineWidth"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "boxType"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "checkmarkLineWidth"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "cornerRadius"]
+- ["11M13Checkbox0aB13PathGeneratorC", "init"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "pathForMark"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "size"]
+- !private ["11M13Checkbox0aB18RadioPathGeneratorC", "init"]
+- ["11M13CheckboxAAC8MarkTypeO", "addRemove"]
+- ["11M13CheckboxAAC8MarkTypeO", "checkmark"]
+- !private ["11M13CheckboxAAC8MarkTypeO", "deinit"]
+- ["11M13CheckboxAAC8MarkTypeO", "disclosure"]
+- ["11M13CheckboxAAC8MarkTypeO", "radio"]
+- ["So8NSCodingP", "CheckState"]
+- ["So8NSCodingP", "MarkType"]
+- ["So8NSCodingP", "black"]
+- ["So8NSCodingP", "lightGray"]
+- ["So8NSCodingP", "white"]
+- ["So9NSCopyingP", "black"]
+- ["So9NSCopyingP", "lightGray"]
+- ["So9NSCopyingP", "white"]
+- ["So21NSItemProviderReadingP", "black"]
+- ["So21NSItemProviderReadingP", "lightGray"]
+- ["So21NSItemProviderReadingP", "white"]
+- ["So21NSItemProviderWritingP", "black"]
+- ["So21NSItemProviderWritingP", "lightGray"]
+- ["So21NSItemProviderWritingP", "white"]
+- ["So8NSObjectC", "CheckState"]
+- ["So8NSObjectC", "MarkType"]
+- ["So8NSObjectC", "black"]
+- ["So8NSObjectC", "lightGray"]
+- ["So8NSObjectC", "white"]
+- ["So8NSObjectP", "CheckState"]
+- ["So8NSObjectP", "MarkType"]
+- ["So8NSObjectP", "black"]
+- ["So8NSObjectP", "lightGray"]
+- ["So8NSObjectP", "white"]
+- ["So14NSSecureCodingP", "black"]
+- ["So14NSSecureCodingP", "lightGray"]
+- ["So14NSSecureCodingP", "white"]
+- ["SY", "addRemove"]
+- ["SY", "checkmark"]
+- ["SY", "disclosure"]
+- ["SY", "radio"]
+- ["So29UIAccessibilityIdentificationP", "CheckState"]
+- ["So29UIAccessibilityIdentificationP", "MarkType"]
+- ["So12UIAppearanceP", "CheckState"]
+- ["So12UIAppearanceP", "MarkType"]
+- ["So21UIAppearanceContainerP", "CheckState"]
+- ["So21UIAppearanceContainerP", "MarkType"]
+- ["So7UIColorC", "black"]
+- ["So7UIColorC", "lightGray"]
+- ["So7UIColorC", "white"]
+- ["So9UIControlC", "CheckState"]
+- ["So9UIControlC", "MarkType"]
+- ["So17UICoordinateSpaceP", "CheckState"]
+- ["So17UICoordinateSpaceP", "MarkType"]
+- ["So13UIDynamicItemP", "CheckState"]
+- ["So13UIDynamicItemP", "MarkType"]
+- ["So18UIFocusEnvironmentP", "CheckState"]
+- ["So18UIFocusEnvironmentP", "MarkType"]
+- ["So11UIFocusItemP", "CheckState"]
+- ["So11UIFocusItemP", "MarkType"]
+- ["So20UIFocusItemContainerP", "CheckState"]
+- ["So20UIFocusItemContainerP", "MarkType"]
+- ["So24UILargeContentViewerItemP", "CheckState"]
+- ["So24UILargeContentViewerItemP", "MarkType"]
+- ["So30UIPasteConfigurationSupportingP", "CheckState"]
+- ["So30UIPasteConfigurationSupportingP", "MarkType"]
+- ["So11UIResponderC", "CheckState"]
+- ["So11UIResponderC", "MarkType"]
+- ["So30UIResponderStandardEditActionsP", "CheckState"]
+- ["So30UIResponderStandardEditActionsP", "MarkType"]
+- ["So18UITraitEnvironmentP", "CheckState"]
+- ["So18UITraitEnvironmentP", "MarkType"]
+- ["So23UIUserActivityRestoringP", "CheckState"]
+- ["So23UIUserActivityRestoringP", "MarkType"]
+- ["So6UIViewC", "CheckState"]
+- ["So6UIViewC", "MarkType"]
+- ["s26_ExpressibleByColorLiteralP", "black"]
+- ["s26_ExpressibleByColorLiteralP", "lightGray"]
+- ["s26_ExpressibleByColorLiteralP", "white"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CheckState"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "MarkType"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "lightGray"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "white"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CheckState"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "MarkType"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "black"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lightGray"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "white"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "CheckState"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "MarkType"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "11M13CheckboxAAC10CheckStateO"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "11M13Checkbox13DefaultValuesV"
+- "SQ"
+- "SH"
+- "11M13CheckboxAAC"
+- !private "11M13Checkbox0aB22AddRemovePathGeneratorC"
+- "11M13Checkbox0aB18AnimationGeneratorC"
+- "11M13Checkbox0aB18CheckPathGeneratorC"
+- "11M13Checkbox0aB10ControllerC"
+- !private "11M13Checkbox0aB23DisclosurePathGeneratorC"
+- "11M13Checkbox0aB13PathGeneratorC"
+- !private "11M13Checkbox0aB18RadioPathGeneratorC"
+- "11M13CheckboxAAC8MarkTypeO"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "SY"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So7UIColorC"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s26_ExpressibleByColorLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/Target Support Files/M13Checkbox/M13Checkbox-umbrella.h"
+- "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Build/Intermediates/Pods.build/Debug-iphonesimulator/M13Checkbox.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "853667cab5672c838b719991aaa04a42"

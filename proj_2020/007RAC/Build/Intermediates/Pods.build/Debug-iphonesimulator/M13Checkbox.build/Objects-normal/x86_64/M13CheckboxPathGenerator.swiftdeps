@@ -1,0 +1,381 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "M13CheckboxPathGenerator"
+provides-nominal:
+- "11M13Checkbox0aB13PathGeneratorC"
+provides-member:
+- ["11M13Checkbox0aB13PathGeneratorC", ""]
+provides-dynamic-lookup:
+- "boxLineWidth"
+- "boxType"
+- "checkmarkLineWidth"
+- "cornerRadius"
+- "pathForBox"
+- "pathForCircle"
+- "pathForDot"
+- "pathForLongMark"
+- "pathForLongMixedMark"
+- "pathForLongUnselectedMark"
+- "pathForMark"
+- "pathForMixedMark"
+- "pathForRoundedRect"
+- "pathForUnselectedMark"
+- "size"
+depends-top-level:
+- !private "!="
+- !private "*"
+- !private "+"
+- !private "-"
+- !private "/"
+- !private "BooleanLiteralType"
+- !private "CGAffineTransform"
+- "CGFloat"
+- !private "CGPoint"
+- "DefaultValues"
+- !private "Double"
+- "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "M13Checkbox"
+- "M13CheckboxPathGenerator"
+- "UIBezierPath"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["s18AdditiveArithmeticP", "pi"]
+- !private ["SB", "init"]
+- !private ["SB", "pi"]
+- ["11M13CheckboxAAC7BoxTypeO", "circle"]
+- ["11M13CheckboxAAC7BoxTypeO", "square"]
+- ["So15CALayerDelegateP", "BoxType"]
+- ["So15CALayerDelegateP", "CheckState"]
+- !private ["So17CGAffineTransformV", "init"]
+- !private ["12CoreGraphics7CGFloatV", "init"]
+- !private ["12CoreGraphics7CGFloatV", "pi"]
+- !private ["So7CGPointV", "init"]
+- !private ["So7CGPointV", "x"]
+- !private ["So7CGPointV", "y"]
+- ["s7CVarArgP", "BoxType"]
+- ["s7CVarArgP", "CheckState"]
+- !private ["s7CVarArgP", "addArc"]
+- !private ["s7CVarArgP", "addLine"]
+- !private ["s7CVarArgP", "apply"]
+- !private ["s7CVarArgP", "close"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "move"]
+- !private ["s7CVarArgP", "pi"]
+- ["11M13CheckboxAAC10CheckStateO", "checked"]
+- ["11M13CheckboxAAC10CheckStateO", "mixed"]
+- ["11M13CheckboxAAC10CheckStateO", "unchecked"]
+- !private ["SL", "init"]
+- !private ["SL", "pi"]
+- ["s28CustomDebugStringConvertibleP", "BoxType"]
+- ["s28CustomDebugStringConvertibleP", "CheckState"]
+- !private ["s28CustomDebugStringConvertibleP", "addArc"]
+- !private ["s28CustomDebugStringConvertibleP", "addLine"]
+- !private ["s28CustomDebugStringConvertibleP", "apply"]
+- !private ["s28CustomDebugStringConvertibleP", "close"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "move"]
+- !private ["s28CustomDebugStringConvertibleP", "pi"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "pi"]
+- !private ["s17CustomReflectableP", "x"]
+- !private ["s17CustomReflectableP", "y"]
+- ["s23CustomStringConvertibleP", "BoxType"]
+- ["s23CustomStringConvertibleP", "CheckState"]
+- !private ["s23CustomStringConvertibleP", "addArc"]
+- !private ["s23CustomStringConvertibleP", "addLine"]
+- !private ["s23CustomStringConvertibleP", "apply"]
+- !private ["s23CustomStringConvertibleP", "close"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "move"]
+- !private ["s23CustomStringConvertibleP", "pi"]
+- !private ["Se", "init"]
+- !private ["Se", "pi"]
+- !private ["Se", "x"]
+- !private ["Se", "y"]
+- ["11M13Checkbox13DefaultValuesV", "boxType"]
+- !private ["Sd", "pi"]
+- !private ["SE", "init"]
+- !private ["SE", "pi"]
+- !private ["SE", "x"]
+- !private ["SE", "y"]
+- ["SQ", "BoxType"]
+- ["SQ", "CheckState"]
+- !private ["SQ", "addArc"]
+- !private ["SQ", "addLine"]
+- !private ["SQ", "apply"]
+- ["SQ", "checked"]
+- ["SQ", "circle"]
+- !private ["SQ", "close"]
+- !private ["SQ", "init"]
+- ["SQ", "mixed"]
+- !private ["SQ", "move"]
+- !private ["SQ", "pi"]
+- ["SQ", "square"]
+- ["SQ", "unchecked"]
+- !private ["SQ", "x"]
+- !private ["SQ", "y"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "pi"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "pi"]
+- !private ["SF", "init"]
+- !private ["SF", "pi"]
+- ["SH", "BoxType"]
+- ["SH", "CheckState"]
+- !private ["SH", "addArc"]
+- !private ["SH", "addLine"]
+- !private ["SH", "apply"]
+- ["SH", "checked"]
+- ["SH", "circle"]
+- !private ["SH", "close"]
+- !private ["SH", "init"]
+- ["SH", "mixed"]
+- !private ["SH", "move"]
+- !private ["SH", "pi"]
+- ["SH", "square"]
+- ["SH", "unchecked"]
+- !private ["s25LosslessStringConvertibleP", "pi"]
+- ["11M13CheckboxAAC", "BoxType"]
+- ["11M13CheckboxAAC", "CheckState"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "CGAffineTransform"]
+- ["11M13Checkbox0aB13PathGeneratorC", "CGFloat"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "CGPoint"]
+- ["11M13Checkbox0aB13PathGeneratorC", "DefaultValues"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "Double"]
+- ["11M13Checkbox0aB13PathGeneratorC", "M13Checkbox"]
+- ["11M13Checkbox0aB13PathGeneratorC", "UIBezierPath"]
+- ["11M13Checkbox0aB13PathGeneratorC", "boxLineWidth"]
+- ["11M13Checkbox0aB13PathGeneratorC", "boxType"]
+- ["11M13Checkbox0aB13PathGeneratorC", "checkmarkLineWidth"]
+- ["11M13Checkbox0aB13PathGeneratorC", "cornerRadius"]
+- ["11M13Checkbox0aB13PathGeneratorC", "deinit"]
+- ["11M13Checkbox0aB13PathGeneratorC", "init"]
+- ["11M13Checkbox0aB13PathGeneratorC", "pathForBox"]
+- ["11M13Checkbox0aB13PathGeneratorC", "pathForCircle"]
+- ["11M13Checkbox0aB13PathGeneratorC", "pathForDot"]
+- ["11M13Checkbox0aB13PathGeneratorC", "pathForLongMark"]
+- ["11M13Checkbox0aB13PathGeneratorC", "pathForLongMixedMark"]
+- ["11M13Checkbox0aB13PathGeneratorC", "pathForLongUnselectedMark"]
+- ["11M13Checkbox0aB13PathGeneratorC", "pathForMark"]
+- ["11M13Checkbox0aB13PathGeneratorC", "pathForMixedMark"]
+- ["11M13Checkbox0aB13PathGeneratorC", "pathForRoundedRect"]
+- ["11M13Checkbox0aB13PathGeneratorC", "pathForUnselectedMark"]
+- ["11M13Checkbox0aB13PathGeneratorC", "size"]
+- ["So8NSCodingP", "BoxType"]
+- ["So8NSCodingP", "CheckState"]
+- !private ["So8NSCodingP", "addArc"]
+- !private ["So8NSCodingP", "addLine"]
+- !private ["So8NSCodingP", "apply"]
+- !private ["So8NSCodingP", "close"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "move"]
+- !private ["So9NSCopyingP", "addArc"]
+- !private ["So9NSCopyingP", "addLine"]
+- !private ["So9NSCopyingP", "apply"]
+- !private ["So9NSCopyingP", "close"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "move"]
+- ["So8NSObjectC", "BoxType"]
+- ["So8NSObjectC", "CheckState"]
+- !private ["So8NSObjectC", "addArc"]
+- !private ["So8NSObjectC", "addLine"]
+- !private ["So8NSObjectC", "apply"]
+- !private ["So8NSObjectC", "close"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "move"]
+- ["So8NSObjectP", "BoxType"]
+- ["So8NSObjectP", "CheckState"]
+- !private ["So8NSObjectP", "addArc"]
+- !private ["So8NSObjectP", "addLine"]
+- !private ["So8NSObjectP", "apply"]
+- !private ["So8NSObjectP", "close"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "move"]
+- !private ["So14NSSecureCodingP", "addArc"]
+- !private ["So14NSSecureCodingP", "addLine"]
+- !private ["So14NSSecureCodingP", "apply"]
+- !private ["So14NSSecureCodingP", "close"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "move"]
+- !private ["Sj", "init"]
+- !private ["Sj", "pi"]
+- ["SY", "checked"]
+- ["SY", "circle"]
+- ["SY", "mixed"]
+- ["SY", "square"]
+- ["SY", "unchecked"]
+- !private ["s10SIMDScalarP", "pi"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s13SignedNumericP", "pi"]
+- !private ["Sx", "init"]
+- !private ["Sx", "pi"]
+- !private ["s20TextOutputStreamableP", "pi"]
+- ["So29UIAccessibilityIdentificationP", "BoxType"]
+- ["So29UIAccessibilityIdentificationP", "CheckState"]
+- ["So12UIAppearanceP", "BoxType"]
+- ["So12UIAppearanceP", "CheckState"]
+- ["So21UIAppearanceContainerP", "BoxType"]
+- ["So21UIAppearanceContainerP", "CheckState"]
+- !private ["So12UIBezierPathC", "addArc"]
+- !private ["So12UIBezierPathC", "addLine"]
+- !private ["So12UIBezierPathC", "apply"]
+- !private ["So12UIBezierPathC", "close"]
+- !private ["So12UIBezierPathC", "init"]
+- !private ["So12UIBezierPathC", "move"]
+- ["So9UIControlC", "BoxType"]
+- ["So9UIControlC", "CheckState"]
+- ["So17UICoordinateSpaceP", "BoxType"]
+- ["So17UICoordinateSpaceP", "CheckState"]
+- ["So13UIDynamicItemP", "BoxType"]
+- ["So13UIDynamicItemP", "CheckState"]
+- ["So18UIFocusEnvironmentP", "BoxType"]
+- ["So18UIFocusEnvironmentP", "CheckState"]
+- ["So11UIFocusItemP", "BoxType"]
+- ["So11UIFocusItemP", "CheckState"]
+- ["So20UIFocusItemContainerP", "BoxType"]
+- ["So20UIFocusItemContainerP", "CheckState"]
+- ["So24UILargeContentViewerItemP", "BoxType"]
+- ["So24UILargeContentViewerItemP", "CheckState"]
+- ["So30UIPasteConfigurationSupportingP", "BoxType"]
+- ["So30UIPasteConfigurationSupportingP", "CheckState"]
+- ["So11UIResponderC", "BoxType"]
+- ["So11UIResponderC", "CheckState"]
+- ["So30UIResponderStandardEditActionsP", "BoxType"]
+- ["So30UIResponderStandardEditActionsP", "CheckState"]
+- ["So18UITraitEnvironmentP", "BoxType"]
+- ["So18UITraitEnvironmentP", "CheckState"]
+- ["So23UIUserActivityRestoringP", "BoxType"]
+- ["So23UIUserActivityRestoringP", "CheckState"]
+- ["So6UIViewC", "BoxType"]
+- ["So6UIViewC", "CheckState"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s15_CVarArgAlignedP", "pi"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "pi"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "pi"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "x"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "y"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "pi"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "pi"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "pi"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "BoxType"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CheckState"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addArc"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addLine"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "apply"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "close"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "move"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "BoxType"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CheckState"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addArc"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addLine"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "apply"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "close"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "move"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "pi"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "BoxType"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "CheckState"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SB"
+- "11M13CheckboxAAC7BoxTypeO"
+- "So15CALayerDelegateP"
+- !private "So17CGAffineTransformV"
+- !private "12CoreGraphics7CGFloatV"
+- !private "So7CGPointV"
+- "s7CVarArgP"
+- "11M13CheckboxAAC10CheckStateO"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- "11M13Checkbox13DefaultValuesV"
+- !private "Sd"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "SF"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- "11M13CheckboxAAC"
+- "11M13Checkbox0aB13PathGeneratorC"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sj"
+- "SY"
+- !private "s10SIMDScalarP"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So12UIBezierPathC"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/Target Support Files/M13Checkbox/M13Checkbox-umbrella.h"
+- "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Build/Intermediates/Pods.build/Debug-iphonesimulator/M13Checkbox.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "78a792478fad10ec0d56e72dbaa6c212"

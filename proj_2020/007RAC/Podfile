@@ -1,5 +1,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 source 'https://github.com/Artsy/Specs.git'
+#source 'https://gitee.com/KAERBluetooth/NILuck.git'
+
 
 platform :ios, '9.0'
 # 引用框架
@@ -15,10 +17,10 @@ target '004Basic' do
  # Pods for Pos 
  pod 'Masonry'
  pod 'MBProgressHUD+Add'
- #pod 'NITools'
+ pod 'NITools'
  pod 'ReactiveCocoa','~>2.1.8'
  pod 'M13Checkbox'
- 
+# pod 'NILuck'
 end
 #Xcode里配置：项目名->Target->Build Settings->Enable BitCode中设置为NO就可以了.
 post_install do |installer|

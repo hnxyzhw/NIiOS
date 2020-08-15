@@ -1,0 +1,395 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["11M13CheckboxAAC", ""]
+- ["11M13CheckboxAAC", "_IBStateChangeAnimation"]
+- ["11M13CheckboxAAC", "_IBMarkType"]
+- ["11M13CheckboxAAC", "_IBBoxType"]
+- ["11M13CheckboxAAC", "_IBCheckState"]
+provides-dynamic-lookup:
+- "_IBBoxType"
+- "_IBCheckState"
+- "_IBMarkType"
+- "_IBStateChangeAnimation"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "DefaultValues"
+- "M13Checkbox"
+- "String"
+depends-member:
+- !private ["11M13CheckboxAAC9AnimationO", "deinit"]
+- !private ["11M13CheckboxAAC9AnimationO", "init"]
+- !private ["11M13CheckboxAAC9AnimationO", "rawValue"]
+- !private ["11M13CheckboxAAC7BoxTypeO", "deinit"]
+- !private ["11M13CheckboxAAC7BoxTypeO", "init"]
+- !private ["11M13CheckboxAAC7BoxTypeO", "rawValue"]
+- !private ["So15CALayerDelegateP", "Animation"]
+- !private ["So15CALayerDelegateP", "BoxType"]
+- !private ["So15CALayerDelegateP", "CheckState"]
+- !private ["So15CALayerDelegateP", "DefaultValues"]
+- !private ["So15CALayerDelegateP", "MarkType"]
+- !private ["So15CALayerDelegateP", "boxType"]
+- !private ["So15CALayerDelegateP", "checkState"]
+- !private ["So15CALayerDelegateP", "markType"]
+- !private ["So15CALayerDelegateP", "stateChangeAnimation"]
+- !private ["s7CVarArgP", "Animation"]
+- !private ["s7CVarArgP", "BoxType"]
+- !private ["s7CVarArgP", "CheckState"]
+- !private ["s7CVarArgP", "DefaultValues"]
+- !private ["s7CVarArgP", "MarkType"]
+- !private ["s7CVarArgP", "boxType"]
+- !private ["s7CVarArgP", "checkState"]
+- !private ["s7CVarArgP", "markType"]
+- !private ["s7CVarArgP", "stateChangeAnimation"]
+- !private ["11M13CheckboxAAC10CheckStateO", "deinit"]
+- !private ["11M13CheckboxAAC10CheckStateO", "init"]
+- !private ["11M13CheckboxAAC10CheckStateO", "rawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "Animation"]
+- !private ["s28CustomDebugStringConvertibleP", "BoxType"]
+- !private ["s28CustomDebugStringConvertibleP", "CheckState"]
+- !private ["s28CustomDebugStringConvertibleP", "DefaultValues"]
+- !private ["s28CustomDebugStringConvertibleP", "MarkType"]
+- !private ["s28CustomDebugStringConvertibleP", "boxType"]
+- !private ["s28CustomDebugStringConvertibleP", "checkState"]
+- !private ["s28CustomDebugStringConvertibleP", "markType"]
+- !private ["s28CustomDebugStringConvertibleP", "stateChangeAnimation"]
+- !private ["s23CustomStringConvertibleP", "Animation"]
+- !private ["s23CustomStringConvertibleP", "BoxType"]
+- !private ["s23CustomStringConvertibleP", "CheckState"]
+- !private ["s23CustomStringConvertibleP", "DefaultValues"]
+- !private ["s23CustomStringConvertibleP", "MarkType"]
+- !private ["s23CustomStringConvertibleP", "boxType"]
+- !private ["s23CustomStringConvertibleP", "checkState"]
+- !private ["s23CustomStringConvertibleP", "markType"]
+- !private ["s23CustomStringConvertibleP", "stateChangeAnimation"]
+- !private ["11M13Checkbox13DefaultValuesV", "animation"]
+- !private ["11M13Checkbox13DefaultValuesV", "boxType"]
+- !private ["11M13Checkbox13DefaultValuesV", "checkState"]
+- !private ["11M13Checkbox13DefaultValuesV", "markType"]
+- !private ["SQ", "Animation"]
+- !private ["SQ", "BoxType"]
+- !private ["SQ", "CheckState"]
+- !private ["SQ", "DefaultValues"]
+- !private ["SQ", "MarkType"]
+- !private ["SQ", "boxType"]
+- !private ["SQ", "checkState"]
+- !private ["SQ", "init"]
+- !private ["SQ", "markType"]
+- !private ["SQ", "rawValue"]
+- !private ["SQ", "stateChangeAnimation"]
+- !private ["SH", "Animation"]
+- !private ["SH", "BoxType"]
+- !private ["SH", "CheckState"]
+- !private ["SH", "DefaultValues"]
+- !private ["SH", "MarkType"]
+- !private ["SH", "boxType"]
+- !private ["SH", "checkState"]
+- !private ["SH", "init"]
+- !private ["SH", "markType"]
+- !private ["SH", "rawValue"]
+- !private ["SH", "stateChangeAnimation"]
+- !private ["11M13CheckboxAAC", "Animation"]
+- !private ["11M13CheckboxAAC", "BoxType"]
+- !private ["11M13CheckboxAAC", "CheckState"]
+- !private ["11M13CheckboxAAC", "DefaultValues"]
+- !private ["11M13CheckboxAAC", "MarkType"]
+- ["11M13CheckboxAAC", "String"]
+- ["11M13CheckboxAAC", "_IBBoxType"]
+- ["11M13CheckboxAAC", "_IBCheckState"]
+- ["11M13CheckboxAAC", "_IBMarkType"]
+- ["11M13CheckboxAAC", "_IBStateChangeAnimation"]
+- !private ["11M13CheckboxAAC", "boxType"]
+- !private ["11M13CheckboxAAC", "checkState"]
+- !private ["11M13CheckboxAAC", "markType"]
+- !private ["11M13CheckboxAAC", "stateChangeAnimation"]
+- !private ["11M13CheckboxAAC8MarkTypeO", "deinit"]
+- !private ["11M13CheckboxAAC8MarkTypeO", "init"]
+- !private ["11M13CheckboxAAC8MarkTypeO", "rawValue"]
+- !private ["So8NSCodingP", "Animation"]
+- !private ["So8NSCodingP", "BoxType"]
+- !private ["So8NSCodingP", "CheckState"]
+- !private ["So8NSCodingP", "DefaultValues"]
+- !private ["So8NSCodingP", "MarkType"]
+- !private ["So8NSCodingP", "boxType"]
+- !private ["So8NSCodingP", "checkState"]
+- !private ["So8NSCodingP", "markType"]
+- !private ["So8NSCodingP", "stateChangeAnimation"]
+- !private ["So8NSObjectC", "Animation"]
+- !private ["So8NSObjectC", "BoxType"]
+- !private ["So8NSObjectC", "CheckState"]
+- !private ["So8NSObjectC", "DefaultValues"]
+- !private ["So8NSObjectC", "MarkType"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "_IBBoxType"]
+- ["So8NSObjectC", "_IBCheckState"]
+- ["So8NSObjectC", "_IBMarkType"]
+- ["So8NSObjectC", "_IBStateChangeAnimation"]
+- !private ["So8NSObjectC", "boxType"]
+- !private ["So8NSObjectC", "checkState"]
+- !private ["So8NSObjectC", "markType"]
+- !private ["So8NSObjectC", "stateChangeAnimation"]
+- !private ["So8NSObjectP", "Animation"]
+- !private ["So8NSObjectP", "BoxType"]
+- !private ["So8NSObjectP", "CheckState"]
+- !private ["So8NSObjectP", "DefaultValues"]
+- !private ["So8NSObjectP", "MarkType"]
+- !private ["So8NSObjectP", "boxType"]
+- !private ["So8NSObjectP", "checkState"]
+- !private ["So8NSObjectP", "markType"]
+- !private ["So8NSObjectP", "stateChangeAnimation"]
+- !private ["SY", "init"]
+- !private ["SY", "rawValue"]
+- !private ["So29UIAccessibilityIdentificationP", "Animation"]
+- !private ["So29UIAccessibilityIdentificationP", "BoxType"]
+- !private ["So29UIAccessibilityIdentificationP", "CheckState"]
+- !private ["So29UIAccessibilityIdentificationP", "DefaultValues"]
+- !private ["So29UIAccessibilityIdentificationP", "MarkType"]
+- !private ["So29UIAccessibilityIdentificationP", "boxType"]
+- !private ["So29UIAccessibilityIdentificationP", "checkState"]
+- !private ["So29UIAccessibilityIdentificationP", "markType"]
+- !private ["So29UIAccessibilityIdentificationP", "stateChangeAnimation"]
+- !private ["So12UIAppearanceP", "Animation"]
+- !private ["So12UIAppearanceP", "BoxType"]
+- !private ["So12UIAppearanceP", "CheckState"]
+- !private ["So12UIAppearanceP", "DefaultValues"]
+- !private ["So12UIAppearanceP", "MarkType"]
+- !private ["So12UIAppearanceP", "boxType"]
+- !private ["So12UIAppearanceP", "checkState"]
+- !private ["So12UIAppearanceP", "markType"]
+- !private ["So12UIAppearanceP", "stateChangeAnimation"]
+- !private ["So21UIAppearanceContainerP", "Animation"]
+- !private ["So21UIAppearanceContainerP", "BoxType"]
+- !private ["So21UIAppearanceContainerP", "CheckState"]
+- !private ["So21UIAppearanceContainerP", "DefaultValues"]
+- !private ["So21UIAppearanceContainerP", "MarkType"]
+- !private ["So21UIAppearanceContainerP", "boxType"]
+- !private ["So21UIAppearanceContainerP", "checkState"]
+- !private ["So21UIAppearanceContainerP", "markType"]
+- !private ["So21UIAppearanceContainerP", "stateChangeAnimation"]
+- !private ["So9UIControlC", "Animation"]
+- !private ["So9UIControlC", "BoxType"]
+- !private ["So9UIControlC", "CheckState"]
+- !private ["So9UIControlC", "DefaultValues"]
+- !private ["So9UIControlC", "MarkType"]
+- ["So9UIControlC", "String"]
+- ["So9UIControlC", "_IBBoxType"]
+- ["So9UIControlC", "_IBCheckState"]
+- ["So9UIControlC", "_IBMarkType"]
+- ["So9UIControlC", "_IBStateChangeAnimation"]
+- !private ["So9UIControlC", "boxType"]
+- !private ["So9UIControlC", "checkState"]
+- !private ["So9UIControlC", "markType"]
+- !private ["So9UIControlC", "stateChangeAnimation"]
+- !private ["So17UICoordinateSpaceP", "Animation"]
+- !private ["So17UICoordinateSpaceP", "BoxType"]
+- !private ["So17UICoordinateSpaceP", "CheckState"]
+- !private ["So17UICoordinateSpaceP", "DefaultValues"]
+- !private ["So17UICoordinateSpaceP", "MarkType"]
+- !private ["So17UICoordinateSpaceP", "boxType"]
+- !private ["So17UICoordinateSpaceP", "checkState"]
+- !private ["So17UICoordinateSpaceP", "markType"]
+- !private ["So17UICoordinateSpaceP", "stateChangeAnimation"]
+- !private ["So13UIDynamicItemP", "Animation"]
+- !private ["So13UIDynamicItemP", "BoxType"]
+- !private ["So13UIDynamicItemP", "CheckState"]
+- !private ["So13UIDynamicItemP", "DefaultValues"]
+- !private ["So13UIDynamicItemP", "MarkType"]
+- !private ["So13UIDynamicItemP", "boxType"]
+- !private ["So13UIDynamicItemP", "checkState"]
+- !private ["So13UIDynamicItemP", "markType"]
+- !private ["So13UIDynamicItemP", "stateChangeAnimation"]
+- !private ["So18UIFocusEnvironmentP", "Animation"]
+- !private ["So18UIFocusEnvironmentP", "BoxType"]
+- !private ["So18UIFocusEnvironmentP", "CheckState"]
+- !private ["So18UIFocusEnvironmentP", "DefaultValues"]
+- !private ["So18UIFocusEnvironmentP", "MarkType"]
+- !private ["So18UIFocusEnvironmentP", "boxType"]
+- !private ["So18UIFocusEnvironmentP", "checkState"]
+- !private ["So18UIFocusEnvironmentP", "markType"]
+- !private ["So18UIFocusEnvironmentP", "stateChangeAnimation"]
+- !private ["So11UIFocusItemP", "Animation"]
+- !private ["So11UIFocusItemP", "BoxType"]
+- !private ["So11UIFocusItemP", "CheckState"]
+- !private ["So11UIFocusItemP", "DefaultValues"]
+- !private ["So11UIFocusItemP", "MarkType"]
+- !private ["So11UIFocusItemP", "boxType"]
+- !private ["So11UIFocusItemP", "checkState"]
+- !private ["So11UIFocusItemP", "markType"]
+- !private ["So11UIFocusItemP", "stateChangeAnimation"]
+- !private ["So20UIFocusItemContainerP", "Animation"]
+- !private ["So20UIFocusItemContainerP", "BoxType"]
+- !private ["So20UIFocusItemContainerP", "CheckState"]
+- !private ["So20UIFocusItemContainerP", "DefaultValues"]
+- !private ["So20UIFocusItemContainerP", "MarkType"]
+- !private ["So20UIFocusItemContainerP", "boxType"]
+- !private ["So20UIFocusItemContainerP", "checkState"]
+- !private ["So20UIFocusItemContainerP", "markType"]
+- !private ["So20UIFocusItemContainerP", "stateChangeAnimation"]
+- !private ["So24UILargeContentViewerItemP", "Animation"]
+- !private ["So24UILargeContentViewerItemP", "BoxType"]
+- !private ["So24UILargeContentViewerItemP", "CheckState"]
+- !private ["So24UILargeContentViewerItemP", "DefaultValues"]
+- !private ["So24UILargeContentViewerItemP", "MarkType"]
+- !private ["So24UILargeContentViewerItemP", "boxType"]
+- !private ["So24UILargeContentViewerItemP", "checkState"]
+- !private ["So24UILargeContentViewerItemP", "markType"]
+- !private ["So24UILargeContentViewerItemP", "stateChangeAnimation"]
+- !private ["So30UIPasteConfigurationSupportingP", "Animation"]
+- !private ["So30UIPasteConfigurationSupportingP", "BoxType"]
+- !private ["So30UIPasteConfigurationSupportingP", "CheckState"]
+- !private ["So30UIPasteConfigurationSupportingP", "DefaultValues"]
+- !private ["So30UIPasteConfigurationSupportingP", "MarkType"]
+- !private ["So30UIPasteConfigurationSupportingP", "boxType"]
+- !private ["So30UIPasteConfigurationSupportingP", "checkState"]
+- !private ["So30UIPasteConfigurationSupportingP", "markType"]
+- !private ["So30UIPasteConfigurationSupportingP", "stateChangeAnimation"]
+- !private ["So11UIResponderC", "Animation"]
+- !private ["So11UIResponderC", "BoxType"]
+- !private ["So11UIResponderC", "CheckState"]
+- !private ["So11UIResponderC", "DefaultValues"]
+- !private ["So11UIResponderC", "MarkType"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "_IBBoxType"]
+- ["So11UIResponderC", "_IBCheckState"]
+- ["So11UIResponderC", "_IBMarkType"]
+- ["So11UIResponderC", "_IBStateChangeAnimation"]
+- !private ["So11UIResponderC", "boxType"]
+- !private ["So11UIResponderC", "checkState"]
+- !private ["So11UIResponderC", "markType"]
+- !private ["So11UIResponderC", "stateChangeAnimation"]
+- !private ["So30UIResponderStandardEditActionsP", "Animation"]
+- !private ["So30UIResponderStandardEditActionsP", "BoxType"]
+- !private ["So30UIResponderStandardEditActionsP", "CheckState"]
+- !private ["So30UIResponderStandardEditActionsP", "DefaultValues"]
+- !private ["So30UIResponderStandardEditActionsP", "MarkType"]
+- !private ["So30UIResponderStandardEditActionsP", "boxType"]
+- !private ["So30UIResponderStandardEditActionsP", "checkState"]
+- !private ["So30UIResponderStandardEditActionsP", "markType"]
+- !private ["So30UIResponderStandardEditActionsP", "stateChangeAnimation"]
+- !private ["So18UITraitEnvironmentP", "Animation"]
+- !private ["So18UITraitEnvironmentP", "BoxType"]
+- !private ["So18UITraitEnvironmentP", "CheckState"]
+- !private ["So18UITraitEnvironmentP", "DefaultValues"]
+- !private ["So18UITraitEnvironmentP", "MarkType"]
+- !private ["So18UITraitEnvironmentP", "boxType"]
+- !private ["So18UITraitEnvironmentP", "checkState"]
+- !private ["So18UITraitEnvironmentP", "markType"]
+- !private ["So18UITraitEnvironmentP", "stateChangeAnimation"]
+- !private ["So23UIUserActivityRestoringP", "Animation"]
+- !private ["So23UIUserActivityRestoringP", "BoxType"]
+- !private ["So23UIUserActivityRestoringP", "CheckState"]
+- !private ["So23UIUserActivityRestoringP", "DefaultValues"]
+- !private ["So23UIUserActivityRestoringP", "MarkType"]
+- !private ["So23UIUserActivityRestoringP", "boxType"]
+- !private ["So23UIUserActivityRestoringP", "checkState"]
+- !private ["So23UIUserActivityRestoringP", "markType"]
+- !private ["So23UIUserActivityRestoringP", "stateChangeAnimation"]
+- !private ["So6UIViewC", "Animation"]
+- !private ["So6UIViewC", "BoxType"]
+- !private ["So6UIViewC", "CheckState"]
+- !private ["So6UIViewC", "DefaultValues"]
+- !private ["So6UIViewC", "MarkType"]
+- ["So6UIViewC", "String"]
+- ["So6UIViewC", "_IBBoxType"]
+- ["So6UIViewC", "_IBCheckState"]
+- ["So6UIViewC", "_IBMarkType"]
+- ["So6UIViewC", "_IBStateChangeAnimation"]
+- !private ["So6UIViewC", "boxType"]
+- !private ["So6UIViewC", "checkState"]
+- !private ["So6UIViewC", "markType"]
+- !private ["So6UIViewC", "stateChangeAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Animation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "BoxType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CheckState"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DefaultValues"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MarkType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "boxType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "checkState"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "markType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stateChangeAnimation"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Animation"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "BoxType"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CheckState"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "DefaultValues"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "MarkType"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "boxType"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "checkState"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "markType"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "stateChangeAnimation"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "Animation"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "BoxType"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "CheckState"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "DefaultValues"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "MarkType"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "boxType"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "checkState"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "markType"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "stateChangeAnimation"]
+depends-nominal:
+- !private "11M13CheckboxAAC9AnimationO"
+- !private "11M13CheckboxAAC7BoxTypeO"
+- !private "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- !private "11M13CheckboxAAC10CheckStateO"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "11M13Checkbox13DefaultValuesV"
+- !private "SQ"
+- !private "SH"
+- "11M13CheckboxAAC"
+- !private "11M13CheckboxAAC8MarkTypeO"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "SY"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/Target Support Files/M13Checkbox/M13Checkbox-umbrella.h"
+- "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Build/Intermediates/Pods.build/Debug-iphonesimulator/M13Checkbox.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c5fad3c753c93c6d85f8343e138c8e9f"

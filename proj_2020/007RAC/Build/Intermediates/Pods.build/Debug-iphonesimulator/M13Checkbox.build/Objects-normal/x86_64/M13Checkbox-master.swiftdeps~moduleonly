@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "1bdf916f7efe3037e34b395aee59fd25"
+build_time: [1597479242, 573427000]
+inputs:
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/DefaultValues.swift": [1597459710, 626673352]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/M13Checkbox+IB.swift": [1597459710, 756438604]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/M13Checkbox.swift": [1597459710, 570352502]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Paths/M13CheckboxAddRemovePathGenerator.swift": [1597459710, 514394119]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/M13CheckboxAnimationGenerator.swift": [1597459710, 597036441]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Managers/M13CheckboxBounceController.swift": [1597459710, 347766795]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Paths/M13CheckboxCheckPathGenerator.swift": [1597459710, 447516072]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/M13CheckboxController.swift": [1597459710, 676419288]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Paths/M13CheckboxDisclosurePathGenerator.swift": [1597459710, 477495806]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Managers/M13CheckboxDotController.swift": [1597459710, 387442572]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Managers/M13CheckboxExpandController.swift": [1597459710, 111773968]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Managers/M13CheckboxFadeController.swift": [1597459710, 226372967]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Managers/M13CheckboxFillController.swift": [1597459710, 283517129]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Managers/M13CheckboxFlatController.swift": [1597459710, 256911704]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/M13CheckboxGestureRecognizer.swift": [1597459710, 650510886]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Paths/M13CheckboxPathGenerator.swift": [1597459710, 415959998]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Paths/M13CheckboxRadioPathGenerator.swift": [1597459710, 541294592]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Managers/M13CheckboxSpiralController.swift": [1597459710, 165076285]
+  "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/M13Checkbox/Sources/Managers/M13CheckboxStrokeController.swift": [1597459710, 311255488]

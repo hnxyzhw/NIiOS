@@ -10,16 +10,10 @@
 #import "UIView+Frame.h"
 #import "UIView+MBPHUD.h"
 #import "Masonry.h"
-//#import <ReactiveCocoa/ReactiveCocoa.h>
 #import "ReactiveCocoa.h"
+#import "NITools/NIMacro.h"
+
 @import M13Checkbox;
-
-// 屏幕
-#define kScreenWidth [UIScreen mainScreen].bounds.size.width     //屏幕宽度
-#define kScreenHeight [UIScreen mainScreen].bounds.size.height   //屏幕高度
-
-#define LRWeakSelf(type)  __weak typeof(type) weak##type = type;
-#define LRStrongSelf(type)  __strong typeof(type) type = weak##type;
 
 @interface ViewController ()<UITextFieldDelegate>
 @property(nonatomic,strong) UIView *viewTop;
@@ -112,11 +106,10 @@
         [_btnNext2 setTitle:@"RAC学习" forState:UIControlStateNormal];
         [_btnNext2 setBackgroundColor:[UIColor redColor]];
         [_btnNext2 setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
-        //[_btnNext2 addTarget:self action:@selector(nextPage) forControlEvents:UIControlEventTouchUpInside];
-        
-        LRWeakSelf(self)
+        //[_btnNext2 addTarget:self action:@selector(nextPage) forControlEvents:UIControlEventTouchUpInside];        
+        kWeakSelf(self)
         [[_btnNext2 rac_signalForControlEvents:UIControlEventTouchUpInside] subscribeNext:^(id x) {
-            LRStrongSelf(self)
+            kStrongSelf(self)
             [self.view showHUDMessage:@"---_btnNext2点击事件响应---"];
         }];
     }

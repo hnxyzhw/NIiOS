@@ -1,0 +1,612 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "M13CheckboxFadeController"
+provides-nominal:
+- "11M13Checkbox0aB14FadeControllerC"
+provides-member:
+- ["11M13Checkbox0aB14FadeControllerC", ""]
+provides-dynamic-lookup:
+- "animate"
+- "hideBox"
+- "layersToDisplay"
+- "layoutLayers"
+- "markLayer"
+- "resetLayersForState"
+- "secondaryCheckmarkTintColor"
+- "secondaryTintColor"
+- "selectedBoxLayer"
+- "sharedSetup"
+- "style"
+- "tintColor"
+- "unselectedBoxLayer"
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CALayer"
+- "CAShapeLayer"
+- !private "CATransaction"
+- !private "CATransform3DIdentity"
+- !private "CGRect"
+- !private "FloatLiteralType"
+- "M13Checkbox"
+- "M13CheckboxController"
+- "M13CheckboxFadeController"
+- !private "NSNull"
+- !private "StringLiteralType"
+- "UIColor"
+- !private "UIScreen"
+- "Void"
+depends-member:
+- !private ["11M13CheckboxAAC14AnimationStyleO", "deinit"]
+- !private ["11M13CheckboxAAC14AnimationStyleO", "fill"]
+- ["11M13CheckboxAAC14AnimationStyleO", "stroke"]
+- !private ["So8CAActionP", "init"]
+- !private ["So7CALayerC", "actions"]
+- !private ["So7CALayerC", "add"]
+- !private ["So7CALayerC", "fillColor"]
+- !private ["So7CALayerC", "frame"]
+- ["So7CALayerC", "init"]
+- !private ["So7CALayerC", "isHidden"]
+- !private ["So7CALayerC", "lineCap"]
+- !private ["So7CALayerC", "lineJoin"]
+- !private ["So7CALayerC", "lineWidth"]
+- !private ["So7CALayerC", "opacity"]
+- !private ["So7CALayerC", "path"]
+- !private ["So7CALayerC", "rasterizationScale"]
+- !private ["So7CALayerC", "removeAllAnimations"]
+- !private ["So7CALayerC", "shouldRasterize"]
+- !private ["So7CALayerC", "strokeColor"]
+- !private ["So7CALayerC", "strokeEnd"]
+- !private ["So7CALayerC", "transform"]
+- ["So15CALayerDelegateP", "AnimationStyle"]
+- ["So15CALayerDelegateP", "CheckState"]
+- !private ["So13CAMediaTimingP", "actions"]
+- !private ["So13CAMediaTimingP", "add"]
+- !private ["So13CAMediaTimingP", "fillColor"]
+- !private ["So13CAMediaTimingP", "frame"]
+- ["So13CAMediaTimingP", "init"]
+- !private ["So13CAMediaTimingP", "isHidden"]
+- !private ["So13CAMediaTimingP", "lineCap"]
+- !private ["So13CAMediaTimingP", "lineJoin"]
+- !private ["So13CAMediaTimingP", "lineWidth"]
+- !private ["So13CAMediaTimingP", "opacity"]
+- !private ["So13CAMediaTimingP", "path"]
+- !private ["So13CAMediaTimingP", "rasterizationScale"]
+- !private ["So13CAMediaTimingP", "removeAllAnimations"]
+- !private ["So13CAMediaTimingP", "shouldRasterize"]
+- !private ["So13CAMediaTimingP", "strokeColor"]
+- !private ["So13CAMediaTimingP", "strokeEnd"]
+- !private ["So13CAMediaTimingP", "transform"]
+- !private ["So12CAShapeLayerC", "actions"]
+- !private ["So12CAShapeLayerC", "add"]
+- !private ["So12CAShapeLayerC", "fillColor"]
+- !private ["So12CAShapeLayerC", "frame"]
+- ["So12CAShapeLayerC", "init"]
+- !private ["So12CAShapeLayerC", "isHidden"]
+- !private ["So12CAShapeLayerC", "lineCap"]
+- !private ["So12CAShapeLayerC", "lineJoin"]
+- !private ["So12CAShapeLayerC", "lineWidth"]
+- !private ["So12CAShapeLayerC", "opacity"]
+- !private ["So12CAShapeLayerC", "path"]
+- !private ["So12CAShapeLayerC", "rasterizationScale"]
+- !private ["So12CAShapeLayerC", "removeAllAnimations"]
+- !private ["So12CAShapeLayerC", "shouldRasterize"]
+- !private ["So12CAShapeLayerC", "strokeColor"]
+- !private ["So12CAShapeLayerC", "strokeEnd"]
+- !private ["So12CAShapeLayerC", "transform"]
+- !private ["So19CAShapeLayerLineCapa", "round"]
+- !private ["So20CAShapeLayerLineJoina", "round"]
+- !private ["So13CATransactionC", "begin"]
+- !private ["So13CATransactionC", "commit"]
+- !private ["So13CATransactionC", "setCompletionBlock"]
+- !private ["So6CGRectV", "init"]
+- ["s7CVarArgP", "AnimationStyle"]
+- ["s7CVarArgP", "CheckState"]
+- !private ["s7CVarArgP", "actions"]
+- !private ["s7CVarArgP", "add"]
+- !private ["s7CVarArgP", "begin"]
+- !private ["s7CVarArgP", "cgColor"]
+- !private ["s7CVarArgP", "cgPath"]
+- !private ["s7CVarArgP", "commit"]
+- !private ["s7CVarArgP", "fillColor"]
+- !private ["s7CVarArgP", "frame"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isHidden"]
+- !private ["s7CVarArgP", "lineCap"]
+- !private ["s7CVarArgP", "lineJoin"]
+- !private ["s7CVarArgP", "lineWidth"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "opacity"]
+- !private ["s7CVarArgP", "path"]
+- !private ["s7CVarArgP", "rasterizationScale"]
+- !private ["s7CVarArgP", "removeAllAnimations"]
+- !private ["s7CVarArgP", "scale"]
+- !private ["s7CVarArgP", "setCompletionBlock"]
+- !private ["s7CVarArgP", "shouldRasterize"]
+- !private ["s7CVarArgP", "strokeColor"]
+- !private ["s7CVarArgP", "strokeEnd"]
+- !private ["s7CVarArgP", "transform"]
+- !private ["11M13CheckboxAAC10CheckStateO", "deinit"]
+- ["s28CustomDebugStringConvertibleP", "AnimationStyle"]
+- ["s28CustomDebugStringConvertibleP", "CheckState"]
+- !private ["s28CustomDebugStringConvertibleP", "actions"]
+- !private ["s28CustomDebugStringConvertibleP", "add"]
+- !private ["s28CustomDebugStringConvertibleP", "begin"]
+- !private ["s28CustomDebugStringConvertibleP", "cgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "cgPath"]
+- !private ["s28CustomDebugStringConvertibleP", "commit"]
+- !private ["s28CustomDebugStringConvertibleP", "fillColor"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isHidden"]
+- !private ["s28CustomDebugStringConvertibleP", "lineCap"]
+- !private ["s28CustomDebugStringConvertibleP", "lineJoin"]
+- !private ["s28CustomDebugStringConvertibleP", "lineWidth"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "opacity"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "rasterizationScale"]
+- !private ["s28CustomDebugStringConvertibleP", "removeAllAnimations"]
+- !private ["s28CustomDebugStringConvertibleP", "scale"]
+- !private ["s28CustomDebugStringConvertibleP", "setCompletionBlock"]
+- !private ["s28CustomDebugStringConvertibleP", "shouldRasterize"]
+- !private ["s28CustomDebugStringConvertibleP", "strokeColor"]
+- !private ["s28CustomDebugStringConvertibleP", "strokeEnd"]
+- !private ["s28CustomDebugStringConvertibleP", "transform"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "AnimationStyle"]
+- ["s23CustomStringConvertibleP", "CheckState"]
+- !private ["s23CustomStringConvertibleP", "actions"]
+- !private ["s23CustomStringConvertibleP", "add"]
+- !private ["s23CustomStringConvertibleP", "begin"]
+- !private ["s23CustomStringConvertibleP", "cgColor"]
+- !private ["s23CustomStringConvertibleP", "cgPath"]
+- !private ["s23CustomStringConvertibleP", "commit"]
+- !private ["s23CustomStringConvertibleP", "fillColor"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isHidden"]
+- !private ["s23CustomStringConvertibleP", "lineCap"]
+- !private ["s23CustomStringConvertibleP", "lineJoin"]
+- !private ["s23CustomStringConvertibleP", "lineWidth"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "opacity"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "rasterizationScale"]
+- !private ["s23CustomStringConvertibleP", "removeAllAnimations"]
+- !private ["s23CustomStringConvertibleP", "scale"]
+- !private ["s23CustomStringConvertibleP", "setCompletionBlock"]
+- !private ["s23CustomStringConvertibleP", "shouldRasterize"]
+- !private ["s23CustomStringConvertibleP", "strokeColor"]
+- !private ["s23CustomStringConvertibleP", "strokeEnd"]
+- !private ["s23CustomStringConvertibleP", "transform"]
+- !private ["Se", "init"]
+- !private ["SE", "init"]
+- ["SQ", "AnimationStyle"]
+- ["SQ", "CheckState"]
+- !private ["SQ", "actions"]
+- !private ["SQ", "add"]
+- !private ["SQ", "begin"]
+- !private ["SQ", "cgColor"]
+- !private ["SQ", "cgPath"]
+- !private ["SQ", "commit"]
+- !private ["SQ", "fill"]
+- !private ["SQ", "fillColor"]
+- !private ["SQ", "frame"]
+- ["SQ", "init"]
+- !private ["SQ", "isHidden"]
+- !private ["SQ", "lineCap"]
+- !private ["SQ", "lineJoin"]
+- !private ["SQ", "lineWidth"]
+- !private ["SQ", "main"]
+- !private ["SQ", "opacity"]
+- !private ["SQ", "path"]
+- !private ["SQ", "radio"]
+- !private ["SQ", "rasterizationScale"]
+- !private ["SQ", "removeAllAnimations"]
+- !private ["SQ", "round"]
+- !private ["SQ", "scale"]
+- !private ["SQ", "setCompletionBlock"]
+- !private ["SQ", "shouldRasterize"]
+- ["SQ", "stroke"]
+- !private ["SQ", "strokeColor"]
+- !private ["SQ", "strokeEnd"]
+- !private ["SQ", "transform"]
+- ["SH", "AnimationStyle"]
+- ["SH", "CheckState"]
+- !private ["SH", "actions"]
+- !private ["SH", "add"]
+- !private ["SH", "begin"]
+- !private ["SH", "cgColor"]
+- !private ["SH", "cgPath"]
+- !private ["SH", "commit"]
+- !private ["SH", "fill"]
+- !private ["SH", "fillColor"]
+- !private ["SH", "frame"]
+- ["SH", "init"]
+- !private ["SH", "isHidden"]
+- !private ["SH", "lineCap"]
+- !private ["SH", "lineJoin"]
+- !private ["SH", "lineWidth"]
+- !private ["SH", "main"]
+- !private ["SH", "opacity"]
+- !private ["SH", "path"]
+- !private ["SH", "radio"]
+- !private ["SH", "rasterizationScale"]
+- !private ["SH", "removeAllAnimations"]
+- !private ["SH", "round"]
+- !private ["SH", "scale"]
+- !private ["SH", "setCompletionBlock"]
+- !private ["SH", "shouldRasterize"]
+- ["SH", "stroke"]
+- !private ["SH", "strokeColor"]
+- !private ["SH", "strokeEnd"]
+- !private ["SH", "transform"]
+- ["11M13CheckboxAAC", "AnimationStyle"]
+- ["11M13CheckboxAAC", "CheckState"]
+- !private ["11M13Checkbox0aB18AnimationGeneratorC", "morphAnimation"]
+- !private ["11M13Checkbox0aB18AnimationGeneratorC", "opacityAnimation"]
+- ["11M13Checkbox0aB10ControllerC", "Bool"]
+- ["11M13Checkbox0aB10ControllerC", "CALayer"]
+- ["11M13Checkbox0aB10ControllerC", "CAShapeLayer"]
+- !private ["11M13Checkbox0aB10ControllerC", "CATransaction"]
+- !private ["11M13Checkbox0aB10ControllerC", "CATransform3DIdentity"]
+- !private ["11M13Checkbox0aB10ControllerC", "CGRect"]
+- ["11M13Checkbox0aB10ControllerC", "M13Checkbox"]
+- !private ["11M13Checkbox0aB10ControllerC", "NSNull"]
+- ["11M13Checkbox0aB10ControllerC", "UIColor"]
+- !private ["11M13Checkbox0aB10ControllerC", "UIScreen"]
+- ["11M13Checkbox0aB10ControllerC", "Void"]
+- ["11M13Checkbox0aB10ControllerC", ""]
+- ["11M13Checkbox0aB10ControllerC", "animate"]
+- !private ["11M13Checkbox0aB10ControllerC", "animationGenerator"]
+- ["11M13Checkbox0aB10ControllerC", "hideBox"]
+- ["11M13Checkbox0aB10ControllerC", "init"]
+- ["11M13Checkbox0aB10ControllerC", "layersToDisplay"]
+- ["11M13Checkbox0aB10ControllerC", "layoutLayers"]
+- ["11M13Checkbox0aB10ControllerC", "markLayer"]
+- !private ["11M13Checkbox0aB10ControllerC", "markType"]
+- !private ["11M13Checkbox0aB10ControllerC", "pathGenerator"]
+- ["11M13Checkbox0aB10ControllerC", "resetLayersForState"]
+- ["11M13Checkbox0aB10ControllerC", "secondaryCheckmarkTintColor"]
+- ["11M13Checkbox0aB10ControllerC", "secondaryTintColor"]
+- ["11M13Checkbox0aB10ControllerC", "selectedBoxLayer"]
+- ["11M13Checkbox0aB10ControllerC", "sharedSetup"]
+- !private ["11M13Checkbox0aB10ControllerC", "state"]
+- ["11M13Checkbox0aB10ControllerC", "style"]
+- ["11M13Checkbox0aB10ControllerC", "tintColor"]
+- ["11M13Checkbox0aB10ControllerC", "unselectedBoxLayer"]
+- ["11M13Checkbox0aB14FadeControllerC", "Bool"]
+- ["11M13Checkbox0aB14FadeControllerC", "CALayer"]
+- ["11M13Checkbox0aB14FadeControllerC", "CAShapeLayer"]
+- !private ["11M13Checkbox0aB14FadeControllerC", "CATransaction"]
+- !private ["11M13Checkbox0aB14FadeControllerC", "CATransform3DIdentity"]
+- !private ["11M13Checkbox0aB14FadeControllerC", "CGRect"]
+- ["11M13Checkbox0aB14FadeControllerC", "M13Checkbox"]
+- !private ["11M13Checkbox0aB14FadeControllerC", "NSNull"]
+- ["11M13Checkbox0aB14FadeControllerC", "UIColor"]
+- !private ["11M13Checkbox0aB14FadeControllerC", "UIScreen"]
+- ["11M13Checkbox0aB14FadeControllerC", "Void"]
+- ["11M13Checkbox0aB14FadeControllerC", "animate"]
+- !private ["11M13Checkbox0aB14FadeControllerC", "animationGenerator"]
+- ["11M13Checkbox0aB14FadeControllerC", "deinit"]
+- ["11M13Checkbox0aB14FadeControllerC", "hideBox"]
+- ["11M13Checkbox0aB14FadeControllerC", "init"]
+- ["11M13Checkbox0aB14FadeControllerC", "layersToDisplay"]
+- ["11M13Checkbox0aB14FadeControllerC", "layoutLayers"]
+- ["11M13Checkbox0aB14FadeControllerC", "markLayer"]
+- !private ["11M13Checkbox0aB14FadeControllerC", "markType"]
+- !private ["11M13Checkbox0aB14FadeControllerC", "pathGenerator"]
+- ["11M13Checkbox0aB14FadeControllerC", "resetLayersForState"]
+- ["11M13Checkbox0aB14FadeControllerC", "secondaryCheckmarkTintColor"]
+- ["11M13Checkbox0aB14FadeControllerC", "secondaryTintColor"]
+- ["11M13Checkbox0aB14FadeControllerC", "selectedBoxLayer"]
+- !private ["11M13Checkbox0aB14FadeControllerC", "sharedSetup"]
+- !private ["11M13Checkbox0aB14FadeControllerC", "state"]
+- !private ["11M13Checkbox0aB14FadeControllerC", "style"]
+- ["11M13Checkbox0aB14FadeControllerC", "tintColor"]
+- ["11M13Checkbox0aB14FadeControllerC", "unselectedBoxLayer"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "boxLineWidth"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "checkmarkLineWidth"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "pathForBox"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "pathForMark"]
+- !private ["11M13Checkbox0aB13PathGeneratorC", "size"]
+- !private ["11M13CheckboxAAC8MarkTypeO", "deinit"]
+- !private ["11M13CheckboxAAC8MarkTypeO", "radio"]
+- ["So8NSCodingP", "AnimationStyle"]
+- ["So8NSCodingP", "CheckState"]
+- !private ["So8NSCodingP", "actions"]
+- !private ["So8NSCodingP", "add"]
+- !private ["So8NSCodingP", "cgColor"]
+- !private ["So8NSCodingP", "cgPath"]
+- !private ["So8NSCodingP", "fillColor"]
+- !private ["So8NSCodingP", "frame"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isHidden"]
+- !private ["So8NSCodingP", "lineCap"]
+- !private ["So8NSCodingP", "lineJoin"]
+- !private ["So8NSCodingP", "lineWidth"]
+- !private ["So8NSCodingP", "opacity"]
+- !private ["So8NSCodingP", "path"]
+- !private ["So8NSCodingP", "rasterizationScale"]
+- !private ["So8NSCodingP", "removeAllAnimations"]
+- !private ["So8NSCodingP", "shouldRasterize"]
+- !private ["So8NSCodingP", "strokeColor"]
+- !private ["So8NSCodingP", "strokeEnd"]
+- !private ["So8NSCodingP", "transform"]
+- !private ["So9NSCopyingP", "cgColor"]
+- !private ["So9NSCopyingP", "cgPath"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "cgColor"]
+- !private ["So21NSItemProviderWritingP", "cgColor"]
+- !private ["So6NSNullC", "init"]
+- ["So8NSObjectC", "AnimationStyle"]
+- ["So8NSObjectC", "CheckState"]
+- !private ["So8NSObjectC", "actions"]
+- !private ["So8NSObjectC", "add"]
+- !private ["So8NSObjectC", "begin"]
+- !private ["So8NSObjectC", "cgColor"]
+- !private ["So8NSObjectC", "cgPath"]
+- !private ["So8NSObjectC", "commit"]
+- !private ["So8NSObjectC", "fillColor"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isHidden"]
+- !private ["So8NSObjectC", "lineCap"]
+- !private ["So8NSObjectC", "lineJoin"]
+- !private ["So8NSObjectC", "lineWidth"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "opacity"]
+- !private ["So8NSObjectC", "path"]
+- !private ["So8NSObjectC", "rasterizationScale"]
+- !private ["So8NSObjectC", "removeAllAnimations"]
+- !private ["So8NSObjectC", "scale"]
+- !private ["So8NSObjectC", "setCompletionBlock"]
+- !private ["So8NSObjectC", "shouldRasterize"]
+- !private ["So8NSObjectC", "strokeColor"]
+- !private ["So8NSObjectC", "strokeEnd"]
+- !private ["So8NSObjectC", "transform"]
+- ["So8NSObjectP", "AnimationStyle"]
+- ["So8NSObjectP", "CheckState"]
+- !private ["So8NSObjectP", "actions"]
+- !private ["So8NSObjectP", "add"]
+- !private ["So8NSObjectP", "begin"]
+- !private ["So8NSObjectP", "cgColor"]
+- !private ["So8NSObjectP", "cgPath"]
+- !private ["So8NSObjectP", "commit"]
+- !private ["So8NSObjectP", "fillColor"]
+- !private ["So8NSObjectP", "frame"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isHidden"]
+- !private ["So8NSObjectP", "lineCap"]
+- !private ["So8NSObjectP", "lineJoin"]
+- !private ["So8NSObjectP", "lineWidth"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "opacity"]
+- !private ["So8NSObjectP", "path"]
+- !private ["So8NSObjectP", "rasterizationScale"]
+- !private ["So8NSObjectP", "removeAllAnimations"]
+- !private ["So8NSObjectP", "scale"]
+- !private ["So8NSObjectP", "setCompletionBlock"]
+- !private ["So8NSObjectP", "shouldRasterize"]
+- !private ["So8NSObjectP", "strokeColor"]
+- !private ["So8NSObjectP", "strokeEnd"]
+- !private ["So8NSObjectP", "transform"]
+- !private ["So14NSSecureCodingP", "actions"]
+- !private ["So14NSSecureCodingP", "add"]
+- !private ["So14NSSecureCodingP", "cgColor"]
+- !private ["So14NSSecureCodingP", "cgPath"]
+- !private ["So14NSSecureCodingP", "fillColor"]
+- !private ["So14NSSecureCodingP", "frame"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "isHidden"]
+- !private ["So14NSSecureCodingP", "lineCap"]
+- !private ["So14NSSecureCodingP", "lineJoin"]
+- !private ["So14NSSecureCodingP", "lineWidth"]
+- !private ["So14NSSecureCodingP", "opacity"]
+- !private ["So14NSSecureCodingP", "path"]
+- !private ["So14NSSecureCodingP", "rasterizationScale"]
+- !private ["So14NSSecureCodingP", "removeAllAnimations"]
+- !private ["So14NSSecureCodingP", "shouldRasterize"]
+- !private ["So14NSSecureCodingP", "strokeColor"]
+- !private ["So14NSSecureCodingP", "strokeEnd"]
+- !private ["So14NSSecureCodingP", "transform"]
+- !private ["SY", "fill"]
+- !private ["SY", "radio"]
+- !private ["SY", "round"]
+- ["SY", "stroke"]
+- ["So29UIAccessibilityIdentificationP", "AnimationStyle"]
+- ["So29UIAccessibilityIdentificationP", "CheckState"]
+- ["So12UIAppearanceP", "AnimationStyle"]
+- ["So12UIAppearanceP", "CheckState"]
+- ["So21UIAppearanceContainerP", "AnimationStyle"]
+- ["So21UIAppearanceContainerP", "CheckState"]
+- !private ["So12UIBezierPathC", "cgPath"]
+- !private ["So7UIColorC", "cgColor"]
+- ["So9UIControlC", "AnimationStyle"]
+- ["So9UIControlC", "CheckState"]
+- ["So17UICoordinateSpaceP", "AnimationStyle"]
+- ["So17UICoordinateSpaceP", "CheckState"]
+- ["So13UIDynamicItemP", "AnimationStyle"]
+- ["So13UIDynamicItemP", "CheckState"]
+- ["So18UIFocusEnvironmentP", "AnimationStyle"]
+- ["So18UIFocusEnvironmentP", "CheckState"]
+- ["So11UIFocusItemP", "AnimationStyle"]
+- ["So11UIFocusItemP", "CheckState"]
+- ["So20UIFocusItemContainerP", "AnimationStyle"]
+- ["So20UIFocusItemContainerP", "CheckState"]
+- ["So24UILargeContentViewerItemP", "AnimationStyle"]
+- ["So24UILargeContentViewerItemP", "CheckState"]
+- ["So30UIPasteConfigurationSupportingP", "AnimationStyle"]
+- ["So30UIPasteConfigurationSupportingP", "CheckState"]
+- ["So11UIResponderC", "AnimationStyle"]
+- ["So11UIResponderC", "CheckState"]
+- ["So30UIResponderStandardEditActionsP", "AnimationStyle"]
+- ["So30UIResponderStandardEditActionsP", "CheckState"]
+- !private ["So8UIScreenC", "main"]
+- !private ["So8UIScreenC", "scale"]
+- ["So18UITraitEnvironmentP", "AnimationStyle"]
+- ["So18UITraitEnvironmentP", "CheckState"]
+- !private ["So18UITraitEnvironmentP", "main"]
+- !private ["So18UITraitEnvironmentP", "scale"]
+- ["So23UIUserActivityRestoringP", "AnimationStyle"]
+- ["So23UIUserActivityRestoringP", "CheckState"]
+- ["So6UIViewC", "AnimationStyle"]
+- ["So6UIViewC", "CheckState"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "cgColor"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "round"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "AnimationStyle"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CheckState"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "actions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "add"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "begin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "commit"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fillColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isHidden"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lineCap"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lineJoin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lineWidth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "opacity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "path"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rasterizationScale"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeAllAnimations"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scale"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setCompletionBlock"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shouldRasterize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "strokeColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "strokeEnd"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transform"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "AnimationStyle"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CheckState"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "actions"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "add"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "begin"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cgColor"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cgPath"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "commit"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "fillColor"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "frame"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isHidden"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lineCap"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lineJoin"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lineWidth"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "main"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "opacity"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "path"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "rasterizationScale"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "removeAllAnimations"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "scale"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setCompletionBlock"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "shouldRasterize"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "strokeColor"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "strokeEnd"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "transform"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "round"]
+- !private ["s20_SwiftNewtypeWrapperP", "round"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "AnimationStyle"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "CheckState"]
+depends-nominal:
+- "11M13CheckboxAAC14AnimationStyleO"
+- !private "So8CAActionP"
+- "So7CALayerC"
+- "So15CALayerDelegateP"
+- "So13CAMediaTimingP"
+- "So12CAShapeLayerC"
+- !private "So19CAShapeLayerLineCapa"
+- !private "So20CAShapeLayerLineJoina"
+- !private "So13CATransactionC"
+- !private "So6CGRectV"
+- "s7CVarArgP"
+- !private "11M13CheckboxAAC10CheckStateO"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "SH"
+- "11M13CheckboxAAC"
+- !private "11M13Checkbox0aB18AnimationGeneratorC"
+- "11M13Checkbox0aB10ControllerC"
+- "11M13Checkbox0aB14FadeControllerC"
+- !private "11M13Checkbox0aB13PathGeneratorC"
+- !private "11M13CheckboxAAC8MarkTypeO"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So6NSNullC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "SY"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So12UIBezierPathC"
+- !private "So7UIColorC"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So8UIScreenC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/Target Support Files/M13Checkbox/M13Checkbox-umbrella.h"
+- "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Build/Intermediates/Pods.build/Debug-iphonesimulator/M13Checkbox.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f84b890091b50dddaf50cc5deba3b001"

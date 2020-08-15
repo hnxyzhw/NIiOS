@@ -1,0 +1,247 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "M13CheckboxGestureRecognizer"
+provides-nominal:
+- "11M13Checkbox0aB17GestureRecognizerC"
+provides-member:
+- ["11M13Checkbox0aB17GestureRecognizerC", ""]
+provides-dynamic-lookup:
+- "touchesEnded"
+depends-top-level:
+- !private "!"
+- "AssignmentPrecedence"
+- !private "FloatLiteralType"
+- "M13CheckboxGestureRecognizer"
+- "Selector"
+- "Set"
+- "UIEvent"
+- "UILongPressGestureRecognizer"
+- "UITouch"
+depends-member:
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So6CGRectV", "contains"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "location"]
+- !private ["s7CVarArgP", "minimumPressDuration"]
+- !private ["s7CVarArgP", "state"]
+- !private ["s7CVarArgP", "touchesEnded"]
+- !private ["s7CVarArgP", "view"]
+- !private ["Sl", "first"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "location"]
+- !private ["s28CustomDebugStringConvertibleP", "minimumPressDuration"]
+- !private ["s28CustomDebugStringConvertibleP", "state"]
+- !private ["s28CustomDebugStringConvertibleP", "touchesEnded"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "first"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "location"]
+- !private ["s23CustomStringConvertibleP", "minimumPressDuration"]
+- !private ["s23CustomStringConvertibleP", "state"]
+- !private ["s23CustomStringConvertibleP", "touchesEnded"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["Se", "contains"]
+- !private ["Se", "first"]
+- !private ["SE", "contains"]
+- !private ["SE", "first"]
+- ["SQ", ""]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "failed"]
+- !private ["SQ", "first"]
+- !private ["SQ", "init"]
+- !private ["SQ", "location"]
+- !private ["SQ", "minimumPressDuration"]
+- !private ["SQ", "state"]
+- !private ["SQ", "touchesEnded"]
+- !private ["SQ", "view"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- ["SH", ""]
+- !private ["SH", "bounds"]
+- !private ["SH", "failed"]
+- !private ["SH", "first"]
+- !private ["SH", "init"]
+- !private ["SH", "location"]
+- !private ["SH", "minimumPressDuration"]
+- !private ["SH", "state"]
+- !private ["SH", "touchesEnded"]
+- !private ["SH", "view"]
+- ["11M13Checkbox0aB17GestureRecognizerC", "Selector"]
+- ["11M13Checkbox0aB17GestureRecognizerC", "Set"]
+- ["11M13Checkbox0aB17GestureRecognizerC", "UIEvent"]
+- ["11M13Checkbox0aB17GestureRecognizerC", "UITouch"]
+- ["11M13Checkbox0aB17GestureRecognizerC", "deinit"]
+- ["11M13Checkbox0aB17GestureRecognizerC", "init"]
+- !private ["11M13Checkbox0aB17GestureRecognizerC", "minimumPressDuration"]
+- !private ["11M13Checkbox0aB17GestureRecognizerC", "state"]
+- ["11M13Checkbox0aB17GestureRecognizerC", "touchesEnded"]
+- !private ["11M13Checkbox0aB17GestureRecognizerC", "view"]
+- !private ["So8NSCodingP", "bounds"]
+- ["So8NSObjectC", "Selector"]
+- ["So8NSObjectC", "Set"]
+- ["So8NSObjectC", "UIEvent"]
+- ["So8NSObjectC", "UITouch"]
+- !private ["So8NSObjectC", "bounds"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "location"]
+- !private ["So8NSObjectC", "minimumPressDuration"]
+- !private ["So8NSObjectC", "state"]
+- ["So8NSObjectC", "touchesEnded"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "location"]
+- !private ["So8NSObjectP", "minimumPressDuration"]
+- !private ["So8NSObjectP", "state"]
+- !private ["So8NSObjectP", "touchesEnded"]
+- !private ["So8NSObjectP", "view"]
+- !private ["SY", "failed"]
+- !private ["ST", "first"]
+- !private ["Sh", "first"]
+- !private ["s10SetAlgebraP", "first"]
+- !private ["So24UIGestureRecognizerStateV", "failed"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- ["So19UIGestureRecognizerC", "Selector"]
+- ["So19UIGestureRecognizerC", "Set"]
+- ["So19UIGestureRecognizerC", "UIEvent"]
+- ["So19UIGestureRecognizerC", "UITouch"]
+- ["So19UIGestureRecognizerC", "init"]
+- !private ["So19UIGestureRecognizerC", "minimumPressDuration"]
+- !private ["So19UIGestureRecognizerC", "state"]
+- ["So19UIGestureRecognizerC", "touchesEnded"]
+- !private ["So19UIGestureRecognizerC", "view"]
+- !private ["So24UILargeContentViewerItemP", "bounds"]
+- ["So28UILongPressGestureRecognizerC", "Selector"]
+- ["So28UILongPressGestureRecognizerC", "Set"]
+- ["So28UILongPressGestureRecognizerC", "UIEvent"]
+- ["So28UILongPressGestureRecognizerC", "UITouch"]
+- ["So28UILongPressGestureRecognizerC", ""]
+- ["So28UILongPressGestureRecognizerC", "init"]
+- !private ["So28UILongPressGestureRecognizerC", "minimumPressDuration"]
+- !private ["So28UILongPressGestureRecognizerC", "state"]
+- ["So28UILongPressGestureRecognizerC", "touchesEnded"]
+- !private ["So28UILongPressGestureRecognizerC", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So7UITouchC", "location"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "location"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "minimumPressDuration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "state"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "touchesEnded"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bounds"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "location"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "minimumPressDuration"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "state"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "touchesEnded"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "view"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "bounds"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- !private "So6CGRectV"
+- "s7CVarArgP"
+- !private "Sl"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- "11M13Checkbox0aB17GestureRecognizerC"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "SY"
+- !private "ST"
+- !private "Sh"
+- !private "s10SetAlgebraP"
+- !private "So24UIGestureRecognizerStateV"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So19UIGestureRecognizerC"
+- !private "So24UILargeContentViewerItemP"
+- "So28UILongPressGestureRecognizerC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So7UITouchC"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Pods/Target Support Files/M13Checkbox/M13Checkbox-umbrella.h"
+- "/Users/nixinsheng/Desktop/NIiOS/proj_2020/007RAC/Build/Intermediates/Pods.build/Debug-iphonesimulator/M13Checkbox.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1e61100794c0a73ece659277ffd696ee"

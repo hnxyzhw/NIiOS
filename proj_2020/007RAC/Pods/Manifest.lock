@@ -1,37 +1,84 @@
 PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
   - M13Checkbox (3.4.0)
   - Masonry (1.1.0)
   - MBProgressHUD (1.0.0)
   - "MBProgressHUD+Add (0.0.2)":
     - MBProgressHUD (~> 1.0.0)
+  - NITools (0.1.6):
+    - AFNetworking
+    - Masonry
+    - NITools/NICategory (= 0.1.6)
+    - NITools/NIIPTool (= 0.1.6)
+    - NITools/NIMacro (= 0.1.6)
+    - NITools/NIView (= 0.1.6)
+    - YYText
+  - NITools/NICategory (0.1.6):
+    - AFNetworking
+    - Masonry
+    - YYText
+  - NITools/NIIPTool (0.1.6):
+    - AFNetworking
+    - Masonry
+    - YYText
+  - NITools/NIMacro (0.1.6):
+    - AFNetworking
+    - Masonry
+    - YYText
+  - NITools/NIView (0.1.6):
+    - AFNetworking
+    - Masonry
+    - YYText
   - ReactiveCocoa (2.1.8):
     - ReactiveCocoa/Core (= 2.1.8)
     - ReactiveCocoa/no-arc (= 2.1.8)
   - ReactiveCocoa/Core (2.1.8):
     - ReactiveCocoa/no-arc
   - ReactiveCocoa/no-arc (2.1.8)
+  - YYText (1.0.7)
 
 DEPENDENCIES:
   - M13Checkbox
   - Masonry
   - "MBProgressHUD+Add"
+  - NITools
   - ReactiveCocoa (~> 2.1.8)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
     - M13Checkbox
     - Masonry
     - MBProgressHUD
     - "MBProgressHUD+Add"
+    - NITools
     - ReactiveCocoa
+    - YYText
 
 SPEC CHECKSUMS:
-  M13Checkbox: 6f59404540ac98ba83a3d1afac335895a40c6a5d
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  M13Checkbox: c29d952e19400b3e488c32c06a570aff6bb6042c
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
-  "MBProgressHUD+Add": 65c4d170c083a2a800ad4470d424ad5978f324c3
+  MBProgressHUD: 021f08731ff48f4e1727f5e4f7bd1d13b40491b3
+  "MBProgressHUD+Add": 541d8ffcf2f091af8acf7522c010cf44ee464fba
+  NITools: 4c89ca46874e22c1e16da92e4bf8299052b986cc
   ReactiveCocoa: f89f2e009a87951b50321bf9feb958823fcc617e
+  YYText: 23b00e89de6f7aae8a819627a12d4ba96889ece5
 
-PODFILE CHECKSUM: 329384ae50c0a46b7bb382a7e57bc3fd7bdc5bbe
+PODFILE CHECKSUM: e7f5958eac03ea68c1eef0939f8a2438b76eba7e
 
-COCOAPODS: 1.9.2
+COCOAPODS: 1.9.3
