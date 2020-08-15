@@ -573,7 +573,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = SJFH7WE6F4;
+				DEVELOPMENT_TEAM = HV6ZVKXQBS;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = 004Basic/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -582,7 +582,7 @@
 					"@executable_path/Frameworks",
 				);
 				NEW_SETTING = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.nixs.-04Basic";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nixs.-RAC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				Swift_Language_Version = 5.0;
@@ -599,7 +599,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = SJFH7WE6F4;
+				DEVELOPMENT_TEAM = HV6ZVKXQBS;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = 004Basic/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -608,7 +608,7 @@
 					"@executable_path/Frameworks",
 				);
 				NEW_SETTING = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.nixs.-04Basic";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nixs.-RAC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				Swift_Language_Version = 5.0;
