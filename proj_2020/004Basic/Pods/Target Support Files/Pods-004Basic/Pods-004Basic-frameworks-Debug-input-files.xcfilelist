@@ -1,7 +1,4 @@
 ${PODS_ROOT}/Target Support Files/Pods-004Basic/Pods-004Basic-frameworks.sh
-${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
 ${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
 ${BUILT_PRODUCTS_DIR}/MBProgressHUD+Add/MBProgressHUD_Add.framework
 ${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
-${BUILT_PRODUCTS_DIR}/NITools/NITools.framework
-${BUILT_PRODUCTS_DIR}/YYText/YYText.framework
