@@ -6,23 +6,23 @@
 	<dict>
 		<key>Headers/NSAttributedString+YYText.h</key>
 		<data>
-		AiETyK9tAMbvP66oapemIAPff0o=
+		6UwXtJZw6O2zCylbQ+hiaveYTAc=
 		</data>
 		<key>Headers/NSParagraphStyle+YYText.h</key>
 		<data>
-		f8RcSwzIJZczMixj+JPY1ch0e54=
+		9xRpJ0R3fQau6zoINDdS74oQceI=
 		</data>
 		<key>Headers/UIPasteboard+YYText.h</key>
 		<data>
-		ZZuKWXFwwYhLoAWbDKhtEzl0WR8=
+		KH27W9B3DEEnP+HgQqYuOc0O9Gw=
 		</data>
 		<key>Headers/UIView+YYText.h</key>
 		<data>
-		7hoGiEY+A7rb+h2J4km/SXYDGuo=
+		umUG+O2CY97LPxPkDF+wetRPTns=
 		</data>
 		<key>Headers/YYLabel.h</key>
 		<data>
-		PotxmzfdM5jQmCoWKYAz0qLtdVQ=
+		+O0xBBHv569D1RK9FKnq0HGDx6c=
 		</data>
 		<key>Headers/YYText-umbrella.h</key>
 		<data>
@@ -30,87 +30,87 @@
 		</data>
 		<key>Headers/YYText.h</key>
 		<data>
-		1qUEvqA2sXevtClGUr2P95IHXJQ=
+		Je6OYfZX1otrw88HcBbYxgFbT7U=
 		</data>
 		<key>Headers/YYTextArchiver.h</key>
 		<data>
-		Kcfm2bwplTlSQ6L3HyP12CnosQo=
+		FAA9HAYfsHL9OgHQY9cwFw4QlzM=
 		</data>
 		<key>Headers/YYTextAsyncLayer.h</key>
 		<data>
-		uG5w5+4rakmAW8tvPyNXKGTvjCA=
+		pkZN+hkf7iyWVfRd3Y790Qg9K2w=
 		</data>
 		<key>Headers/YYTextAttribute.h</key>
 		<data>
-		JHXTwoO3vemovdA2/HfVhTihfS4=
+		8cR/PES9xCOwAaPSd3mYWzFcgfY=
 		</data>
 		<key>Headers/YYTextContainerView.h</key>
 		<data>
-		v2SlAawC+AqAM9edAn5FjPen0oc=
+		p0DodBPWX7gnuMV2gYen9H6ta84=
 		</data>
 		<key>Headers/YYTextDebugOption.h</key>
 		<data>
-		MddlTMD+Z/9jHejso4jUyKCmR/g=
+		WwSjuJ3rapzRZvDXJVwoSv59jBI=
 		</data>
 		<key>Headers/YYTextEffectWindow.h</key>
 		<data>
-		Q7CDCNG+ws6kp/0aFseVntO2gj4=
+		67IdViX1RR3WAbTDBIypqzyjTWM=
 		</data>
 		<key>Headers/YYTextInput.h</key>
 		<data>
-		MiWP60DpyTaiTgOfPZeeogn8wks=
+		RqWxHW3bsQSXOBwGszusCeALIf0=
 		</data>
 		<key>Headers/YYTextKeyboardManager.h</key>
 		<data>
-		mgQbCRBrs8SMZ37d4dubIVNndQA=
+		k5M6/c90NpvQYp8hSlQJ9GypWuw=
 		</data>
 		<key>Headers/YYTextLayout.h</key>
 		<data>
-		93rNiSJKjmViuKZdfskbUBHGIJs=
+		sQ9UoYP/4SSyaahfYeX3X2WR4OY=
 		</data>
 		<key>Headers/YYTextLine.h</key>
 		<data>
-		vL5M3Edjso5TuBnQ2tozgi+IjKw=
+		jb3vyTjPH/YM7tBVBwkYO/E6/Ys=
 		</data>
 		<key>Headers/YYTextMagnifier.h</key>
 		<data>
-		bnadKUWKECXypn3JaWSlrBnCN7s=
+		yuJ6g354acADipbEy8usPxPf3rM=
 		</data>
 		<key>Headers/YYTextParser.h</key>
 		<data>
-		DmfXiIjN4PSl3cIUJwHV2XdCnxI=
+		XE34z1aC+M/zO/DpRtucQmmbPp8=
 		</data>
 		<key>Headers/YYTextRubyAnnotation.h</key>
 		<data>
-		PnrAxKoq2Bgh01vQXp5J2xz8uDM=
+		bf/dlA4hykDb4IApt1NrFNWxEeA=
 		</data>
 		<key>Headers/YYTextRunDelegate.h</key>
 		<data>
-		J1yBHsMI6B90bGXG5JkdaCd2QfM=
+		ErZ4HPVaIpXqfkdpjhK7kolL4JQ=
 		</data>
 		<key>Headers/YYTextSelectionView.h</key>
 		<data>
-		8TlFqPvWPFVLTTnikzANM8Q1kGA=
+		3ZyW5svOtxPtSfYbaIeLc+0kHXo=
 		</data>
 		<key>Headers/YYTextTransaction.h</key>
 		<data>
-		adYDZI5VbWoHuO6GojoSK2VpXLQ=
+		orE5lvygz+4xsaC8f4s8LzJANM0=
 		</data>
 		<key>Headers/YYTextUtilities.h</key>
 		<data>
-		qmxVWL7YuBNKZVLBNzfM7UBWl1A=
+		ugIGM5XXr0CpWavSXi8SS2I7DLE=
 		</data>
 		<key>Headers/YYTextView.h</key>
 		<data>
-		dfKOyJyCx8OZB5Zgzbeh4TRktbo=
+		M3Dr6cdwEdvtzNIXDc6OdjJVyT4=
 		</data>
 		<key>Headers/YYTextWeakProxy.h</key>
 		<data>
-		0AZV2g15eVCp0qWmiwtbbEVYVpI=
+		WUxOZy4HKy/BtfWVm8l9iQU9Me8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tV9Y2A/+pyfJz1mlSVNyHqm4X/s=
+		9s2JHk4e7xnVsWVwczDaXQ0uUAo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,55 +123,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AiETyK9tAMbvP66oapemIAPff0o=
+			6UwXtJZw6O2zCylbQ+hiaveYTAc=
 			</data>
 			<key>hash2</key>
 			<data>
-			nxVOzSNuoW1qtgbjDQUMbXl+q0L4QPOrdBG5AYWmWBg=
+			+LMbjFFFfg0296ouSZbkIHj5NXANavv2iCAks0qW4aQ=
 			</data>
 		</dict>
 		<key>Headers/NSParagraphStyle+YYText.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			f8RcSwzIJZczMixj+JPY1ch0e54=
+			9xRpJ0R3fQau6zoINDdS74oQceI=
 			</data>
 			<key>hash2</key>
 			<data>
-			+fvwsO70eW9OxNsyXoHcjnhcA9jWMElTVEw2NdDhgVY=
+			ZPp5k9PWbcO+FebtaBS1L+G9rbxaGLXfkFkRaXNERIs=
 			</data>
 		</dict>
 		<key>Headers/UIPasteboard+YYText.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZZuKWXFwwYhLoAWbDKhtEzl0WR8=
+			KH27W9B3DEEnP+HgQqYuOc0O9Gw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jk0v8r7ZkGA9IRKapxotalMusQDQQd+AgVTEo2Q0C/s=
+			crEMo5PlhAkHp6/UW69tGefNBt7Wh5f8HAfk9nDvcYc=
 			</data>
 		</dict>
 		<key>Headers/UIView+YYText.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7hoGiEY+A7rb+h2J4km/SXYDGuo=
+			umUG+O2CY97LPxPkDF+wetRPTns=
 			</data>
 			<key>hash2</key>
 			<data>
-			4OO4Kg52MzrZfLKDcIyXkOYqX3ctaIj50yr50W3I/wk=
+			BowfDP8riHID+IFl7hkS4lTTK5J4+pRXmWCvDWbO2zQ=
 			</data>
 		</dict>
 		<key>Headers/YYLabel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PotxmzfdM5jQmCoWKYAz0qLtdVQ=
+			+O0xBBHv569D1RK9FKnq0HGDx6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			r5RHdxhM2ppARrFKyN9sbgVMjq+yHckUv5xyu8JjOi4=
+			4mdpKg1Rpg203uluBNaTB+9OK29DnbbaoKnwjycUz6w=
 			</data>
 		</dict>
 		<key>Headers/YYText-umbrella.h</key>
@@ -189,220 +189,220 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1qUEvqA2sXevtClGUr2P95IHXJQ=
+			Je6OYfZX1otrw88HcBbYxgFbT7U=
 			</data>
 			<key>hash2</key>
 			<data>
-			+3A+g1FzB/YUcLWuGkMKf+TCvZB7KpuGr1C8u6t8T3c=
+			B+GASXY9pxjNFQ/M3BFWfaTK8R1MlWi3z1NrBuvq8b4=
 			</data>
 		</dict>
 		<key>Headers/YYTextArchiver.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Kcfm2bwplTlSQ6L3HyP12CnosQo=
+			FAA9HAYfsHL9OgHQY9cwFw4QlzM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xBght7kPihJU6Y/SnL9W0O+6xkcT/uriIgqV2KjNSwM=
+			TvwwWGg4wOE/PbKrXZ3k/+kmpNQCaI/QuNVvMijw45Q=
 			</data>
 		</dict>
 		<key>Headers/YYTextAsyncLayer.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uG5w5+4rakmAW8tvPyNXKGTvjCA=
+			pkZN+hkf7iyWVfRd3Y790Qg9K2w=
 			</data>
 			<key>hash2</key>
 			<data>
-			I7imlZgf48A68UDhZFsaEEqOOGL4okQoaXPg2vWNiAQ=
+			mqRe/ZOwdsmw0yc89lLEqRNLSFwxe+BZnjRTNpgZxkI=
 			</data>
 		</dict>
 		<key>Headers/YYTextAttribute.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JHXTwoO3vemovdA2/HfVhTihfS4=
+			8cR/PES9xCOwAaPSd3mYWzFcgfY=
 			</data>
 			<key>hash2</key>
 			<data>
-			0Vm85tLjjr6yUnUixdh4dAjiSK13cRteHunRWgY/omg=
+			zTV6fPG7a5hhTMpnnrJTDSVtlLUD7LorSCnTk+4BfPM=
 			</data>
 		</dict>
 		<key>Headers/YYTextContainerView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v2SlAawC+AqAM9edAn5FjPen0oc=
+			p0DodBPWX7gnuMV2gYen9H6ta84=
 			</data>
 			<key>hash2</key>
 			<data>
-			2h2yI820laVFVLvPbuNVAbj0yUtNjT9XGEFywsx+GIk=
+			UwsdF8DZ1OKXfw/XakQ7kGvSGo8fVNPQmkVIP3A0y/A=
 			</data>
 		</dict>
 		<key>Headers/YYTextDebugOption.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MddlTMD+Z/9jHejso4jUyKCmR/g=
+			WwSjuJ3rapzRZvDXJVwoSv59jBI=
 			</data>
 			<key>hash2</key>
 			<data>
-			fUGodzWmrYhjYBfecy2AQEV6oSKRfx9iHKxdPH/fVyY=
+			710NMf7xXCHP0n5GHkVd9q9G6F/aaIPvLG7vXPHYXMs=
 			</data>
 		</dict>
 		<key>Headers/YYTextEffectWindow.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q7CDCNG+ws6kp/0aFseVntO2gj4=
+			67IdViX1RR3WAbTDBIypqzyjTWM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ffQcZDXV+wvQdDNwFnCDH+nWdz8TwmpT9XFERAPKt8g=
+			TNkYxKxO1mDg3HqNqidUV1+C8AK0iqQdgcM4gvkXp00=
 			</data>
 		</dict>
 		<key>Headers/YYTextInput.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MiWP60DpyTaiTgOfPZeeogn8wks=
+			RqWxHW3bsQSXOBwGszusCeALIf0=
 			</data>
 			<key>hash2</key>
 			<data>
-			tNNIe/DuRtui/Qya5TfZzElRcidadDVh4wLikxzAt3I=
+			X8WQh9mR0/GCaqO5A0rV8CHOVcph52kEJKR/n3gZMM8=
 			</data>
 		</dict>
 		<key>Headers/YYTextKeyboardManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mgQbCRBrs8SMZ37d4dubIVNndQA=
+			k5M6/c90NpvQYp8hSlQJ9GypWuw=
 			</data>
 			<key>hash2</key>
 			<data>
-			+ztPG6pSXbUvmyVcqLYEMwOMU5vL3/pZAdjY+IPdY1o=
+			ZxmbHbYh37qObg0NfRVcaU9No+3gii3Zm6fOA+fF2J8=
 			</data>
 		</dict>
 		<key>Headers/YYTextLayout.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			93rNiSJKjmViuKZdfskbUBHGIJs=
+			sQ9UoYP/4SSyaahfYeX3X2WR4OY=
 			</data>
 			<key>hash2</key>
 			<data>
-			RiTygDnoYAJsT6z3lTaeesT3l/hSD6OOoU6TvBspdAs=
+			iYEtZfkUwNdX/G0NKlzOQw4jv9lG6CG4PbkduA8Ath8=
 			</data>
 		</dict>
 		<key>Headers/YYTextLine.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vL5M3Edjso5TuBnQ2tozgi+IjKw=
+			jb3vyTjPH/YM7tBVBwkYO/E6/Ys=
 			</data>
 			<key>hash2</key>
 			<data>
-			8UMeL3fsTnE1kPv/hJSQWyjBhZh0YmZ3GA8svQFVcZc=
+			tethICLJhkz4ip0oIWKCzIGGEHjFvBO5QezsGmLFTsU=
 			</data>
 		</dict>
 		<key>Headers/YYTextMagnifier.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bnadKUWKECXypn3JaWSlrBnCN7s=
+			yuJ6g354acADipbEy8usPxPf3rM=
 			</data>
 			<key>hash2</key>
 			<data>
-			R5N4c+OXQQAvD7Ks74ki21hWvkBuyyV6wkELB0++ZsU=
+			MiI3rpoVdRHxeJ8fy4v+mf+/ZGrQ1iZdPAMTMBbuoTE=
 			</data>
 		</dict>
 		<key>Headers/YYTextParser.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DmfXiIjN4PSl3cIUJwHV2XdCnxI=
+			XE34z1aC+M/zO/DpRtucQmmbPp8=
 			</data>
 			<key>hash2</key>
 			<data>
-			EkXqEKW12muHjbfkW/OWq2Iz/lprSav+PhIZpmtiCl8=
+			o/g5LfVnEHpG/vzH/AvipQkn3YHCJpJqnLyrccr0gJA=
 			</data>
 		</dict>
 		<key>Headers/YYTextRubyAnnotation.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PnrAxKoq2Bgh01vQXp5J2xz8uDM=
+			bf/dlA4hykDb4IApt1NrFNWxEeA=
 			</data>
 			<key>hash2</key>
 			<data>
-			l/pxBHu74bLMKlSlSTULhjPl/9LuwasRu55X1EwRwp8=
+			PmhpKmaLiWXjSohKlMlrSD6Hm8/DSYRc3K41lpWU4MA=
 			</data>
 		</dict>
 		<key>Headers/YYTextRunDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J1yBHsMI6B90bGXG5JkdaCd2QfM=
+			ErZ4HPVaIpXqfkdpjhK7kolL4JQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			zqI2loKZ8WaZqNQY+bvIF/xoEnvF3j2Q+6B6Ye4vZ2o=
+			5e+FgZp8WzNf1o+/5AFxWkH/pJaprRUYbPv9zaDq0d4=
 			</data>
 		</dict>
 		<key>Headers/YYTextSelectionView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8TlFqPvWPFVLTTnikzANM8Q1kGA=
+			3ZyW5svOtxPtSfYbaIeLc+0kHXo=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Rn5W8//sdlDoocSeytXjd/XtS+oX0SXa+zyy5tNpJQ=
+			BhamgH5WdIWklhFs/H5dQX7v4x8esCbMy+kzlbedmN8=
 			</data>
 		</dict>
 		<key>Headers/YYTextTransaction.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			adYDZI5VbWoHuO6GojoSK2VpXLQ=
+			orE5lvygz+4xsaC8f4s8LzJANM0=
 			</data>
 			<key>hash2</key>
 			<data>
-			inp7N4GGSlnqNRJw+iYucQ8tC+12l9AfO7ZNZUjdQQo=
+			KQ9/w9DvO3i7LQI2q2/d++9Ntos/iLxepGKjFR8bb7U=
 			</data>
 		</dict>
 		<key>Headers/YYTextUtilities.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qmxVWL7YuBNKZVLBNzfM7UBWl1A=
+			ugIGM5XXr0CpWavSXi8SS2I7DLE=
 			</data>
 			<key>hash2</key>
 			<data>
-			KyzB88yozXyhuh2NNX8WGvOecykXm6ivxrkKmyEGZoI=
+			ZP4AvjgRa5BdMi9Lxh18Gu5xfZbd8W42t9BwcB4zsBY=
 			</data>
 		</dict>
 		<key>Headers/YYTextView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dfKOyJyCx8OZB5Zgzbeh4TRktbo=
+			M3Dr6cdwEdvtzNIXDc6OdjJVyT4=
 			</data>
 			<key>hash2</key>
 			<data>
-			hD65IdERlp4Bi5nJID2CzUGeries8RefhdeqtRIKTgA=
+			LNPqi2WGk9doVg7zjpeD4fUQyJCicOsqVpkx0Bb5w5k=
 			</data>
 		</dict>
 		<key>Headers/YYTextWeakProxy.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0AZV2g15eVCp0qWmiwtbbEVYVpI=
+			WUxOZy4HKy/BtfWVm8l9iQU9Me8=
 			</data>
 			<key>hash2</key>
 			<data>
-			hO/4hvX85QYlweD7H/CHYlWfecqXxQuUlo+QJrV31oQ=
+			w9YnONxCQ5lDhUYjlTiKR9QhaI82sKXYq+/6ccDKN4Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

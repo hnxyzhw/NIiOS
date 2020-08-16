@@ -4,75 +4,186 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/NIIPTools.h</key>
+		<data>
+		Ss5k5hE7kuF5WwGeT6SQoxHGDnY=
+		</data>
+		<key>Headers/NIMacro.h</key>
+		<data>
+		CKQvtuzs96MDTzkMqvaA8cU6yVA=
+		</data>
+		<key>Headers/NINetworkDetectionView.h</key>
+		<data>
+		N2uhzmjo6vUK5V9KM7tJ60yYcUY=
+		</data>
 		<key>Headers/NIPrivacyView.h</key>
 		<data>
-		uHLIX7UTIkcD/TIVRXqjjLOpoLE=
+		pn2wfqu/2F4dt/97+B10/zse/SA=
 		</data>
 		<key>Headers/NITools-umbrella.h</key>
 		<data>
-		pYKquQK2FCKzcPr3odr96/uPla8=
+		k0rUEoJWHbwHFdePDiwUtqEdoLw=
 		</data>
 		<key>Headers/NIVersionManagerView.h</key>
 		<data>
-		seBEMpPVM+TCOaGVHVeaKlOM9lQ=
+		mBjCLN1yUzvrwxmZquSydrzjPkk=
+		</data>
+		<key>Headers/NSString+VersionCompare.h</key>
+		<data>
+		dzilq1FsAYLC7NjOywWscdtQh+E=
+		</data>
+		<key>Headers/UIColor+NIColor.h</key>
+		<data>
+		KzoIZawJu0/fAcZzifF3qdrytAo=
 		</data>
 		<key>Headers/UIView+NIFrame.h</key>
 		<data>
-		ZiypEaumbZ56EXvyunM9ixfzoCQ=
+		sHw3S7iQPwptQrYGVnjdaZeegbE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gqasmfaEdr1UNR0p5vwJoACHGfs=
+		oGrB2BIILkU5sWwxs6tE4D1q1vc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		twQjnstp5blpSh/foUZWtEYYvU0=
 		</data>
+		<key>NITools.bundle/Info.plist</key>
+		<data>
+		CMTZ6NYUIrrBoXm5PH5r07jxwKM=
+		</data>
+		<key>NITools.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		HrKW1wortPGa1LoKoq5+tw1F63M=
+		</data>
+		<key>NITools.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>NITools.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		gjGSvzKWV4VflX/kECuqDj05fzg=
+		</data>
+		<key>NITools.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		X5rFDjUigTmhlS8DO2aUdMuEGcw=
+		</data>
+		<key>NITools.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>NITools.bundle/netError.png</key>
+		<data>
+		OXG8b2UzX43MhJ64FgRytzw4lZE=
+		</data>
+		<key>NITools.bundle/netError@2x.png</key>
+		<data>
+		NCpqCWgJYSgBEqoAGZXVER5257Y=
+		</data>
+		<key>NITools.bundle/netError@3x.png</key>
+		<data>
+		VPO+GJs+JnFVPbd4nv6bBM463DI=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/NIIPTools.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ss5k5hE7kuF5WwGeT6SQoxHGDnY=
+			</data>
+			<key>hash2</key>
+			<data>
+			bvBKUzzL2PtJxoEMf91SptyJjNWA0dBXErn0urAGnT0=
+			</data>
+		</dict>
+		<key>Headers/NIMacro.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CKQvtuzs96MDTzkMqvaA8cU6yVA=
+			</data>
+			<key>hash2</key>
+			<data>
+			xtR/8foZY4aJw3rP/eBjRJGA0JL/kYttBgFwBcFlXz4=
+			</data>
+		</dict>
+		<key>Headers/NINetworkDetectionView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N2uhzmjo6vUK5V9KM7tJ60yYcUY=
+			</data>
+			<key>hash2</key>
+			<data>
+			1CM/jEZEBuOblqI1t3aSD3Tr806boiFrJrKp2Krd8Gc=
+			</data>
+		</dict>
 		<key>Headers/NIPrivacyView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uHLIX7UTIkcD/TIVRXqjjLOpoLE=
+			pn2wfqu/2F4dt/97+B10/zse/SA=
 			</data>
 			<key>hash2</key>
 			<data>
-			D1fDohnYkb+tQO+MsWch9pW7UNoiy1VL1NmuZAwoC8Q=
+			E4gg+So+oyq+dxPphw1SWgHugehmB1sYPkwjEWZPfJY=
 			</data>
 		</dict>
 		<key>Headers/NITools-umbrella.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pYKquQK2FCKzcPr3odr96/uPla8=
+			k0rUEoJWHbwHFdePDiwUtqEdoLw=
 			</data>
 			<key>hash2</key>
 			<data>
-			nhbNVT80VCGFlbg11CDhH3nGXDgFffSLDG65AwlR374=
+			L4Nk86zj5/bpOob06L+81O77XdZkNCEYIZ3c1VGJEoI=
 			</data>
 		</dict>
 		<key>Headers/NIVersionManagerView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			seBEMpPVM+TCOaGVHVeaKlOM9lQ=
+			mBjCLN1yUzvrwxmZquSydrzjPkk=
 			</data>
 			<key>hash2</key>
 			<data>
-			tL9wMBpbNJt/JWZbdeGuwVnKuUL59p30d3ciVaVboos=
+			vf2qAUj5iwljws68jPECTv8zqJoGVWYHBIvzhKQDSgI=
+			</data>
+		</dict>
+		<key>Headers/NSString+VersionCompare.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dzilq1FsAYLC7NjOywWscdtQh+E=
+			</data>
+			<key>hash2</key>
+			<data>
+			M7jYksEgYBE6qVO3ykigqN/yGGnYLrb5h6AyFoyy43E=
+			</data>
+		</dict>
+		<key>Headers/UIColor+NIColor.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KzoIZawJu0/fAcZzifF3qdrytAo=
+			</data>
+			<key>hash2</key>
+			<data>
+			2YVxWvnHRMJJ6sC4dTzmEPu6Lcc4Y5ytSYePv30WuJI=
 			</data>
 		</dict>
 		<key>Headers/UIView+NIFrame.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZiypEaumbZ56EXvyunM9ixfzoCQ=
+			sHw3S7iQPwptQrYGVnjdaZeegbE=
 			</data>
 			<key>hash2</key>
 			<data>
-			RDBeLEx4I1kKjjt2Ldfzg98tszyXGrHm2RXewi1WBpE=
+			ua46SrUBlBhpV3jhfgYfYtz0CCNz1WpfSPyFJgVckec=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -84,6 +195,105 @@
 			<key>hash2</key>
 			<data>
 			qh3s8hYd81FWZGGwj4+BJ6RVSqe1QUOXoZMgtCHDVnY=
+			</data>
+		</dict>
+		<key>NITools.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CMTZ6NYUIrrBoXm5PH5r07jxwKM=
+			</data>
+			<key>hash2</key>
+			<data>
+			Hg/KCndT3138J78e7MWNAg3kyY+8R6/YHg0xlqEtT2A=
+			</data>
+		</dict>
+		<key>NITools.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HrKW1wortPGa1LoKoq5+tw1F63M=
+			</data>
+			<key>hash2</key>
+			<data>
+			DE8UJT9L7AHVNT4rbk984Jv8qYcyt52ZKwFgRtJs9oU=
+			</data>
+		</dict>
+		<key>NITools.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OnX22wWFKRSOFN1+obRynMCeyXM=
+			</data>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>NITools.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gjGSvzKWV4VflX/kECuqDj05fzg=
+			</data>
+			<key>hash2</key>
+			<data>
+			dgh9eHhyabjCfgsF/Q24OjGE9/vDoNUarGBjGFCMKis=
+			</data>
+		</dict>
+		<key>NITools.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X5rFDjUigTmhlS8DO2aUdMuEGcw=
+			</data>
+			<key>hash2</key>
+			<data>
+			qNUJW6ER2ZjpitetlYJBOICqHVkx9ihQq9OmFfUpb30=
+			</data>
+		</dict>
+		<key>NITools.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>NITools.bundle/netError.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OXG8b2UzX43MhJ64FgRytzw4lZE=
+			</data>
+			<key>hash2</key>
+			<data>
+			90IOBsBfKbvjJkmD1SUGESq+BKbTb1biMMyBpPkmNyc=
+			</data>
+		</dict>
+		<key>NITools.bundle/netError@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NCpqCWgJYSgBEqoAGZXVER5257Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			huc6mtOdtR5XTXk3T61h+QEuBSreh1+drW5Fk7181zk=
+			</data>
+		</dict>
+		<key>NITools.bundle/netError@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VPO+GJs+JnFVPbd4nv6bBM463DI=
+			</data>
+			<key>hash2</key>
+			<data>
+			7NlCrk/dhW+ovAxGMMiEeoAp0XsRH3GP0lPGrKKsKqQ=
 			</data>
 		</dict>
 	</dict>

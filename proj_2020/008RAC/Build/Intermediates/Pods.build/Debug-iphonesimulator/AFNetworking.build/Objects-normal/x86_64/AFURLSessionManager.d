@@ -6,4 +6,5 @@ dependencies: \
   /Users/nixinsheng/Desktop/NIiOS/proj_2020/008RAC/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h \
   /Users/nixinsheng/Desktop/NIiOS/proj_2020/008RAC/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h \
   /Users/nixinsheng/Desktop/NIiOS/proj_2020/008RAC/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h \
+  /Users/nixinsheng/Desktop/NIiOS/proj_2020/008RAC/Pods/AFNetworking/AFNetworking/AFCompatibilityMacros.h \
   /Users/nixinsheng/Desktop/NIiOS/proj_2020/008RAC/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h

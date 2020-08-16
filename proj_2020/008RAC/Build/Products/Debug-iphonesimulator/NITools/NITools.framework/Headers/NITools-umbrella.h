@@ -10,7 +10,12 @@
 #endif
 #endif
 
+#import "NSString+VersionCompare.h"
+#import "UIColor+NIColor.h"
 #import "UIView+NIFrame.h"
+#import "NIIPTools.h"
+#import "NIMacro.h"
+#import "NINetworkDetectionView.h"
 #import "NIPrivacyView.h"
 #import "NIVersionManagerView.h"
 

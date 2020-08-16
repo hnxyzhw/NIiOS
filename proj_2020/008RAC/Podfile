@@ -1,5 +1,6 @@
 source 'https://github.com/CocoaPods/Specs.git'
 source 'https://github.com/Artsy/Specs.git'
+source 'https://gitee.com/KAERBluetooth/MyDemoPrintTest.git'
 
 platform :ios, '9.0'
 # 引用框架
@@ -15,9 +16,11 @@ target '004Basic' do
  # Pods for Pos 
  pod 'Masonry'
  pod 'MBProgressHUD+Add'
- pod 'NITools', '~> 0.1.2'
+ pod 'NITools','~>0.2.0'
  pod 'ReactiveCocoa','~>2.1.8'
  pod 'MJExtension'
+ # Flowing private lib by:nixs 2020年08月16日23:31:28
+ pod 'MyDemoPrintTest'
 end
 #Xcode里配置：项目名->Target->Build Settings->Enable BitCode中设置为NO就可以了.
 post_install do |installer|

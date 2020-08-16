@@ -4,93 +4,85 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/AFHTTPRequestOperation.h</key>
+		<key>Headers/AFAutoPurgingImageCache.h</key>
 		<data>
-		FSMOqraDexgvseI75eS3rYwEGtA=
+		u6J7817KrHAEEcltC8/yWkPL5h0=
 		</data>
-		<key>Headers/AFHTTPRequestOperationManager.h</key>
+		<key>Headers/AFCompatibilityMacros.h</key>
 		<data>
-		b1KHlG+x8p742K79Szs3vj3WDpQ=
+		bMx2Q3E0bY5q/tQTCljcMvlgCBI=
 		</data>
 		<key>Headers/AFHTTPSessionManager.h</key>
 		<data>
-		aIwWmBXNYpORYvnANyBe6o/kLhM=
+		22OSQyol6UjgN9WlxltviIrL70c=
+		</data>
+		<key>Headers/AFImageDownloader.h</key>
+		<data>
+		DdkKfLKwkGWHfxORSb2yM/nuZuQ=
 		</data>
 		<key>Headers/AFNetworkActivityIndicatorManager.h</key>
 		<data>
-		Z2OkmIMuWCxp6v2PjErsG9mot5s=
+		r6+NXytqM5g3+z+Wl0Bq8/0QUE0=
 		</data>
 		<key>Headers/AFNetworkReachabilityManager.h</key>
 		<data>
-		DdsINz6lxFAlEvb0Bi45ZLyzCg4=
+		ucw7ZEs9qbD4ZHXh6GrEj2bffRw=
 		</data>
 		<key>Headers/AFNetworking-umbrella.h</key>
 		<data>
-		lpBnxx9A+UVuagnIbWoLWvkQr7w=
+		1sC3a4kQsTU6c5Cpy9/QKr+HqJM=
 		</data>
 		<key>Headers/AFNetworking.h</key>
 		<data>
-		+CH32WJFhhrM6aEeP2xMk983Xr0=
+		AFv03ZXPPEIZ/1OP4o2VKtiehNw=
 		</data>
 		<key>Headers/AFSecurityPolicy.h</key>
 		<data>
-		PBB1Dtjb5OMwizSYfF4CLzTpUeo=
-		</data>
-		<key>Headers/AFURLConnectionOperation.h</key>
-		<data>
-		ZJs0ExQkpOuB8bUkbIIs7ZwXrLA=
+		mKJZR8y6GaXjHpor/fedgnoNVso=
 		</data>
 		<key>Headers/AFURLRequestSerialization.h</key>
 		<data>
-		aJz6OvFeVlwLwPMJz/sVlpZYYnQ=
+		ych5QFuoZt4m9FDyrnPdn7st4rY=
 		</data>
 		<key>Headers/AFURLResponseSerialization.h</key>
 		<data>
-		45u7KKuWxrFdlVNRmnlIKup1Wao=
+		LSyE4Ifcv27ky4gbSY/3N0I15KU=
 		</data>
 		<key>Headers/AFURLSessionManager.h</key>
 		<data>
-		/53eqLm5waNek1FynmshedrquV0=
+		aLHvo81aAjkdt54M5fHSuNbO270=
 		</data>
 		<key>Headers/UIActivityIndicatorView+AFNetworking.h</key>
 		<data>
-		nOU2pILlOxoXHvNkvMONPdgH8AY=
-		</data>
-		<key>Headers/UIAlertView+AFNetworking.h</key>
-		<data>
-		v9kS4HwmN2JEEe43kO2PAJlpihc=
+		ufCIdNHPj8UaOMIawR36xVzRTXw=
 		</data>
 		<key>Headers/UIButton+AFNetworking.h</key>
 		<data>
-		X8peeNtYTRhi58XSqDGm8B3Wzsc=
-		</data>
-		<key>Headers/UIImage+AFNetworking.h</key>
-		<data>
-		En8N5FnA7OC2sYQ736Mm1joiQ/c=
+		IvZzAfMR5Y2Xg39PrJywOltLvN0=
 		</data>
 		<key>Headers/UIImageView+AFNetworking.h</key>
 		<data>
-		84HurGxARjw6fNmXrzTd5Kx/+00=
+		Se8m99PIcu9wDmUT8CXkmvfaZPQ=
 		</data>
 		<key>Headers/UIKit+AFNetworking.h</key>
 		<data>
-		DepFUu9v0GVVpSnTyx+L72uxEmM=
+		lYeMdU2LdjeXCA1t7phSHuvIY7Y=
 		</data>
 		<key>Headers/UIProgressView+AFNetworking.h</key>
 		<data>
-		Q+UePfg3RzxO2JfSEXUsfRWagKM=
+		WvEV57O5pfmgozK/RK615iwoWrM=
 		</data>
 		<key>Headers/UIRefreshControl+AFNetworking.h</key>
 		<data>
-		M8eapSnRRXsZAzskfE+BOcEJuTo=
+		cwIjnQvYFfMcZ2abl6Rf+fX6gEQ=
 		</data>
-		<key>Headers/UIWebView+AFNetworking.h</key>
+		<key>Headers/WKWebView+AFNetworking.h</key>
 		<data>
-		bB8sgYT9pJl6+Dk/BNekSe2eNFQ=
+		9sZlITqGbZD4Y8xNzm1ynogIvj0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MgkdMTbw5lPUMStkhDmPJWtD1po=
+		cP6u+n3+wzxN+ngBowYj3iWnFz4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,235 +91,213 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/AFHTTPRequestOperation.h</key>
+		<key>Headers/AFAutoPurgingImageCache.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FSMOqraDexgvseI75eS3rYwEGtA=
+			u6J7817KrHAEEcltC8/yWkPL5h0=
 			</data>
 			<key>hash2</key>
 			<data>
-			komjlP0tMCj0dceZZfDm7eSdb+ohLSBBxwUKk85cteI=
+			lbdeenk9DMd8I/ibE+gppFgl5forcexnxnb8npgDgHs=
 			</data>
 		</dict>
-		<key>Headers/AFHTTPRequestOperationManager.h</key>
+		<key>Headers/AFCompatibilityMacros.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b1KHlG+x8p742K79Szs3vj3WDpQ=
+			bMx2Q3E0bY5q/tQTCljcMvlgCBI=
 			</data>
 			<key>hash2</key>
 			<data>
-			060jgJOg4RhmQTJX00ZqZcX4JMl37o1DnL5k5WcsD/g=
+			peF9rICilOiwDo3bg0XBsJQjGJDiyCpX0zx9nyc9/Jo=
 			</data>
 		</dict>
 		<key>Headers/AFHTTPSessionManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aIwWmBXNYpORYvnANyBe6o/kLhM=
+			22OSQyol6UjgN9WlxltviIrL70c=
 			</data>
 			<key>hash2</key>
 			<data>
-			qVhYmBgYhmVg9m0UWpZiaDMXO+alftQ/x+7JRpv6SGY=
+			oT2o9OeTuHlWtclv0AuCpl3zFcoBo83TLtlXKxoOpMY=
+			</data>
+		</dict>
+		<key>Headers/AFImageDownloader.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DdkKfLKwkGWHfxORSb2yM/nuZuQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			p2T9eod0muZSpGE0ipUaoMU9556hEh/JAO8M7hBiY+w=
 			</data>
 		</dict>
 		<key>Headers/AFNetworkActivityIndicatorManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z2OkmIMuWCxp6v2PjErsG9mot5s=
+			r6+NXytqM5g3+z+Wl0Bq8/0QUE0=
 			</data>
 			<key>hash2</key>
 			<data>
-			eFWKj6j/7VWj9nTk4ZIsEIIyMeq/d6Mrbf2dHSuP7a4=
+			jliOSW3qaIBtrzO3sNG2VpQxWrXQ52ASR2WBLNjsdHM=
 			</data>
 		</dict>
 		<key>Headers/AFNetworkReachabilityManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DdsINz6lxFAlEvb0Bi45ZLyzCg4=
+			ucw7ZEs9qbD4ZHXh6GrEj2bffRw=
 			</data>
 			<key>hash2</key>
 			<data>
-			zELDXyd+im8gZjdgqcShsiL9fIxBE1BIhsyFZlNxPAg=
+			Auq4EpEWLRxuWwpS81xd1K4dDfhaetQkoWz7EiJn4no=
 			</data>
 		</dict>
 		<key>Headers/AFNetworking-umbrella.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lpBnxx9A+UVuagnIbWoLWvkQr7w=
+			1sC3a4kQsTU6c5Cpy9/QKr+HqJM=
 			</data>
 			<key>hash2</key>
 			<data>
-			rGBX5RQ9T/u6/QKDpihwlpQVgtTdlLjieR5+/vODvCw=
+			i/jOLrSOjv+zXgWpuzbKYEk6J+3Ix735ABC67gCDhDo=
 			</data>
 		</dict>
 		<key>Headers/AFNetworking.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+CH32WJFhhrM6aEeP2xMk983Xr0=
+			AFv03ZXPPEIZ/1OP4o2VKtiehNw=
 			</data>
 			<key>hash2</key>
 			<data>
-			wfovfGULl4trGW/Y5QKKldk4w+d4bEEgQpStvGLrbd4=
+			erARV6sJ5/vEXwyz7+OvQBShYLP7G9kdZ2c9/Uo2+DA=
 			</data>
 		</dict>
 		<key>Headers/AFSecurityPolicy.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PBB1Dtjb5OMwizSYfF4CLzTpUeo=
+			mKJZR8y6GaXjHpor/fedgnoNVso=
 			</data>
 			<key>hash2</key>
 			<data>
-			Lk25fI3xA7GYDXnZzzfnRVnOHxbW+EmeT1unJy/2TXg=
-			</data>
-		</dict>
-		<key>Headers/AFURLConnectionOperation.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZJs0ExQkpOuB8bUkbIIs7ZwXrLA=
-			</data>
-			<key>hash2</key>
-			<data>
-			TdF8NnMl0+OZ6i1Ne+OEJFGAyPNCCpmmsDUh7hE+vDw=
+			NiPw528MoJXIalUMV3t3csa9u4dllWT7QfhTNnMK7W4=
 			</data>
 		</dict>
 		<key>Headers/AFURLRequestSerialization.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aJz6OvFeVlwLwPMJz/sVlpZYYnQ=
+			ych5QFuoZt4m9FDyrnPdn7st4rY=
 			</data>
 			<key>hash2</key>
 			<data>
-			xgGi7GQ+VWTZpCC+nsc6PPYMGFTmsemabZ9xm9jyNZ4=
+			AAS/aWXqVd1bl5VSjz+IIkqFqOSm8VenFFDWqaPBVi0=
 			</data>
 		</dict>
 		<key>Headers/AFURLResponseSerialization.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			45u7KKuWxrFdlVNRmnlIKup1Wao=
+			LSyE4Ifcv27ky4gbSY/3N0I15KU=
 			</data>
 			<key>hash2</key>
 			<data>
-			MGEPpk+J2OO/oLE0fuKFQDYiD43kVpsu9VqJRXtAap8=
+			iS67mJspRyObhXqOfCzJz7pF+C59T/YItn7MH/N8vMU=
 			</data>
 		</dict>
 		<key>Headers/AFURLSessionManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/53eqLm5waNek1FynmshedrquV0=
+			aLHvo81aAjkdt54M5fHSuNbO270=
 			</data>
 			<key>hash2</key>
 			<data>
-			A9cy6M+fKPLGog1Z+bliXaT1+5O/kM6uHZ5vFlmMWWg=
+			UPIxitS6x3GiBQGrZZWVK7qFF1YO+GSfXjdpA21OfhQ=
 			</data>
 		</dict>
 		<key>Headers/UIActivityIndicatorView+AFNetworking.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nOU2pILlOxoXHvNkvMONPdgH8AY=
+			ufCIdNHPj8UaOMIawR36xVzRTXw=
 			</data>
 			<key>hash2</key>
 			<data>
-			iae2rg3MTD0y2UNqkvBWQYGBgrKosh2bcJQaJvX2g3Y=
-			</data>
-		</dict>
-		<key>Headers/UIAlertView+AFNetworking.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			v9kS4HwmN2JEEe43kO2PAJlpihc=
-			</data>
-			<key>hash2</key>
-			<data>
-			0VcyYacf0LdpX/0tPMF0lnQxA+h70Yhozu5nLLaoBvQ=
+			NfD/dfZ7Zr3uUlkDLd9XHdKzKZx14HFcKpgcMY2ZEU4=
 			</data>
 		</dict>
 		<key>Headers/UIButton+AFNetworking.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X8peeNtYTRhi58XSqDGm8B3Wzsc=
+			IvZzAfMR5Y2Xg39PrJywOltLvN0=
 			</data>
 			<key>hash2</key>
 			<data>
-			7TD82wyzsepw0LMlKNE7TbNMT3qWZCX68PMseF7ARLU=
-			</data>
-		</dict>
-		<key>Headers/UIImage+AFNetworking.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			En8N5FnA7OC2sYQ736Mm1joiQ/c=
-			</data>
-			<key>hash2</key>
-			<data>
-			coTQT1wVVGmqyCjDvG0VC1v4MD49vGb46cASoEJz9Hc=
+			mfmYIGixOUbfFA0i0Egh719DIRpq9f0jfySqMlJmxTo=
 			</data>
 		</dict>
 		<key>Headers/UIImageView+AFNetworking.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			84HurGxARjw6fNmXrzTd5Kx/+00=
+			Se8m99PIcu9wDmUT8CXkmvfaZPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			aFN3yoJNwYAakhxq8aZG17NK9ZJ+Xu3RFv2OSCf0puM=
+			/XdveymyD3GsGLWwmyy79efnwdTyePDlhUj7trrmzv4=
 			</data>
 		</dict>
 		<key>Headers/UIKit+AFNetworking.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DepFUu9v0GVVpSnTyx+L72uxEmM=
+			lYeMdU2LdjeXCA1t7phSHuvIY7Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			bDnNo1nLAXdsDRhE/eMdYaDaxoZU7bDqahxVIEte/Fo=
+			yb8Ct7ZhezbDRvMNOblQk/lSrFfsd+U9UDe/K5lC9Tc=
 			</data>
 		</dict>
 		<key>Headers/UIProgressView+AFNetworking.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q+UePfg3RzxO2JfSEXUsfRWagKM=
+			WvEV57O5pfmgozK/RK615iwoWrM=
 			</data>
 			<key>hash2</key>
 			<data>
-			VAk8ztj+Mv+nN5BVqIwY1H2t2Md9PwblA483JmO0p/o=
+			ISY7PqOx5Y5+/SMDLGqy4HN7558KPotH2Zy8KyxnV3c=
 			</data>
 		</dict>
 		<key>Headers/UIRefreshControl+AFNetworking.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M8eapSnRRXsZAzskfE+BOcEJuTo=
+			cwIjnQvYFfMcZ2abl6Rf+fX6gEQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			wGmIuKApBWYYJu+Zv4AkSX62jXVYyXijyXk7M/Sdxcg=
+			WB4nRYrhkxwvlIfyfDbs3jNIJ9NcglWLIdDthEF9T7k=
 			</data>
 		</dict>
-		<key>Headers/UIWebView+AFNetworking.h</key>
+		<key>Headers/WKWebView+AFNetworking.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bB8sgYT9pJl6+Dk/BNekSe2eNFQ=
+			9sZlITqGbZD4Y8xNzm1ynogIvj0=
 			</data>
 			<key>hash2</key>
 			<data>
-			1+LqYKnL6WyQVdr0FrirhkcRpeGWwsMHK1Oj5rqoe3Q=
+			FFUmtgEMyK8Vf0AsI21T96ZLjyD0mNOWM2ddU61zMjw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

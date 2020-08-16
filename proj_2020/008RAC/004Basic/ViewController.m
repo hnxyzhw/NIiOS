@@ -14,9 +14,7 @@
 #import <NITools-umbrella.h>
 #import <ReactiveCocoa/ReactiveCocoa.h>
 #import "Masonry.h"
-// 屏幕
-#define kScreenWidth [UIScreen mainScreen].bounds.size.width     //屏幕宽度
-#define kScreenHeight [UIScreen mainScreen].bounds.size.height   //屏幕高度
+#import "MyDemoPrintTest/PrintHello.h"
 
 @interface ViewController ()<UITextFieldDelegate>
 @property(nonatomic,strong) UIView *viewTop;
@@ -26,6 +24,8 @@
 @property (nonatomic,strong) NSString *str;
 //结论：被strong修饰以后只是强指针引用，并未改变地址，所以str的值会随着strM进行变化，二者的地址也是相同的。
 @property(nonatomic,strong) UITextField *textField;
+@property(nonatomic,strong) NINetworkDetectionView *networkDetectionView;
+
 @end
 
 @implementation ViewController
@@ -41,6 +41,10 @@
         make.width.mas_equalTo(kScreenWidth-40);
         make.centerX.mas_equalTo(self.view);
     }];
+    [self.view addSubview:self.networkDetectionView];
+    //远程私有库引入调用
+    PrintHello *ph = [PrintHello new];
+    [ph NISay_Hello];
 }
 
 
@@ -116,6 +120,11 @@
     }
     return _viewTop;
 }
-
+-(NINetworkDetectionView *)networkDetectionView{
+    if (!_networkDetectionView) {
+        _networkDetectionView = [[NINetworkDetectionView alloc] initWithFrame:CGRectMake(0, 0, kScreenWidth, kScreenHeight)];
+    }
+    return _networkDetectionView;
+}
 
 @end

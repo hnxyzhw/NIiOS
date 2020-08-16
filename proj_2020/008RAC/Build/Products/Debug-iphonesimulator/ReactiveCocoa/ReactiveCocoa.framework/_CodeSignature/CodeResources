@@ -6,279 +6,279 @@
 	<dict>
 		<key>Headers/NSArray+RACSequenceAdditions.h</key>
 		<data>
-		pmeWRivrEpRLO1P7zoXJLVuDJYg=
+		aWBtj1suaR52TgILGZ5y6OrJqLI=
 		</data>
 		<key>Headers/NSData+RACSupport.h</key>
 		<data>
-		/VjrfKGqr+o+AgrbbTfLPC2QLe8=
+		0vJryurLP0AZcBNgf2L0Dl9v9hU=
 		</data>
 		<key>Headers/NSDictionary+RACSequenceAdditions.h</key>
 		<data>
-		3Z2eYe0bb/5ZC1HSod1WJisu8k8=
+		22j52Hqwjx4IsRgL9i2Z2Xja93M=
 		</data>
 		<key>Headers/NSEnumerator+RACSequenceAdditions.h</key>
 		<data>
-		wevZ3v5LOHZjjB+eoY3BW0quza0=
+		Yqwbk9biU3j1RfixqitIuOSs5xE=
 		</data>
 		<key>Headers/NSFileHandle+RACSupport.h</key>
 		<data>
-		q/+lwoepZjTlMoKOkRK3OQlG5R0=
+		W3KMa3H6DAVYAXyBPBQ14CEbKzQ=
 		</data>
 		<key>Headers/NSInvocation+RACTypeParsing.h</key>
 		<data>
-		VuFS9CNJ5b+NOfuMLsyPyhEmWkU=
+		Q7I6xnEDu4dNBL+ySf8YUuWGUuA=
 		</data>
 		<key>Headers/NSNotificationCenter+RACSupport.h</key>
 		<data>
-		/s5S7pi+opVkTQcyGBi17Vq9UhQ=
+		4QtYc+nDGvHn310k/SAqq4XW0xI=
 		</data>
 		<key>Headers/NSObject+RACDeallocating.h</key>
 		<data>
-		lW6JIQtWfW32+o/L7lxQ1AjGxgM=
+		COCEs2JCJzNAq/a4hHfqrPvyltE=
 		</data>
 		<key>Headers/NSObject+RACDescription.h</key>
 		<data>
-		ZucOsPqLzo4BO4ub5N/OAb28XDk=
+		wdPAJR3j0kQnabcwXi4CJig1zk0=
 		</data>
 		<key>Headers/NSObject+RACKVOWrapper.h</key>
 		<data>
-		ACQkpaQzikHSwHW1ObhJkMWpCfM=
+		/EHOtFSqP0tgSYu4Jm+pkMBVsJY=
 		</data>
 		<key>Headers/NSObject+RACLifting.h</key>
 		<data>
-		EG+DTONcAq1+5Ac4lCKJHeBRlbc=
+		922VUX9d/fsJasPqYs3f1GgAeZI=
 		</data>
 		<key>Headers/NSObject+RACPropertySubscribing.h</key>
 		<data>
-		9nLYNtkhcVEBhBJ7hLxMZiVzTAo=
+		uTrCCe2T2QufktxC1Jdtpl59NBU=
 		</data>
 		<key>Headers/NSObject+RACSelectorSignal.h</key>
 		<data>
-		sJWVpCcXDHnRLL1AVvbXCyqojFI=
+		MvfnOkRdFA1iIRpWABROwJ/00xg=
 		</data>
 		<key>Headers/NSOrderedSet+RACSequenceAdditions.h</key>
 		<data>
-		iQoDIl+x9dCgXVm/oCj9TQo/IAQ=
+		5YLDS4fLE4JfHZegRlXfzjaGiuA=
 		</data>
 		<key>Headers/NSSet+RACSequenceAdditions.h</key>
 		<data>
-		hzU7W586lNccoKVsS7gDdRP40qQ=
+		3cCPJQg1DjvGUVqIYh1nqOHigMA=
 		</data>
 		<key>Headers/NSString+RACKeyPathUtilities.h</key>
 		<data>
-		A20ewuyI/KaZ2/3rn29wAwKP+10=
+		yuSGcoNGTviiAuHYXG8b00xDCts=
 		</data>
 		<key>Headers/NSString+RACSequenceAdditions.h</key>
 		<data>
-		gtdQe6EtaLGIXUwftE/nC4ZXyOU=
+		FKnMXMtl3rXxspkZaLdtAgimLHc=
 		</data>
 		<key>Headers/NSString+RACSupport.h</key>
 		<data>
-		c5hafaFcTOKFLilyhHfvEX+Jjjk=
+		vtRZNn5qXzehr1A47OX+ftdpvgI=
 		</data>
 		<key>Headers/NSURLConnection+RACSupport.h</key>
 		<data>
-		x26YjwlKX7ipSAYUq8CC2AzQRf4=
+		iK1E78vMAfwVlVpmNhQXxfX8VlE=
 		</data>
 		<key>Headers/RACArraySequence.h</key>
 		<data>
-		k2KH/IFBorccZOYNUB7f8deKbTU=
+		BZgbm1DBKUHFVguDwBWXfReAADs=
 		</data>
 		<key>Headers/RACBacktrace.h</key>
 		<data>
-		uvX+phXCb0tosLQoF0rh0pLhWSg=
+		HuWYVl78fj3a9EcGWeKCiTkscdE=
 		</data>
 		<key>Headers/RACBehaviorSubject.h</key>
 		<data>
-		8i3BuzAUmUG6GU8HQy7A739w154=
+		XC7fEmS1ilno4PFrFA7RH8Tu4is=
 		</data>
 		<key>Headers/RACBlockTrampoline.h</key>
 		<data>
-		jbKZ8CSuGvFZzp3c6PDVw0NFD0k=
+		MQ1fmBw9Vw52NzX+a9JIA0vvaBY=
 		</data>
 		<key>Headers/RACChannel.h</key>
 		<data>
-		YXYAq03Q9IArX8LeO25eVl+FG1w=
+		LocuZ9dgFPgUClrDTU17+PbY/uE=
 		</data>
 		<key>Headers/RACCommand.h</key>
 		<data>
-		Q73T35ssGHyaO5wLftZipFUdWlQ=
+		F4ZCMQb+J6sr3vRfd9jpSbcvrEM=
 		</data>
 		<key>Headers/RACCompoundDisposable.h</key>
 		<data>
-		uuUZ2zD3fbsGE+dnpTGT9b/06g4=
+		zsc42rvNw5xSjzEqcqJm/gP4UWA=
 		</data>
 		<key>Headers/RACDelegateProxy.h</key>
 		<data>
-		/g2vybreZupF/GRNvf1LyecwRpM=
+		2upEayzYmFiNliaLh1j73RtoLIk=
 		</data>
 		<key>Headers/RACDisposable.h</key>
 		<data>
-		d++zSrc2o8GorIAR+ScXcUhAb/I=
+		K7MjtYmeWhT1eejganzgYCi10I8=
 		</data>
 		<key>Headers/RACDynamicSequence.h</key>
 		<data>
-		iE4hVFGaZv56E6VFiAf4476HLrQ=
+		dW31vrBZiU0fCmAb/hlN41xy9ug=
 		</data>
 		<key>Headers/RACDynamicSignal.h</key>
 		<data>
-		/ZNJpI72iH206lP/4HBI5khkJ60=
+		60fpcuMjstWSm/FiLGxnDYivB4g=
 		</data>
 		<key>Headers/RACEXTKeyPathCoding.h</key>
 		<data>
-		igUYSnjd6UmBOLLWWu2rd6eFuGE=
+		CqjNAo/oAS0vikFWSG+oOBkirG0=
 		</data>
 		<key>Headers/RACEXTScope.h</key>
 		<data>
-		2/Tr3sCaQZaZ2oQJiuB7gg7FlO0=
+		OlaxWAhevwG64RDEEw53Qprqfco=
 		</data>
 		<key>Headers/RACEagerSequence.h</key>
 		<data>
-		+Y+s+e2t8+vJQFdtCbjkfD5NQAA=
+		knx3fEwAJOVo+05XEPrxjlGKgsY=
 		</data>
 		<key>Headers/RACEmptySequence.h</key>
 		<data>
-		/gEJsP5pfTeVCp8Ys9NqkQ8yqh4=
+		39VcnmobjV89IuuMh9+4VE7qVM4=
 		</data>
 		<key>Headers/RACEmptySignal.h</key>
 		<data>
-		cyThRbeETwlvD6A9HD2mffaZm5w=
+		vehJQfiqo3twkdjo1ZDN7UFb/HA=
 		</data>
 		<key>Headers/RACErrorSignal.h</key>
 		<data>
-		fB4UUBnVAjNZ33IXmFiSj5lIb2Y=
+		U4VrO6V7CzfJjuX0Hzv0xFSerds=
 		</data>
 		<key>Headers/RACEvent.h</key>
 		<data>
-		zmmZCfeZla054XEYCVzEZNXUA1U=
+		dQu7EIGef30WA6R9P9jeiFqt444=
 		</data>
 		<key>Headers/RACGroupedSignal.h</key>
 		<data>
-		5bgQ1+OySjbmHSAL5n4YnM8qzUo=
+		svItIguvlRaPuslcjhRnx2VVh10=
 		</data>
 		<key>Headers/RACImmediateScheduler.h</key>
 		<data>
-		XLLx/SVmCjl7bHzb/8xOn0XFB0M=
+		dzAjvTbBUdMf36kH2uMJahdxKqs=
 		</data>
 		<key>Headers/RACKVOChannel.h</key>
 		<data>
-		hreWd9kllDKlx6BM/zaypepcFq8=
+		/d55sF3Qwy4amj27utoO4ZXRH20=
 		</data>
 		<key>Headers/RACKVOTrampoline.h</key>
 		<data>
-		xBX38QKEeZW+6kF0SMhL3JLIr2U=
+		Q4d+vT/PXnW61g849ldXCknBa18=
 		</data>
 		<key>Headers/RACMulticastConnection.h</key>
 		<data>
-		QzweZuNV6GowJwSFqc72JMYDtzc=
+		9OuO/J98Kk+VcNDm8ebd2QgBWww=
 		</data>
 		<key>Headers/RACObjCRuntime.h</key>
 		<data>
-		aL6u088T68aYIJWPHoCr1YjkmFk=
+		8gK9VdcP1RIHCI1vQD+iHluyl4U=
 		</data>
 		<key>Headers/RACPassthroughSubscriber.h</key>
 		<data>
-		tyAZ08qiACeO+wrpu61vpdN2nV0=
+		dlcf7LycROBdtFFDVX5g1w8hBqo=
 		</data>
 		<key>Headers/RACQueueScheduler+Subclass.h</key>
 		<data>
-		/BeLUrNJiFz7DtPDBXhUIItaDSQ=
+		1Akjw1Q+J2asLOMWh3CaQpuyJXo=
 		</data>
 		<key>Headers/RACQueueScheduler.h</key>
 		<data>
-		shFhzHRwB8ks+eOGQGAMRMYKB74=
+		ybefbImqr+a9Oa2OsBAEbYe85iY=
 		</data>
 		<key>Headers/RACReplaySubject.h</key>
 		<data>
-		/OfcpRfowYd3igIPCMnW0KyBW+4=
+		1YBOUFGIjagMUf19/cs/XG7u0qY=
 		</data>
 		<key>Headers/RACReturnSignal.h</key>
 		<data>
-		nNLv4vSSyagvRWQMWGzn+p76/i0=
+		lhC1U7OTEoTSdl1I9TPvo8G9p8w=
 		</data>
 		<key>Headers/RACScheduler.h</key>
 		<data>
-		qdgvC47+EhHNk//yDLc5815/Irc=
+		ubn8jv8ZcAPqBLAU6XkgTlNni9s=
 		</data>
 		<key>Headers/RACScopedDisposable.h</key>
 		<data>
-		CGYHwD+qfeYd/PysLpeQ4vgdLkE=
+		Yc5oRfTqHkE6hDgqo42/lSlMI3c=
 		</data>
 		<key>Headers/RACSequence.h</key>
 		<data>
-		u94EEiqZ8XnbWFGGhRBtsx6FHoA=
+		ZRHtrho/R9TMBJo9RZB7nU2FMks=
 		</data>
 		<key>Headers/RACSerialDisposable.h</key>
 		<data>
-		SH0gCIrW/pyr/SrGq1NpIIOZWcw=
+		NzTqALsFTCgOz2ku7NzXFWmiT90=
 		</data>
 		<key>Headers/RACSignal+Operations.h</key>
 		<data>
-		EAXfRf9qCPzM9g8XOvKtz+fWb5c=
+		/pYIaU6MgM3+dJNkU3aFmP7bJ4A=
 		</data>
 		<key>Headers/RACSignal.h</key>
 		<data>
-		KIN/8aQ7ul/Y92E0II7viSyxuCw=
+		iiLnOpURKQ/1gUVOIAv/tp2EX64=
 		</data>
 		<key>Headers/RACSignalSequence.h</key>
 		<data>
-		LMLEXwAZ1k8matwPRHuLt+wGEjI=
+		U11NIsQo3bmyVdS5cQTpTs5ojMU=
 		</data>
 		<key>Headers/RACStream.h</key>
 		<data>
-		siFhIiitTdP/2oNA2FiW722weug=
+		LS5rFfgIUePh3LBtBfEoYDSweCc=
 		</data>
 		<key>Headers/RACStringSequence.h</key>
 		<data>
-		irWqbO3Yshm8/gXtSRpzdq/iAmU=
+		AUDZVA1/cCrzQsmtNWNlIUbyTX0=
 		</data>
 		<key>Headers/RACSubject.h</key>
 		<data>
-		gAMO0I9TpT+4aF7Sr9IryILfJk0=
+		Q2Q6h9ZfNybFdHJRxu5CnDL0Aqc=
 		</data>
 		<key>Headers/RACSubscriber.h</key>
 		<data>
-		XF4TsOmsg7xN5IG0d+TczHAs864=
+		JIr/SlwNpygzx7sR+9ssGBvdfzI=
 		</data>
 		<key>Headers/RACSubscriptingAssignmentTrampoline.h</key>
 		<data>
-		z3pTnqovl/d3Zcmrkp9UkzzGLCs=
+		rvrbSynnWQS6YZq3aSm1wU+wgPg=
 		</data>
 		<key>Headers/RACSubscriptionScheduler.h</key>
 		<data>
-		sMZCAT70+1F8Z/Pz6sSx0By33J4=
+		sXCfNjHonGHXr41WHYTMPYCWn2A=
 		</data>
 		<key>Headers/RACTargetQueueScheduler.h</key>
 		<data>
-		O8tuMCn8XgqLAp1vl7b8VvXB6to=
+		cwV6f95RcM/826QXM2UeF6oaECA=
 		</data>
 		<key>Headers/RACTestScheduler.h</key>
 		<data>
-		3p6OsPDND7zp+ay+pRC3Gtfu9FE=
+		I7gOChaXCpK9dNV+XTx+wDSLfhA=
 		</data>
 		<key>Headers/RACTuple.h</key>
 		<data>
-		IhwO+Os7hb/UgWjFZdfseJ/Dy94=
+		/2pILA7EMwSc1XHOjvAT/TIsTwY=
 		</data>
 		<key>Headers/RACTupleSequence.h</key>
 		<data>
-		srlZ1NAWqK9opPF279LQp5wP/6I=
+		rSR3HhVHb6t1SaSQG7mwCyEa+4Y=
 		</data>
 		<key>Headers/RACUnarySequence.h</key>
 		<data>
-		bMAT8OSlQ5HXl/PeaN29enrXAUc=
+		APnemnDSo8a0Q2qhbt9XVsIrxNk=
 		</data>
 		<key>Headers/RACUnit.h</key>
 		<data>
-		2j3bVZNmmwWhCjLxoqYzSg1EiiQ=
+		DjoVMRiUD4t3XiKjV+KAkgOBr8g=
 		</data>
 		<key>Headers/RACValueTransformer.h</key>
 		<data>
-		4AcUQGmmjeDl0CGOCMTSAZc8dMk=
+		9jHONdN3bPt3O7sCEcUcabwieGw=
 		</data>
 		<key>Headers/RACmetamacros.h</key>
 		<data>
-		drxt+RVMvPkStJXXDYX7JX20668=
+		F8diSFwlUnvNRfDPT7xBJMy/SAo=
 		</data>
 		<key>Headers/ReactiveCocoa-umbrella.h</key>
 		<data>
@@ -286,75 +286,75 @@
 		</data>
 		<key>Headers/ReactiveCocoa.h</key>
 		<data>
-		XqNwpYB7FvABTWVWS43DHlE7bVk=
+		2BiMidnYpRaCB1zURbsFNdIIMgk=
 		</data>
 		<key>Headers/UIActionSheet+RACSignalSupport.h</key>
 		<data>
-		cALjpJBx+y4rFffqyWDIhaNYM0w=
+		VVlw+6/8bro2bEM4eZk/AT1FDjg=
 		</data>
 		<key>Headers/UIAlertView+RACSignalSupport.h</key>
 		<data>
-		A3cmeWut/7BLbEuEuVTfVglrSHc=
+		qCV6zdYQ2kb0OAjmZekwR/ILgIo=
 		</data>
 		<key>Headers/UIBarButtonItem+RACCommandSupport.h</key>
 		<data>
-		GLLidoxHYvPthMgRMl850voz7zA=
+		kV37kCjsXf+V+cvc6F8L8R1uNos=
 		</data>
 		<key>Headers/UIButton+RACCommandSupport.h</key>
 		<data>
-		2PnlSz+iumjzbdhqrfDX+K8IRqM=
+		oTJY8lMbL5VgrQZyZs1NZuTq4Bk=
 		</data>
 		<key>Headers/UICollectionReusableView+RACSignalSupport.h</key>
 		<data>
-		SVFpoknNZTwS2nZsyQRXVr5bk2E=
+		+ESEpslDtn28/X2nNUPR2qUD3hI=
 		</data>
 		<key>Headers/UIControl+RACSignalSupport.h</key>
 		<data>
-		3nq92noPsmKLSIzzO8sQazqFSbo=
+		CjWpHF0+t1BDcnf6NxouJxHuon4=
 		</data>
 		<key>Headers/UIDatePicker+RACSignalSupport.h</key>
 		<data>
-		YaGNc6RhuYLuNUEHc0Mr/i9lcHU=
+		RikQGoGC0UEsEvlPIzqDgU5f7N4=
 		</data>
 		<key>Headers/UIGestureRecognizer+RACSignalSupport.h</key>
 		<data>
-		pYrx/fYl1T/H9DtxyOd4e9NTtf4=
+		A28ARfhH9yp/Q10n7YYTksEVa7E=
 		</data>
 		<key>Headers/UIRefreshControl+RACCommandSupport.h</key>
 		<data>
-		W8GxUVrdtq5ymet7cALnYFrsuhk=
+		n0ckjyocHPpQs0KjPaM1RiORDSE=
 		</data>
 		<key>Headers/UISegmentedControl+RACSignalSupport.h</key>
 		<data>
-		/9tiohzndYbOos7H24f7K/DTr7s=
+		J5EF9VFpkdJ5LRcFyRclP8lZOeE=
 		</data>
 		<key>Headers/UISlider+RACSignalSupport.h</key>
 		<data>
-		XrlJCDf5xVNlTWVwjFRR9IoADDg=
+		N/1Gc3uUew7a1u9YLo3lWa9Y3qg=
 		</data>
 		<key>Headers/UIStepper+RACSignalSupport.h</key>
 		<data>
-		yfwBYme00VlcotecIWGpW5ieaKM=
+		8YowyW591HDTogORmw22RMPR/ZQ=
 		</data>
 		<key>Headers/UISwitch+RACSignalSupport.h</key>
 		<data>
-		oR3qRCSG0Ah6gIWVcvQ/BnYVx9U=
+		lUz+Ww2t0O9HxKqXdXr5zXCC6sg=
 		</data>
 		<key>Headers/UITableViewCell+RACSignalSupport.h</key>
 		<data>
-		B8iN/JaLgK6NlixXAz4663VOni0=
+		OJsx8TJu6+toPJIQJvVpaGTut6A=
 		</data>
 		<key>Headers/UITextField+RACSignalSupport.h</key>
 		<data>
-		C/Q3LPYiiMCCpOJ9pmVGJPwThGk=
+		4onGN28gVUGR/v+oNIqtvjPCtfY=
 		</data>
 		<key>Headers/UITextView+RACSignalSupport.h</key>
 		<data>
-		Sku1ospinCwspdsd0KfGuorh17A=
+		KlUYcf7eKQX30NP+H9V6ShX2AHo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KcuMbGUb1mulajSPEIAXpUtEjoU=
+		OUfLk/066Ii2Dg+9ca31q+ukS6U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -362,27 +362,27 @@
 		</data>
 		<key>PrivateHeaders/RACEXTRuntimeExtensions.h</key>
 		<data>
-		u/tG/qsMKNmTa09rYFIcEKafmqs=
+		1kt4MHYR7yHe/2WHNxWuaHSdb2c=
 		</data>
 		<key>PrivateHeaders/RACMulticastConnection+Private.h</key>
 		<data>
-		zmupQQ/UanoEtdyG7AaIjDwTim8=
+		a71Cty2s1XBwP9F0DKELFnliMMA=
 		</data>
 		<key>PrivateHeaders/RACScheduler+Private.h</key>
 		<data>
-		ShC8si6lwlrLJbMg4tLBgQ6hdSk=
+		hbt1NnY/xfJJBzQoBE6vo0J/KIw=
 		</data>
 		<key>PrivateHeaders/RACStream+Private.h</key>
 		<data>
-		1UxvwNuHK4+Ckg3xSvcFcraMuaI=
+		vwbz+5Aa0cbM/G/wy3pMloIMCVM=
 		</data>
 		<key>PrivateHeaders/RACSubscriber+Private.h</key>
 		<data>
-		7uFIk2FWhYtigpaEuJq+avzWuZs=
+		cpir5uZ3oOKSXiwJGiXm+l2jlgc=
 		</data>
 		<key>PrivateHeaders/UIControl+RACSignalSupportPrivate.h</key>
 		<data>
-		wez+wlWT0MgK2p1Wmy+0qJNXoUs=
+		zpmV7Fq41IBIcQaX0opN4SC6Dqs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -391,759 +391,759 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pmeWRivrEpRLO1P7zoXJLVuDJYg=
+			aWBtj1suaR52TgILGZ5y6OrJqLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			vi1LAsId16K406VWnp4e7cHrR+SzDfa9HgBsB+erlb0=
+			e8Wxi8ArWgQkDNW1IWp3GX5R2x4h1Ee0McVgcMRB4Xo=
 			</data>
 		</dict>
 		<key>Headers/NSData+RACSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/VjrfKGqr+o+AgrbbTfLPC2QLe8=
+			0vJryurLP0AZcBNgf2L0Dl9v9hU=
 			</data>
 			<key>hash2</key>
 			<data>
-			UyAyJQ0D8myAEq+X/dbwG5g1UvBqvgASrGiUgntPCUM=
+			HmPnRXQlzSL5u39e7/Nc2DSwu15xZS0VOv9bHtgsbFY=
 			</data>
 		</dict>
 		<key>Headers/NSDictionary+RACSequenceAdditions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3Z2eYe0bb/5ZC1HSod1WJisu8k8=
+			22j52Hqwjx4IsRgL9i2Z2Xja93M=
 			</data>
 			<key>hash2</key>
 			<data>
-			gfN4ueJL4QYM872S1n97agA2e6R23ALSB2UM4+RLgqk=
+			iFZK6dEny2IzMWdImA1wQvJbILEIlBIPH6g/X/xs37g=
 			</data>
 		</dict>
 		<key>Headers/NSEnumerator+RACSequenceAdditions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wevZ3v5LOHZjjB+eoY3BW0quza0=
+			Yqwbk9biU3j1RfixqitIuOSs5xE=
 			</data>
 			<key>hash2</key>
 			<data>
-			B++TCZE/n4p6BkYGm9pC98FU6wdTCyDA81S/jYfcqIA=
+			pwaU02XyBQemjNQFxhR27LkOt0PUsWmMv9BQNj3f2aA=
 			</data>
 		</dict>
 		<key>Headers/NSFileHandle+RACSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q/+lwoepZjTlMoKOkRK3OQlG5R0=
+			W3KMa3H6DAVYAXyBPBQ14CEbKzQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			vqismYmz1hyN83zpID7heVtQI2XXwJq3Nd9upEWPfn8=
+			OnZ0np52jtgfjbMVUbZ01Dg0NyxnsVccP64HiqBx79M=
 			</data>
 		</dict>
 		<key>Headers/NSInvocation+RACTypeParsing.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VuFS9CNJ5b+NOfuMLsyPyhEmWkU=
+			Q7I6xnEDu4dNBL+ySf8YUuWGUuA=
 			</data>
 			<key>hash2</key>
 			<data>
-			QnPclsuvq6w0xJ6cRMomX73CWMnacib3e9vuHLLWpvI=
+			9vGAS6Zot19i+b++PUyJeyVA1//QHgEmpsBwxo1IZP4=
 			</data>
 		</dict>
 		<key>Headers/NSNotificationCenter+RACSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/s5S7pi+opVkTQcyGBi17Vq9UhQ=
+			4QtYc+nDGvHn310k/SAqq4XW0xI=
 			</data>
 			<key>hash2</key>
 			<data>
-			JAekiL0SSb60MOYFCFVwPf0WEAA0WF8p8yPArgupAlQ=
+			5IqTOdKGU7nYGnlrW3Dt9yyJv0uffGLsv3fxw2NIDB8=
 			</data>
 		</dict>
 		<key>Headers/NSObject+RACDeallocating.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lW6JIQtWfW32+o/L7lxQ1AjGxgM=
+			COCEs2JCJzNAq/a4hHfqrPvyltE=
 			</data>
 			<key>hash2</key>
 			<data>
-			OInx5ChCwLKjDrEoDplBSiIKNgZas2vXuc3ier/unK4=
+			sJ2z0ZoeTrkQYNccpY90+yy9BWP/WRSz6st2JX6764U=
 			</data>
 		</dict>
 		<key>Headers/NSObject+RACDescription.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZucOsPqLzo4BO4ub5N/OAb28XDk=
+			wdPAJR3j0kQnabcwXi4CJig1zk0=
 			</data>
 			<key>hash2</key>
 			<data>
-			LYAMBbuQ7tINO63tZJ9a9S8a4iwG2Zerk/1tGqkVwJk=
+			lqGb0rSOLXNES+y+lifshuIVDQMns1Loe1w/AwXjkuo=
 			</data>
 		</dict>
 		<key>Headers/NSObject+RACKVOWrapper.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ACQkpaQzikHSwHW1ObhJkMWpCfM=
+			/EHOtFSqP0tgSYu4Jm+pkMBVsJY=
 			</data>
 			<key>hash2</key>
 			<data>
-			HJojgs1HPtg86npJlstLS8ORqbaUC7gPYEYr7vK16Z0=
+			pPG1h4o7178RCN99c0QGtjoINowV0dO8N4YabhtqS8o=
 			</data>
 		</dict>
 		<key>Headers/NSObject+RACLifting.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EG+DTONcAq1+5Ac4lCKJHeBRlbc=
+			922VUX9d/fsJasPqYs3f1GgAeZI=
 			</data>
 			<key>hash2</key>
 			<data>
-			niqlzRU7cQbGG4pqYhUH5Im2bYD5UTLxiMb+r6+2ZsU=
+			K47O5jFLZQNOHttfjbe4eKy++bfpU4HVzYIrHeIrK4M=
 			</data>
 		</dict>
 		<key>Headers/NSObject+RACPropertySubscribing.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9nLYNtkhcVEBhBJ7hLxMZiVzTAo=
+			uTrCCe2T2QufktxC1Jdtpl59NBU=
 			</data>
 			<key>hash2</key>
 			<data>
-			m9pzwyHoFCmmHdfarXgecalwnWhELdeVU+Jot5L3iaI=
+			CHKR/mt1OcXkuSARsq+yHJIPjQg7ID1gCRb66kT0vcM=
 			</data>
 		</dict>
 		<key>Headers/NSObject+RACSelectorSignal.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sJWVpCcXDHnRLL1AVvbXCyqojFI=
+			MvfnOkRdFA1iIRpWABROwJ/00xg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZWGUJYnEIs8JajeSPzV2pTnssZbVU+sIxGim77Vsu3k=
+			gLjMB5SV2kTv0/y7BQrFca3I2B3sIHBDmQzRS8nSPu8=
 			</data>
 		</dict>
 		<key>Headers/NSOrderedSet+RACSequenceAdditions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iQoDIl+x9dCgXVm/oCj9TQo/IAQ=
+			5YLDS4fLE4JfHZegRlXfzjaGiuA=
 			</data>
 			<key>hash2</key>
 			<data>
-			D/4PnTSC4lKwWFjxs+S9o8HOAhJAbkhENTzGA2ypvHE=
+			DfxdyL+hrdD0wls1iz9mY0nysjeT6TtxhAxmf0U+DQM=
 			</data>
 		</dict>
 		<key>Headers/NSSet+RACSequenceAdditions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hzU7W586lNccoKVsS7gDdRP40qQ=
+			3cCPJQg1DjvGUVqIYh1nqOHigMA=
 			</data>
 			<key>hash2</key>
 			<data>
-			jXXutNhtmukUiRruoq5GNzQk2XuMYsj6iHlk3COK4Cs=
+			FJsGlOI3w/4Y/SDk/Lm/ZCd1j434wAQvoKZOC5CxSpk=
 			</data>
 		</dict>
 		<key>Headers/NSString+RACKeyPathUtilities.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A20ewuyI/KaZ2/3rn29wAwKP+10=
+			yuSGcoNGTviiAuHYXG8b00xDCts=
 			</data>
 			<key>hash2</key>
 			<data>
-			HFXFlRgG9PyU3mBxIFcUlFLA4Ud7bAnU4UOAqLVLmlo=
+			H9Bja88N3kDo1NkiXwuCiPm2qqQVHixbPszpbEFmm/Q=
 			</data>
 		</dict>
 		<key>Headers/NSString+RACSequenceAdditions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gtdQe6EtaLGIXUwftE/nC4ZXyOU=
+			FKnMXMtl3rXxspkZaLdtAgimLHc=
 			</data>
 			<key>hash2</key>
 			<data>
-			zs16c2EzHbuBzqkLsUlge9K6B4YNWyA28y4OwEnW/5Y=
+			87JStQ2t/D0dSnDgjwqxmA52mbVlEeKnWqVsUAXE94Y=
 			</data>
 		</dict>
 		<key>Headers/NSString+RACSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c5hafaFcTOKFLilyhHfvEX+Jjjk=
+			vtRZNn5qXzehr1A47OX+ftdpvgI=
 			</data>
 			<key>hash2</key>
 			<data>
-			lAJGUb9t0uWhuoqMT+7d/EvLQROSnam1G46gmYPGYSg=
+			w9OM0jBDvfFVeIcoOAfGV90JAxEA/bzeysZjvyAqsmc=
 			</data>
 		</dict>
 		<key>Headers/NSURLConnection+RACSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x26YjwlKX7ipSAYUq8CC2AzQRf4=
+			iK1E78vMAfwVlVpmNhQXxfX8VlE=
 			</data>
 			<key>hash2</key>
 			<data>
-			N0wht3plUX8odz0o95ZKPY5bSz2aARNKsNzofaflbU0=
+			I4hRiXzZfZEwj8DS23y4kpyZUaTD8Hv/TY/9BKjg9co=
 			</data>
 		</dict>
 		<key>Headers/RACArraySequence.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			k2KH/IFBorccZOYNUB7f8deKbTU=
+			BZgbm1DBKUHFVguDwBWXfReAADs=
 			</data>
 			<key>hash2</key>
 			<data>
-			RzCAd9JQlCGC3sejsBtvQdgu+18U6iQlR7hVd3PoDo0=
+			fcTzY55vGJz/kBcxXRptA+L1lrWscqZzcz/7nKxRSY8=
 			</data>
 		</dict>
 		<key>Headers/RACBacktrace.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uvX+phXCb0tosLQoF0rh0pLhWSg=
+			HuWYVl78fj3a9EcGWeKCiTkscdE=
 			</data>
 			<key>hash2</key>
 			<data>
-			hjoYzcQjpLq7KJfv4XVHxcipnVz8LCdquuee1Hn0YQg=
+			tgYOeptgczTaClyn9evjG5gt3MjgOPtqxmBwLfTAmAc=
 			</data>
 		</dict>
 		<key>Headers/RACBehaviorSubject.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8i3BuzAUmUG6GU8HQy7A739w154=
+			XC7fEmS1ilno4PFrFA7RH8Tu4is=
 			</data>
 			<key>hash2</key>
 			<data>
-			8TnK5VZOl/QFZbLX9kMk6ozATe/Zyfa4iy3QvFlDLho=
+			Lfv0jtN0hlE7BVY8KyTyB3lbigY8xE/I0N9cSigKmJg=
 			</data>
 		</dict>
 		<key>Headers/RACBlockTrampoline.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jbKZ8CSuGvFZzp3c6PDVw0NFD0k=
+			MQ1fmBw9Vw52NzX+a9JIA0vvaBY=
 			</data>
 			<key>hash2</key>
 			<data>
-			4QC+e6W4zIc5rxYUtFxOhyu+sw1k5XD/6yH0OUsv7wc=
+			yUZdaRX2Igx2go18M4K4FMZPqGzFIVz0W+bZ44IYMbg=
 			</data>
 		</dict>
 		<key>Headers/RACChannel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YXYAq03Q9IArX8LeO25eVl+FG1w=
+			LocuZ9dgFPgUClrDTU17+PbY/uE=
 			</data>
 			<key>hash2</key>
 			<data>
-			qCPOF/cPzzBVFoSscL+IfDo0RVYE7C5tYff/7xazvCM=
+			J4TYTc23gNMFoD5NvJ0h51vl6AkVBMeKRWi+X1VHceU=
 			</data>
 		</dict>
 		<key>Headers/RACCommand.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q73T35ssGHyaO5wLftZipFUdWlQ=
+			F4ZCMQb+J6sr3vRfd9jpSbcvrEM=
 			</data>
 			<key>hash2</key>
 			<data>
-			3HNPP2q4C7FvuXTyZn99d7xCCh2Q2EkGlhKnviZTv90=
+			WMrEuRhrJZLgagahJVI7cGzGABnXvaoiA/ESPyikWQI=
 			</data>
 		</dict>
 		<key>Headers/RACCompoundDisposable.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uuUZ2zD3fbsGE+dnpTGT9b/06g4=
+			zsc42rvNw5xSjzEqcqJm/gP4UWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kmuqa9C+LZ7kIQIVpWD3t++QoknolLN84Wqocd/3uUc=
+			gD7vSV5PyeA7NrqTbNExgJ4m2O8+KgXyTzNgmKSFHjY=
 			</data>
 		</dict>
 		<key>Headers/RACDelegateProxy.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/g2vybreZupF/GRNvf1LyecwRpM=
+			2upEayzYmFiNliaLh1j73RtoLIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			eoSmiLKEQXrrH4hVSGXhnL5yvtbu3BjnBDZ+rDzgumg=
+			egCIieHbj8jlBfXuPwTJoq5tRKP41fA2i0/U/FAPdyM=
 			</data>
 		</dict>
 		<key>Headers/RACDisposable.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d++zSrc2o8GorIAR+ScXcUhAb/I=
+			K7MjtYmeWhT1eejganzgYCi10I8=
 			</data>
 			<key>hash2</key>
 			<data>
-			640Mtf6ixBFNfOATpQp0pWsA7oo7u4qXTUNOxC/YeHE=
+			/KTBvXTFCz5Z7iPCVr30tTARWbTH84aFM/1owgh5plc=
 			</data>
 		</dict>
 		<key>Headers/RACDynamicSequence.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iE4hVFGaZv56E6VFiAf4476HLrQ=
+			dW31vrBZiU0fCmAb/hlN41xy9ug=
 			</data>
 			<key>hash2</key>
 			<data>
-			EG6c9Pww5WQQ7+y2tIJ7u8jefBnf/mJMQ96e8tWJ4Y0=
+			pjw390j45IwiWTbXyQas5mlPuGo6n+KhhsGCy/JFnQM=
 			</data>
 		</dict>
 		<key>Headers/RACDynamicSignal.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/ZNJpI72iH206lP/4HBI5khkJ60=
+			60fpcuMjstWSm/FiLGxnDYivB4g=
 			</data>
 			<key>hash2</key>
 			<data>
-			0cvfdHxMRasVlKZZwQdYWCj8fgZIdbsoCH2DFk9bQN8=
+			gtTMrS3o18sJW3K7XK5AHcE6cSs5nfUdJ53/+CUmVcs=
 			</data>
 		</dict>
 		<key>Headers/RACEXTKeyPathCoding.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			igUYSnjd6UmBOLLWWu2rd6eFuGE=
+			CqjNAo/oAS0vikFWSG+oOBkirG0=
 			</data>
 			<key>hash2</key>
 			<data>
-			HMEQWnrT4V07VYKZ+pJa7NnmU/XMXmQeITHvKZmwa1Q=
+			mKPjJAzfLrtgqliC0nvjvp2EpkXHj1WNdacxMSh5Hm8=
 			</data>
 		</dict>
 		<key>Headers/RACEXTScope.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2/Tr3sCaQZaZ2oQJiuB7gg7FlO0=
+			OlaxWAhevwG64RDEEw53Qprqfco=
 			</data>
 			<key>hash2</key>
 			<data>
-			vIl1OMfMGfiTrL7mR78+E5CGf9JonkY82CGdMq3ZKBQ=
+			u8/7zmcf6SvxbQ2KjPoMcW3ZRftmvyT/PdgHhuwuasM=
 			</data>
 		</dict>
 		<key>Headers/RACEagerSequence.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+Y+s+e2t8+vJQFdtCbjkfD5NQAA=
+			knx3fEwAJOVo+05XEPrxjlGKgsY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ez8UgoQ79ElJ7L3B1ZgxCsEaoYMzKIjlw9dc+7lWtwk=
+			0zNAN4SeHs5Wq2U6C4U/DmJczqbjUcsGoBZmdOO8o84=
 			</data>
 		</dict>
 		<key>Headers/RACEmptySequence.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/gEJsP5pfTeVCp8Ys9NqkQ8yqh4=
+			39VcnmobjV89IuuMh9+4VE7qVM4=
 			</data>
 			<key>hash2</key>
 			<data>
-			HiPg2D36G8JvfEP2mx33/req4yQJvjxEOqFLvrSDlek=
+			fJJoRiy4m63x8p6uvtWwGHvmXO8QNaHQ195NSiCGcrE=
 			</data>
 		</dict>
 		<key>Headers/RACEmptySignal.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cyThRbeETwlvD6A9HD2mffaZm5w=
+			vehJQfiqo3twkdjo1ZDN7UFb/HA=
 			</data>
 			<key>hash2</key>
 			<data>
-			oKR1IVVo8yhuz/0C30mf+gAdJxiHN0WNHGautBWrxes=
+			deYZeWMm2ZxY59cHKzNHwU1xyZb8e/wOkfW0rYb7fZg=
 			</data>
 		</dict>
 		<key>Headers/RACErrorSignal.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fB4UUBnVAjNZ33IXmFiSj5lIb2Y=
+			U4VrO6V7CzfJjuX0Hzv0xFSerds=
 			</data>
 			<key>hash2</key>
 			<data>
-			fDODIIuqLZZj5NIbB+ik1X3CXeh6E9IxnrEv2tClhwQ=
+			VDsqBLMT0gie+KOw1ahSpAIqv7GOvDZNjz7XnIfr0U0=
 			</data>
 		</dict>
 		<key>Headers/RACEvent.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zmmZCfeZla054XEYCVzEZNXUA1U=
+			dQu7EIGef30WA6R9P9jeiFqt444=
 			</data>
 			<key>hash2</key>
 			<data>
-			bo5b8QokWqAaOd9PdWsb2r3a4xPdOeQjBiHi0Cxw0C4=
+			JkyFNDryczrR+pKADipQeA12xuorDobXZfgxLaozkxI=
 			</data>
 		</dict>
 		<key>Headers/RACGroupedSignal.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5bgQ1+OySjbmHSAL5n4YnM8qzUo=
+			svItIguvlRaPuslcjhRnx2VVh10=
 			</data>
 			<key>hash2</key>
 			<data>
-			dYEXYR+iavyPW4jtld+hUk7GHdH5VRDfsXhZvDDY/bM=
+			xc6IU7Oijn0FtaajHqlslV4qZZigPMMhroaWaOTGfDU=
 			</data>
 		</dict>
 		<key>Headers/RACImmediateScheduler.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XLLx/SVmCjl7bHzb/8xOn0XFB0M=
+			dzAjvTbBUdMf36kH2uMJahdxKqs=
 			</data>
 			<key>hash2</key>
 			<data>
-			M1bSnHXkY0hvA4+IZlAYs9Y3+4JstN6ATQnsKVRylsk=
+			mzVNSapfYAoVz9z9ROcYo04hno+m7wrZfjkC0jU/bAo=
 			</data>
 		</dict>
 		<key>Headers/RACKVOChannel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hreWd9kllDKlx6BM/zaypepcFq8=
+			/d55sF3Qwy4amj27utoO4ZXRH20=
 			</data>
 			<key>hash2</key>
 			<data>
-			2t5sdbyskwsaVbYGY1JnqnjsmCA7Bak5ZOOc7ZfUqNA=
+			Pr7+pZQfVcJx1K5PIaoar8PoVPtBmsh+KOjpyQHhF8Y=
 			</data>
 		</dict>
 		<key>Headers/RACKVOTrampoline.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xBX38QKEeZW+6kF0SMhL3JLIr2U=
+			Q4d+vT/PXnW61g849ldXCknBa18=
 			</data>
 			<key>hash2</key>
 			<data>
-			ljh4TraklRpmUhOM9tuUPA+EBOKhpNQv/8F1nxqSrJQ=
+			wRQ6CcU1XtLi6hmQJreSOiCH0h0VejUw+hD1wAdqVA8=
 			</data>
 		</dict>
 		<key>Headers/RACMulticastConnection.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QzweZuNV6GowJwSFqc72JMYDtzc=
+			9OuO/J98Kk+VcNDm8ebd2QgBWww=
 			</data>
 			<key>hash2</key>
 			<data>
-			4jGVyBzfNIb45wGm1w5zewAMow7k8iKAkHyBsGcEVOs=
+			d8++K2X3kf3jeAiDYs2JsdGoUscDkmrfpYardOaT+Q8=
 			</data>
 		</dict>
 		<key>Headers/RACObjCRuntime.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aL6u088T68aYIJWPHoCr1YjkmFk=
+			8gK9VdcP1RIHCI1vQD+iHluyl4U=
 			</data>
 			<key>hash2</key>
 			<data>
-			FwI9rRiGytzDczNSOJTjXX8L1T2aMYH5LN4v3HbfLgg=
+			o5OpAHOMwHDkiYcXW39U184t1hojIjwoTKf/tjsW0Fo=
 			</data>
 		</dict>
 		<key>Headers/RACPassthroughSubscriber.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tyAZ08qiACeO+wrpu61vpdN2nV0=
+			dlcf7LycROBdtFFDVX5g1w8hBqo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ykwaw0fcwiLAovP0ttzuK0gLGyN54Cy1APWD56XGjOs=
+			Frqg6UGqDRruNoj/0atDbihewn1r812y9dZFxyL+T0E=
 			</data>
 		</dict>
 		<key>Headers/RACQueueScheduler+Subclass.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/BeLUrNJiFz7DtPDBXhUIItaDSQ=
+			1Akjw1Q+J2asLOMWh3CaQpuyJXo=
 			</data>
 			<key>hash2</key>
 			<data>
-			YDTODnxJjAZ7yIYvGwvxhyJU6pHweXOFrMjiSjPTe8c=
+			z4q7ysbBKvh42Lj8p/1uUar9GFhQgT6a68ps7NQGsu4=
 			</data>
 		</dict>
 		<key>Headers/RACQueueScheduler.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			shFhzHRwB8ks+eOGQGAMRMYKB74=
+			ybefbImqr+a9Oa2OsBAEbYe85iY=
 			</data>
 			<key>hash2</key>
 			<data>
-			FCxe3fMRh2HtCYsw6VK1jUFv7qgSXh6a1HK+Cux1T3A=
+			URqFV6A/awzOHCQF/xHFWi2x0ZkUheGdm7FpVhShEi0=
 			</data>
 		</dict>
 		<key>Headers/RACReplaySubject.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/OfcpRfowYd3igIPCMnW0KyBW+4=
+			1YBOUFGIjagMUf19/cs/XG7u0qY=
 			</data>
 			<key>hash2</key>
 			<data>
-			O1HSUttuQk+LpTS22j1q7c1Vjt2G8f2rHPB58YUJ7wE=
+			Waj0/decJF0A/nMusTG396doU4X7aeN6quvJUQoajWw=
 			</data>
 		</dict>
 		<key>Headers/RACReturnSignal.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nNLv4vSSyagvRWQMWGzn+p76/i0=
+			lhC1U7OTEoTSdl1I9TPvo8G9p8w=
 			</data>
 			<key>hash2</key>
 			<data>
-			hiVt0PiC4MMC9RopAU7GH+prs5OZ+x4Q9XkhCcDhaKs=
+			9tAb2il4KjxSztWgpx3FyJidqvGPnn8t8QoN1uW6WJU=
 			</data>
 		</dict>
 		<key>Headers/RACScheduler.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qdgvC47+EhHNk//yDLc5815/Irc=
+			ubn8jv8ZcAPqBLAU6XkgTlNni9s=
 			</data>
 			<key>hash2</key>
 			<data>
-			s1LBu/B605EDYl2cIcpW5Q5fyDvDHbV27Gf6P60CF1o=
+			dbxStUalskkWqjI/Kbiu5aQys2c08TityWcJORTjNAE=
 			</data>
 		</dict>
 		<key>Headers/RACScopedDisposable.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CGYHwD+qfeYd/PysLpeQ4vgdLkE=
+			Yc5oRfTqHkE6hDgqo42/lSlMI3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			uk85ze22Y0UVTiMs9SDiwIEuLgj3gABr2axShCBixGA=
+			yeSGirBl6peJuGgpc/9tkcxBHZ8YxPTpvW3OIX9inKg=
 			</data>
 		</dict>
 		<key>Headers/RACSequence.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u94EEiqZ8XnbWFGGhRBtsx6FHoA=
+			ZRHtrho/R9TMBJo9RZB7nU2FMks=
 			</data>
 			<key>hash2</key>
 			<data>
-			JdrjAX6BRo+jXPNLJ36ZTOVjfzt2A7IGHCItf1lUN5I=
+			ZrAQhioheaW0yTwKUNuQ6JKQiTI+JByFI6ZMIw3zO+U=
 			</data>
 		</dict>
 		<key>Headers/RACSerialDisposable.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SH0gCIrW/pyr/SrGq1NpIIOZWcw=
+			NzTqALsFTCgOz2ku7NzXFWmiT90=
 			</data>
 			<key>hash2</key>
 			<data>
-			4m10iLgti3lyYxWHKABBqy8DnZoyaexeFZRvMz/ZePk=
+			Tt86NFPU24UzVpM0x2VQhFsANOB+Srtmohakx+Quegw=
 			</data>
 		</dict>
 		<key>Headers/RACSignal+Operations.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EAXfRf9qCPzM9g8XOvKtz+fWb5c=
+			/pYIaU6MgM3+dJNkU3aFmP7bJ4A=
 			</data>
 			<key>hash2</key>
 			<data>
-			4wZjZKBmugHDQ/G9QDGs67+EAGgF6LPM9iLZynL+rWM=
+			jIzI3gzqwDbKf8TGaX+eRIY98RL9WZJMyPbmeVU3sAM=
 			</data>
 		</dict>
 		<key>Headers/RACSignal.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KIN/8aQ7ul/Y92E0II7viSyxuCw=
+			iiLnOpURKQ/1gUVOIAv/tp2EX64=
 			</data>
 			<key>hash2</key>
 			<data>
-			8VLu6UxuQTjiBmNcw23FgA7iDcCu4d8VZ8U5qXYv6u4=
+			S/W1OJT9BMscdOhLbYT2/fyeEFDyHv8OaA77mWqDovs=
 			</data>
 		</dict>
 		<key>Headers/RACSignalSequence.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LMLEXwAZ1k8matwPRHuLt+wGEjI=
+			U11NIsQo3bmyVdS5cQTpTs5ojMU=
 			</data>
 			<key>hash2</key>
 			<data>
-			vzxdptL2rpqHv6r2zS/+e0gvFlesfzxlZmoMLLIGUFo=
+			3taEOiuHFhEklZ82lL12AJ5ro68XbSYkN1A2ONb2oiA=
 			</data>
 		</dict>
 		<key>Headers/RACStream.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			siFhIiitTdP/2oNA2FiW722weug=
+			LS5rFfgIUePh3LBtBfEoYDSweCc=
 			</data>
 			<key>hash2</key>
 			<data>
-			mMMa/TfPsq7Cl2qd1pl/dtCommqiUp9uD1eYE2lI2Q4=
+			Ea6cxLFPIPzzshE5TZCjGTM34EKAd8XLklz6jgSLZDA=
 			</data>
 		</dict>
 		<key>Headers/RACStringSequence.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			irWqbO3Yshm8/gXtSRpzdq/iAmU=
+			AUDZVA1/cCrzQsmtNWNlIUbyTX0=
 			</data>
 			<key>hash2</key>
 			<data>
-			L15vLMrU3cUOKVmDghIE7aIdDGId6ZAmrEEzfYptO80=
+			ULdBhlFpkHt4sTg12+iX9mctU0JnTZU419/U4lFuiRc=
 			</data>
 		</dict>
 		<key>Headers/RACSubject.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gAMO0I9TpT+4aF7Sr9IryILfJk0=
+			Q2Q6h9ZfNybFdHJRxu5CnDL0Aqc=
 			</data>
 			<key>hash2</key>
 			<data>
-			QykK7ZBOrQEgMakzUdjiBuUgTjVi/GfsAsJQZuWHgss=
+			baza+8aL3PyGcc9tkNfiIvdoi1DjArnyuawX0QarfE0=
 			</data>
 		</dict>
 		<key>Headers/RACSubscriber.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XF4TsOmsg7xN5IG0d+TczHAs864=
+			JIr/SlwNpygzx7sR+9ssGBvdfzI=
 			</data>
 			<key>hash2</key>
 			<data>
-			yttou0fmo/GlUvLr6fzook0WPbRNpJCNZpVFNolRdp0=
+			B/MtnjC/huKfP8hAVgIkFa4CMeYf8TD45bHvTksBmrI=
 			</data>
 		</dict>
 		<key>Headers/RACSubscriptingAssignmentTrampoline.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z3pTnqovl/d3Zcmrkp9UkzzGLCs=
+			rvrbSynnWQS6YZq3aSm1wU+wgPg=
 			</data>
 			<key>hash2</key>
 			<data>
-			WQ5/ugXE2CI5D2QY96qs8I3Bb8XUJZygtJw2Ihb8ci4=
+			0zoPCpnRUwNqOBNijFy+yqll58KIxrJsWTgfoUoVkYg=
 			</data>
 		</dict>
 		<key>Headers/RACSubscriptionScheduler.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sMZCAT70+1F8Z/Pz6sSx0By33J4=
+			sXCfNjHonGHXr41WHYTMPYCWn2A=
 			</data>
 			<key>hash2</key>
 			<data>
-			/wElZ2Qhd11i1KCN8g0i530sHkdBCy5g9v0C7fP2jrE=
+			Je/WdQviWSLBJ3lFqvmbVwpQ+If4UW1aFItls7D8Fs4=
 			</data>
 		</dict>
 		<key>Headers/RACTargetQueueScheduler.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			O8tuMCn8XgqLAp1vl7b8VvXB6to=
+			cwV6f95RcM/826QXM2UeF6oaECA=
 			</data>
 			<key>hash2</key>
 			<data>
-			JM8gcG3Vfn6gbg/nb8HyZ7fh8proFVm9SKV1uFGfhNw=
+			XKPfJBPHRjf+Z0MiLDxTiTOsfl0wrvJWCTprDGUPn0Y=
 			</data>
 		</dict>
 		<key>Headers/RACTestScheduler.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3p6OsPDND7zp+ay+pRC3Gtfu9FE=
+			I7gOChaXCpK9dNV+XTx+wDSLfhA=
 			</data>
 			<key>hash2</key>
 			<data>
-			evVS/pA6JpCmblNhddHxMnLduWHTdocxGUno208Rsxc=
+			NjEKAbsOdrm0p2U7U+BWl/qmv7j3gnibfP3PNmq/4Xc=
 			</data>
 		</dict>
 		<key>Headers/RACTuple.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IhwO+Os7hb/UgWjFZdfseJ/Dy94=
+			/2pILA7EMwSc1XHOjvAT/TIsTwY=
 			</data>
 			<key>hash2</key>
 			<data>
-			0pd85QloCk2CNO0SU3/1fk+nSnzqpAuxaHjGQ2adTCA=
+			uVWo4Xveiv502+Xe636KyUWaacBvKDL2dKq42L95euY=
 			</data>
 		</dict>
 		<key>Headers/RACTupleSequence.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			srlZ1NAWqK9opPF279LQp5wP/6I=
+			rSR3HhVHb6t1SaSQG7mwCyEa+4Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			WSHml1amv5KP2wZwZymNedIIRYADrk2YbUUJ79wDGA4=
+			fZZRphAS62c6lSfkfxwtSwGbkMO2uup1rWwZKvzxlD8=
 			</data>
 		</dict>
 		<key>Headers/RACUnarySequence.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bMAT8OSlQ5HXl/PeaN29enrXAUc=
+			APnemnDSo8a0Q2qhbt9XVsIrxNk=
 			</data>
 			<key>hash2</key>
 			<data>
-			2kpxnNroKqT8iuVVF1zQ33hndLeC0Np/0OjdSuI61L8=
+			IM6iP3VD+ASxsFyX5M/f+SQk4iJxls0ssNPDm8IKBUE=
 			</data>
 		</dict>
 		<key>Headers/RACUnit.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2j3bVZNmmwWhCjLxoqYzSg1EiiQ=
+			DjoVMRiUD4t3XiKjV+KAkgOBr8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			9/WuD7ZTNmGdZsZTBLUCQoWuKY2hlDwZhLos5yt4/Gs=
+			cOWbqwRQiuGs9XHkfpA8VaxD9M+/JOTK+3OfT/plm14=
 			</data>
 		</dict>
 		<key>Headers/RACValueTransformer.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4AcUQGmmjeDl0CGOCMTSAZc8dMk=
+			9jHONdN3bPt3O7sCEcUcabwieGw=
 			</data>
 			<key>hash2</key>
 			<data>
-			1uFHBl8UjKyY5QWc2GSBSvZ8qfRVh4u+DHfqKM5YawA=
+			xzvB35fho4CZSw3r/z+WgWkZHbwiuPDfKr69x2iaf40=
 			</data>
 		</dict>
 		<key>Headers/RACmetamacros.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			drxt+RVMvPkStJXXDYX7JX20668=
+			F8diSFwlUnvNRfDPT7xBJMy/SAo=
 			</data>
 			<key>hash2</key>
 			<data>
-			j6CSa1qGCpFW/zdgnQvCQqSOl0n7wHk3ylsFyTrWyqc=
+			a/u+Uq3XIf1xFuzzNFzaXGjVDKP4oj6gFS153KOLloY=
 			</data>
 		</dict>
 		<key>Headers/ReactiveCocoa-umbrella.h</key>
@@ -1161,187 +1161,187 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XqNwpYB7FvABTWVWS43DHlE7bVk=
+			2BiMidnYpRaCB1zURbsFNdIIMgk=
 			</data>
 			<key>hash2</key>
 			<data>
-			gjZliV3o9OGmW/ELUhp7aEhtyZL/vlPCYd55kAa3i9g=
+			CxnJ/H0ZI1DLmeYR5Q39lCZLpa/S8qrD4pgDniHmBcQ=
 			</data>
 		</dict>
 		<key>Headers/UIActionSheet+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cALjpJBx+y4rFffqyWDIhaNYM0w=
+			VVlw+6/8bro2bEM4eZk/AT1FDjg=
 			</data>
 			<key>hash2</key>
 			<data>
-			/Qe9cq2c+Ipzu9YjyH8jzhffZn1HmE00ooQmXNCrZ7Q=
+			zCN7uMWehhvZk/1AtDTsFWZTx395lYGD7I5zviXeePk=
 			</data>
 		</dict>
 		<key>Headers/UIAlertView+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A3cmeWut/7BLbEuEuVTfVglrSHc=
+			qCV6zdYQ2kb0OAjmZekwR/ILgIo=
 			</data>
 			<key>hash2</key>
 			<data>
-			mKAZYlhx59FDT69gUuOd4QxAD1PeIMRWN2FZ7iKQ6qQ=
+			ALjUKFUTmG3DJ0VNK7++QiL71Lfq26DOgZEgHulRN5k=
 			</data>
 		</dict>
 		<key>Headers/UIBarButtonItem+RACCommandSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GLLidoxHYvPthMgRMl850voz7zA=
+			kV37kCjsXf+V+cvc6F8L8R1uNos=
 			</data>
 			<key>hash2</key>
 			<data>
-			tLDl9owQrBb53j87mB+d046WoBWA+1NFgO/gf5mN7ZI=
+			xgwO5H387CVJ/kWvts4iKBR79KxJmrnagqIHuV/dwsE=
 			</data>
 		</dict>
 		<key>Headers/UIButton+RACCommandSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2PnlSz+iumjzbdhqrfDX+K8IRqM=
+			oTJY8lMbL5VgrQZyZs1NZuTq4Bk=
 			</data>
 			<key>hash2</key>
 			<data>
-			zwXcUntL71Nt2kOlodg+VUlzYkwJ+Wpi1s9Ns0EawBk=
+			q/xjB4PSLGvGn7OP9XKfuiBtLFtStc2SS0OylTNUaO4=
 			</data>
 		</dict>
 		<key>Headers/UICollectionReusableView+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SVFpoknNZTwS2nZsyQRXVr5bk2E=
+			+ESEpslDtn28/X2nNUPR2qUD3hI=
 			</data>
 			<key>hash2</key>
 			<data>
-			maHX7/DGmKt2V/H8rv7UIi191TTdnEuCBihZIqDuF2g=
+			5vRjIggO3a7O+0d8c2AqFmiTCf6bIEW8hYCkdrQT+js=
 			</data>
 		</dict>
 		<key>Headers/UIControl+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3nq92noPsmKLSIzzO8sQazqFSbo=
+			CjWpHF0+t1BDcnf6NxouJxHuon4=
 			</data>
 			<key>hash2</key>
 			<data>
-			H9VceYrXkT2EBZG9EVjc/7OvKxVxrz5Erbqs0FXPZhU=
+			DK5Q/3vePHAUmdSvm4ZHeQHvQlimH4OQZ+en829p67w=
 			</data>
 		</dict>
 		<key>Headers/UIDatePicker+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YaGNc6RhuYLuNUEHc0Mr/i9lcHU=
+			RikQGoGC0UEsEvlPIzqDgU5f7N4=
 			</data>
 			<key>hash2</key>
 			<data>
-			TuTE3TFoqS8I3ux17/TnjM8B1+v9wbI6asVOPUXzk+0=
+			AUDloX8nEy2nQqLdRRWxnRjn4WDNJDAuv1u+Adppzm8=
 			</data>
 		</dict>
 		<key>Headers/UIGestureRecognizer+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pYrx/fYl1T/H9DtxyOd4e9NTtf4=
+			A28ARfhH9yp/Q10n7YYTksEVa7E=
 			</data>
 			<key>hash2</key>
 			<data>
-			WEPGyP8ZE29ORo/SzQJHUNPNT/SiLSDKA0MEvfwfmnM=
+			zkSnVnokTMzGt+hHxDDunpHNqcdvrTEGCUmJOMLgOLQ=
 			</data>
 		</dict>
 		<key>Headers/UIRefreshControl+RACCommandSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W8GxUVrdtq5ymet7cALnYFrsuhk=
+			n0ckjyocHPpQs0KjPaM1RiORDSE=
 			</data>
 			<key>hash2</key>
 			<data>
-			4ugCqCYe/tVre2IzOwMrj9RwbHE0kDEOdhZRnMWrsuU=
+			/D7PpPnb328FJejVn56XkZYzqq1pV7hJApjL1dq5hsI=
 			</data>
 		</dict>
 		<key>Headers/UISegmentedControl+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/9tiohzndYbOos7H24f7K/DTr7s=
+			J5EF9VFpkdJ5LRcFyRclP8lZOeE=
 			</data>
 			<key>hash2</key>
 			<data>
-			ywWhpuX2xjja1hCBuWU4dbg8QEaNE9igi7M1o2gDw3k=
+			d7GLCuuTqcINlc0bvl+l8NllyY76jydGoM0ONIPDst8=
 			</data>
 		</dict>
 		<key>Headers/UISlider+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XrlJCDf5xVNlTWVwjFRR9IoADDg=
+			N/1Gc3uUew7a1u9YLo3lWa9Y3qg=
 			</data>
 			<key>hash2</key>
 			<data>
-			B8IVJWCscv1lPQwxQkJDgDGLTYc6+QBvrFkje8iewm0=
+			fBDrJRgIx7zs76yvUIne9ELLm/Gy0GVqyaZKL6WCa4M=
 			</data>
 		</dict>
 		<key>Headers/UIStepper+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yfwBYme00VlcotecIWGpW5ieaKM=
+			8YowyW591HDTogORmw22RMPR/ZQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			dnIx9WMWYLls1kb6VHHaGQfZRY+pQLphmheCmMqxWnQ=
+			91GsOlYyiBvE5GTVddQ1IkmB1Gefr5oYEKza1KeRMuk=
 			</data>
 		</dict>
 		<key>Headers/UISwitch+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oR3qRCSG0Ah6gIWVcvQ/BnYVx9U=
+			lUz+Ww2t0O9HxKqXdXr5zXCC6sg=
 			</data>
 			<key>hash2</key>
 			<data>
-			SqB8IVY3IAvSU8PbDVKxV6qcjcFkf9tvYiAb2EOd3O4=
+			STwUJNCZvFFgZVc+P+CR0yEqRW11baaHro3bzGFmqwY=
 			</data>
 		</dict>
 		<key>Headers/UITableViewCell+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B8iN/JaLgK6NlixXAz4663VOni0=
+			OJsx8TJu6+toPJIQJvVpaGTut6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			YE8lCQLkUhm3E1+Trx+Wb7FPETGdLUwNxpq0XiZV8Dc=
+			mTtN1CWja4Fx7HnW5w+7ZlxEy/+PWjvhKOUFaVtdgOs=
 			</data>
 		</dict>
 		<key>Headers/UITextField+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C/Q3LPYiiMCCpOJ9pmVGJPwThGk=
+			4onGN28gVUGR/v+oNIqtvjPCtfY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZACzaaV3AK+NEiZoGBJ66SN9oZdatWxu0KJ6hBv7+eI=
+			M0g4QAz7sSQw7EtIEa+LY3k6300Fr0dHyNaF+4uKq9Q=
 			</data>
 		</dict>
 		<key>Headers/UITextView+RACSignalSupport.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Sku1ospinCwspdsd0KfGuorh17A=
+			KlUYcf7eKQX30NP+H9V6ShX2AHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			HdMT7xsr3Doc/r4FCQL6wYonOh5e9baFSt6xh9+Mr9Y=
+			ou4meypfHJC6mh0p5A0o925uvhiSCEt7yve2cW/9zIc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1359,66 +1359,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			u/tG/qsMKNmTa09rYFIcEKafmqs=
+			1kt4MHYR7yHe/2WHNxWuaHSdb2c=
 			</data>
 			<key>hash2</key>
 			<data>
-			9V7NCY0sHdCHhL6Okh0SZcCWTFvO+TXJEl8u1QInhNI=
+			Mc4IwzJ+y4F1QKcfBoFYVS5+XNMtg5JyEPbQShfzPu0=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RACMulticastConnection+Private.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zmupQQ/UanoEtdyG7AaIjDwTim8=
+			a71Cty2s1XBwP9F0DKELFnliMMA=
 			</data>
 			<key>hash2</key>
 			<data>
-			xVplT0DcJB3ixrmZcEW68JunA1bIEzjKSX3Ifj0EQ7k=
+			+awGKtUNLcoi3I/X3WscOHzcOtGPzMqOqSXrLQzL4Us=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RACScheduler+Private.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ShC8si6lwlrLJbMg4tLBgQ6hdSk=
+			hbt1NnY/xfJJBzQoBE6vo0J/KIw=
 			</data>
 			<key>hash2</key>
 			<data>
-			/fGtWbnw4OfphigxsriMN9HuPWIQC0piBR68JscbdqE=
+			SIuv8YNarDxOmUfPCcyyI0cv5KWP6Ve+SXxGSF+MBUQ=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RACStream+Private.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1UxvwNuHK4+Ckg3xSvcFcraMuaI=
+			vwbz+5Aa0cbM/G/wy3pMloIMCVM=
 			</data>
 			<key>hash2</key>
 			<data>
-			sdhWedTpcq0QY6hTdbO3PVm6BICOllIzWR7lF909CkY=
+			tlji8qm2mfa9uv4sVXtpzKjYkigjkMuOmaGrT8resBQ=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RACSubscriber+Private.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7uFIk2FWhYtigpaEuJq+avzWuZs=
+			cpir5uZ3oOKSXiwJGiXm+l2jlgc=
 			</data>
 			<key>hash2</key>
 			<data>
-			eInNvNEwRplFfdUsHByQnqiXVIzmjF8xPur7bAs2z2A=
+			4TM/DN4mWJMQrA5g/fzQ0pOjwamnJ4avfYcOm15sRyo=
 			</data>
 		</dict>
 		<key>PrivateHeaders/UIControl+RACSignalSupportPrivate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wez+wlWT0MgK2p1Wmy+0qJNXoUs=
+			zpmV7Fq41IBIcQaX0opN4SC6Dqs=
 			</data>
 			<key>hash2</key>
 			<data>
-			izWnVC+5yGc6BVEWUrgSrHRnU+xIfbLLZRtvW5HGwRk=
+			/G7akD+KQz/d5RApq3xqDxToNhCS9Swdl4Ju8SotEKI=
 			</data>
 		</dict>
 	</dict>

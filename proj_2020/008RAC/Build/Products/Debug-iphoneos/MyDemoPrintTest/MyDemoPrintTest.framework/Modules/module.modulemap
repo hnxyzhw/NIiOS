@@ -1,0 +1,6 @@
+framework module MyDemoPrintTest {
+  umbrella header "MyDemoPrintTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

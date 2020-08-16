@@ -1,43 +1,50 @@
 PODS:
-  - AFNetworking (2.7.0):
-    - AFNetworking/NSURLConnection (= 2.7.0)
-    - AFNetworking/NSURLSession (= 2.7.0)
-    - AFNetworking/Reachability (= 2.7.0)
-    - AFNetworking/Security (= 2.7.0)
-    - AFNetworking/Serialization (= 2.7.0)
-    - AFNetworking/UIKit (= 2.7.0)
-  - AFNetworking/NSURLConnection (2.7.0):
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
     - AFNetworking/Reachability
     - AFNetworking/Security
     - AFNetworking/Serialization
-  - AFNetworking/NSURLSession (2.7.0):
-    - AFNetworking/Reachability
-    - AFNetworking/Security
-    - AFNetworking/Serialization
-  - AFNetworking/Reachability (2.7.0)
-  - AFNetworking/Security (2.7.0)
-  - AFNetworking/Serialization (2.7.0)
-  - AFNetworking/UIKit (2.7.0):
-    - AFNetworking/NSURLConnection
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
   - Masonry (1.1.0)
   - MBProgressHUD (1.0.0)
   - "MBProgressHUD+Add (0.0.2)":
     - MBProgressHUD (~> 1.0.0)
   - MJExtension (3.2.2)
-  - NITools (0.1.2):
-    - AFNetworking (~> 2.3)
+  - MyDemoPrintTest (0.1.0)
+  - NITools (0.2.0):
+    - AFNetworking
     - Masonry
-    - NITools/NICategory (= 0.1.2)
-    - NITools/NIView (= 0.1.2)
+    - NITools/NICategory (= 0.2.0)
+    - NITools/NIIPTool (= 0.2.0)
+    - NITools/NIMacro (= 0.2.0)
+    - NITools/NIView (= 0.2.0)
     - YYText
-  - NITools/NICategory (0.1.2):
-    - AFNetworking (~> 2.3)
+  - NITools/NICategory (0.2.0):
+    - AFNetworking
     - Masonry
     - YYText
-  - NITools/NIView (0.1.2):
-    - AFNetworking (~> 2.3)
+  - NITools/NIIPTool (0.2.0):
+    - AFNetworking
     - Masonry
+    - YYText
+  - NITools/NIMacro (0.2.0):
+    - AFNetworking
+    - Masonry
+    - YYText
+  - NITools/NIView (0.2.0):
+    - AFNetworking
+    - Masonry
+    - NITools/NICategory
+    - NITools/NIMacro
     - YYText
   - ReactiveCocoa (2.1.8):
     - ReactiveCocoa/Core (= 2.1.8)
@@ -51,10 +58,13 @@ DEPENDENCIES:
   - Masonry
   - "MBProgressHUD+Add"
   - MJExtension
-  - NITools (~> 0.1.2)
+  - MyDemoPrintTest
+  - NITools (~> 0.2.0)
   - ReactiveCocoa (~> 2.1.8)
 
 SPEC REPOS:
+  https://gitee.com/KAERBluetooth/MyDemoPrintTest.git:
+    - MyDemoPrintTest
   https://github.com/CocoaPods/Specs.git:
     - AFNetworking
     - Masonry
@@ -66,15 +76,16 @@ SPEC REPOS:
     - YYText
 
 SPEC CHECKSUMS:
-  AFNetworking: c61dc537d7f1932a7d941135ead24c99b9bf96fa
-  Masonry: 54f6e002413212c5aaed09efe8e2da945426dc49
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MBProgressHUD: 021f08731ff48f4e1727f5e4f7bd1d13b40491b3
   "MBProgressHUD+Add": 541d8ffcf2f091af8acf7522c010cf44ee464fba
-  MJExtension: 6b575e14386f449f89709d1e6f5109baa2a52d22
-  NITools: ccb64fba43be1cafaa5a755a1d6a516836ae37a9
-  ReactiveCocoa: ccc45041c6e9a30a22c010761eaea599b510e360
+  MJExtension: d9b9c74cbdeb724c1e9ecbb157b318276e62e876
+  MyDemoPrintTest: 6e1a951432beec3ebd232312b5b5b0a384e98416
+  NITools: 5bee48e32a918613640d030da77c32f17606aab6
+  ReactiveCocoa: f89f2e009a87951b50321bf9feb958823fcc617e
   YYText: 23b00e89de6f7aae8a819627a12d4ba96889ece5
 
-PODFILE CHECKSUM: 51fe64edd9f5cc019869a0bd299cb1894f7ba585
+PODFILE CHECKSUM: 457d649d23e0a9f8377bb8c92a97ffbfc8e581de
 
 COCOAPODS: 1.9.3
