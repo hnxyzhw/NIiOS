@@ -7,6 +7,12 @@
 ---
 ##### (六) docker-gitlab-Cocoapods私有组件需求(20200818)
 
+-   iMac docker里导出指定容器tag-制作镜像 ->MacBookPro导入上面导出镜像->添加容器选择上一步导入的镜像
+
+![iOS组件化基础](./Res/20200817Cocoapod公私有库/iMacDocker.png)
+
+-    本项目为iMac办公机上安装docker,docker里安装gitlab启动 git版本控制；-by:nixs 2020年08月18日15:07:09
+
 ![iOS组件化基础](./Res/20200817Cocoapod公私有库/Cocoapods.png)
 
 ##### (五) iOS组件化基础(20200817)
