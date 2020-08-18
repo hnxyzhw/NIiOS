@@ -5,6 +5,10 @@
 
 >ii、后续会陆续贴出完整的复习笔记,有需要联系作者；
 ---
+##### (六) docker-gitlab-Cocoapods私有组件需求(20200818)
+
+![iOS组件化基础](./Res/20200817Cocoapod公私有库/Cocoapods.png)
+
 ##### (五) iOS组件化基础(20200817)
 
 ![iOS组件化基础](./Res/20200817Cocoapod公私有库/20200817-iOS组件化.png)
